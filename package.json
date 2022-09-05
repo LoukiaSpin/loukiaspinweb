@@ -1,0 +1,20 @@
+{
+  "name": "loukiaspinweb",
+  "version": "1.0.0",
+  "description": "Personal website of Loukia Spineli",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoukiaSpin/loukiaspinweb.git"
+  },
+  "author": "Loukia Spineli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoukiaSpin/loukiaspinweb/issues"
+  },
+  "homepage": "https://github.com/LoukiaSpin/loukiaspinweb#readme"
+}
