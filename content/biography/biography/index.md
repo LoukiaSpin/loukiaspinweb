@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2022-09-06T00:00:00Z'
 external_link: ''
 image:
   caption: '' # Photo by blah blah
