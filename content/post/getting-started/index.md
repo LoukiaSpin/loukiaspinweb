@@ -2,7 +2,6 @@
 title: "Welcome to Wowchemy, the website builder for Hugo"
 categories:
 - Demo
-- 教程
 date: '2020-12-13T00:00:00Z'
 draft: no
 featured: no
@@ -24,7 +23,6 @@ tags:
 - 开源
 authors:
 - admin
-- 吳恩達
 ---
 
 ## Overview
