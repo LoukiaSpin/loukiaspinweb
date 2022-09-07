@@ -29,8 +29,8 @@ content:
   #phone: 
   address:
     street: Carl-Neuberg Straße 1
-    postcode: '30625'
     city: Hannover
+    postcode: '30625'
     country: Germany
     country_code: DE
   coordinates:
