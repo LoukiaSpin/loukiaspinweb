@@ -20,7 +20,6 @@ summary: "Welcome \U0001F44B We know that first impressions are important, so we
   everything in no time."
 tags:
 - Academic
-- 开源
 authors:
 - admin
 ---
