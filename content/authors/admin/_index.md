@@ -44,6 +44,6 @@ superuser: yes
 bio: My research interests include developing and evaluating methods for pairwise and network meta-analysis using aggregate data, and working on the R package [rnmamod](https://cran.r-project.org/web/packages/rnmamod/index.html).
 ---
 
-Text
+This website hosts current and past projects on network meta-analysis that I led as principal investigator, and related publications and conference presentations. You can also read my [research journey](/biography/biography/), which is still ongoing, and find information on    
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
