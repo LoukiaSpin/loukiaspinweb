@@ -4,5 +4,5 @@ header:
   caption: ""
   image: ""
 title: Resumé
-view: 2
+view: 3
 ---
