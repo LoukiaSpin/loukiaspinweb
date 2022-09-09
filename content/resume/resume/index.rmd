@@ -1,14 +1,10 @@
 ---
-title: "Curriculum vitae"
-date: ""
+title: 'Curriculum vitae'
+date: '2022-09-06T00:00:00Z'
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## PERSONAL DATA
+### PERSONAL DATA
 
 |                      |                                                   |
 |:---------------------|:--------------------------------------------------|
@@ -20,8 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |Email                 | Spineli.Loukia@mh-hannover.de                     |
 |ORCID iD              | https://orcid.org/0000-0001-9515-582X             |
 
-
-## EDUCATION
+### EDUCATION
 
 |                   |                                                                                  |
 |:------------------|:---------------------------------------------------------------------------------|
@@ -41,14 +36,15 @@ knitr::opts_chunk$set(echo = TRUE)
 |                   | Department of Statistics and Insurance Science                                   | 
 |                   | University of Piraeus, Piraeus, Greecε                                           |
 
-## RESEARCH / PROFESSIONAL EXPERIENCE
+### RESEARCH / PROFESSIONAL EXPERIENCE
 
 |                   |                                                                                  |
 |:------------------|:---------------------------------------------------------------------------------|
 |January 2022 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
 |present            | Midwifery Research and Education Unit                                            |
 |                   | Hannover Medical School, Hannover, Germany                                       |
-|                   | - Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions |                                                                   |January 2020 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
+|                   | - Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions | 
+|January 2020 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
 |December 2021      | Midwifery Research and Education Unit                                            |
 |                   | Hannover Medical School, Hannover, Germany                                       |
 |                   | - Consolidate and advance the methodology to address missing participant outcome data in conventional and network meta-analysis of healthcare interventions |  
@@ -79,9 +75,9 @@ knitr::opts_chunk$set(echo = TRUE)
 |November 2013      | Department of Hygiene and Epidemiology, School of Medicine                       |
 |                   | University of Ioannina, Ioannina, Greece                                         |
 |                   | - Research in network meta-analysis with a focus on studies with missing outcome data |
-|                   | Teaching biostatistics to medical students                                       |
+|                   | - Teaching biostatistics to medical students                                     |
 
-## RESEARCH GRANT PARTICIPATION
+### RESEARCH GRANT PARTICIPATION
 
 |                   |                                                                                  |
 |:------------------|:---------------------------------------------------------------------------------|
@@ -110,25 +106,82 @@ knitr::opts_chunk$set(echo = TRUE)
 |                   | *Objective*: To establish and enrich the emerging network meta-analysis by tackling specific controversial issues and consolidating the methodology |
 |                   | (FP7-IDEAS-ERC Starting grant 260559)                                            |
 
-## AWARDS / SCHOLARSHIPS
+### AWARDS / SCHOLARSHIPS
 
-|                   |                                                                                  |
-|:------------------|:---------------------------------------------------------------------------------|
-|June 2021          | **Individual research funding** at 292.450 € for three years                     |
-|                   | German Research Foundation                                                       |
-|                   | (Deutsche Forschungsgemeinschaft [462260733](https://gepris.dfg.de/gepris/projekt/462260733?language=en); SP 1664/2-1)  |
-|October 2019       | **Individual research funding** at 185.300 € for two years                       |
-|                   | German Research Foundation                                                       |
-|                   | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-3)  |
-|January 2017       | **Individual research funding** at 173.400 € for two years                       |
-|                   | German Research Foundation                                                       |
-|                   | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-1)  |
-|September 2010     | **Scholarship** at 2.000 € for two years for the Academic Year 2009-2010         |
-|                   | Postgraduate Program in Applied Statistics                                       |
-|                   | Department of Statistics and Insurance Science                                   | 
-|                   | University of Piraeus, Piraeus, Greecε                                           |
+|                     |                                                                                  |
+|:--------------------|:---------------------------------------------------------------------------------|
+|June 2021            | **Individual research funding** at 292.450 € for three years                     |
+|                     | German Research Foundation                                                       |
+|                     | (Deutsche Forschungsgemeinschaft [462260733](https://gepris.dfg.de/gepris/projekt/462260733?language=en); SP 1664/2-1)  |
+|October 2019         | **Individual research funding** at 185.300 € for two years                       |
+|                     | German Research Foundation                                                       |
+|                     | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-3)  |
+|January 2017         | **Individual research funding** at 173.400 € for two years                       |
+|                     | German Research Foundation                                                       |
+|                     | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-1)  |
+|September 2010       | **Scholarship** at 2.000 € for two years for the Academic Year 2009-2010         |
+|                     | Postgraduate Program in Applied Statistics                                       |
+|                     | Department of Statistics and Insurance Science                                   | 
+|                     | University of Piraeus, Piraeus, Greecε                                           |
 
-## MEMBERSHIPS
+### MEMBERSHIPS
 
-|                   |                                                                                  |
-|:------------------|:---------------------------------------------------------------------------------|
+- <font size="4"> International Society of Clinical Biostatisticians (since 2013) </font>       
+- <font size="4"> Author of the Cochrane Incontinence Group (since 2019) </font>
+
+### JOURNAL EDITORIAL BOARD
+
+- <font size="4"> Journal of Dentistry (since 2021) </font> 
+
+### JOURNAL PEER REVIEWING
+
+<font size="4"> Invitations to review mostly submitted systematic reviews with conventional or network meta-analysis (Journals in alphabetical order): </font> 
+
+- <font size="4"> American Journal of Orthodontics and Dentofacial Orthopedics </font>
+- <font size="4"> BMC Medical Research Methodology </font>
+- <font size="4"> BMJ Open </font>
+- <font size="4"> The BMJ </font>
+- <font size="4"> CNS Drugs </font>
+- <font size="4"> European Journal of Obstetrics & Gynecology and Reproductive Biology </font>
+- <font size="4"> Journal of the American Society of Hypertension </font>
+- <font size="4"> Journal of Clinical Epidemiology </font>
+- <font size="4"> Journal of Dentistry </font>
+- <font size="4"> Journal of Mental Health </font>
+- <font size="4"> Medicine </font>
+- <font size="4"> Methods of Information in Medicine </font>
+- <font size="4"> PLOS One </font>
+- <font size="4"> Research Synthesis Methods </font>
+- <font size="4"> Trials </font>
+
+### GRANTS PEER REVIEWING
+
+|                                    |                                                                            |
+|:-----------------------------------|:---------------------------------------------------------------------------|
+| **Medical Research Council**       | Invitation to review a methodological proposal on evidence synthesis       |
+
+### OTHER SCIENTIFIC ACTIVITIES
+
+|                    |                                                                                  |
+|:-------------------|:---------------------------------------------------------------------------------|
+|September 2019      | **Aktiv in der Lehre: Fortbildung für Lehrende an der MHH (14. Durchgang)**      |
+|December 2020       | Hannover Medical School, Hannover, Germany                                       |
+|February 2019       | **Basisprogramm zur Qualifizierung von Lehrenden der Medizinische Hochschule Hannover** |
+|                    | Hannover Medical School, Hannover, Germany                                       |
+|January 2016 –      | **8th Ina-Pichlmayr-Mentoring an der Medizinische Hochschule Hannover**          |
+|June 2017           | Hannover Medical School, Hannover, Germany                                       |
+
+### LANGUAGES
+
+|                           |                                                   |
+|:--------------------------|:--------------------------------------------------|
+| **Greek**                 | Native speaker                                    |
+| **English**               | Full professional proficiency                     |
+| **German**                | Independent user, good knowledge                  |
+
+### OTHER QUALIFICATION
+
+|                                   |                                                   |
+|:----------------------------------|:--------------------------------------------------|
+| **Office processors**             | Microsoft Office<sup>TM</sup> tools               |
+| **Statistical software**          | RStudio, SPSS                                     |
+| **Code hosting platform**         | GitHub (https://github.com/LoukiaSpin)            | 
