@@ -1,5 +1,5 @@
 ---
-title: 'Contributing presentations to conferences'
+title: 'Contributing presentations'
 date: '2022-09-06T00:00:00Z'
 output: html_document
 ---
