@@ -1,0 +1,134 @@
+---
+title: "Curriculum vitae"
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## PERSONAL DATA
+
+|                      |                                                   |
+|:---------------------|:--------------------------------------------------|
+|Address               | Midwifery Research and Education Unit             |
+|                      | Hannover Medical School                           |
+|                      | Carl-Neuberg Straße 1                             |
+|                      | 30625 Hannover, Germany                           |
+|Telephone             | +49 (0) 511 532 83593                             |
+|Email                 | Spineli.Loukia@mh-hannover.de                     |
+|ORCID iD              | https://orcid.org/0000-0001-9515-582X             |
+
+
+## EDUCATION
+
+|                   |                                                                                  |
+|:------------------|:---------------------------------------------------------------------------------|
+|October 2021       | **Privatdozentin, Venia legendi für Evidenzsynthese im Gesundheitswesen**        |   
+|                   | Department of Obstetrics, Gynecology and Reproductive Medicine                   |         
+|                   | Hannover Medical School, Hannover, Germany                                       | 
+|                   | Antrittsvorlesung (in English): *Network meta-analysis: more than just an evidence synthesis tool* |
+|December 2014      | **PhD in Evidence Synthesis**                                                    |
+|                   | Department of Hygiene and Epidemiology, School of Medicine                       |
+|                   | University of Ioannina, Ioannina, Greece                                         |
+|                   | Thesis (in English): *Studies with missing values in network meta-analysis*      |  
+|September 2010     | **MSc in Applied Statistics with Specialization in Biostatistics and Biometry**  | 
+|                   | Department of Statistics and Insurance Science                                   | 
+|                   | University of Piraeus, Piraeus, Greece                                           |
+|                   | Thesis (in Greek): *Gene expression analysis for the study of the survival time of women with breast cancer* |
+|May 2008           | **BSc in Statistics and Insurance Science**                                      |
+|                   | Department of Statistics and Insurance Science                                   | 
+|                   | University of Piraeus, Piraeus, Greecε                                           |
+
+## RESEARCH / PROFESSIONAL EXPERIENCE
+
+|                   |                                                                                  |
+|:------------------|:---------------------------------------------------------------------------------|
+|January 2022 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
+|present            | Midwifery Research and Education Unit                                            |
+|                   | Hannover Medical School, Hannover, Germany                                       |
+|                   | - Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions |                                                                   |January 2020 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
+|December 2021      | Midwifery Research and Education Unit                                            |
+|                   | Hannover Medical School, Hannover, Germany                                       |
+|                   | - Consolidate and advance the methodology to address missing participant outcome data in conventional and network meta-analysis of healthcare interventions |  
+|March 2019 –       | **Lecturer in Statistics and Principal Investigator in Evidence Synthesis**      |
+|December 2019      | Midwifery Research and Education Unit                                            |
+|                   | Hannover Medical School, Hannover, Germany                                       |
+|                   | - Teaching in the European Master of Science in Midwifery Programme              |
+|                   | - Supervision of Master Students                                                 |
+|                   | - Research on the methodology of systematic reviews with multiple interventions  |
+|March 2017 –       | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
+|February 2019      | Institute for Biostatistics                                                      |
+|                   | Hannover Medical School, Hannover, Germany                                       |
+|                   | - Extensive research on missing (participant) outcome data in network meta-analysis |
+|June 2016 –        | **Systematic Reviewer for Cochrane Response**                                    |
+|June 2017          | - Participation in the development of protocols for systematic reviews           |
+|                   | - Participation in selecting eligible clinical studies and extracting relevant data |
+|                   | - Assessment of the quality of clinical studies using the Cochrane Risk of Bias tool |
+|                   | - Meta-analysis and interpretation of results                                    |
+|February 2014 –    | **Postdoctoral Researcher**                                                      |
+|February 2017      | Institute for Biostatistics                                                      |
+|                   | Hannover Medical School, Hannover, Germany                                       |
+|                   | - Statistical consultation with clinicians, MSc and PhD medical students         |
+|                   | - Teaching meta-analysis to medical students                                     |
+|March 2012         | **Visiting Research Associate**                                                  |
+|                   | Department of Psychiatry, Technical University of Munich                         |
+|                   | University Hospital, Munich, Germany                                             |
+|November 2010      | **Research Associate in Evidence Synthesis**                                     |
+|November 2013      | Department of Hygiene and Epidemiology, School of Medicine                       |
+|                   | University of Ioannina, Ioannina, Greece                                         |
+|                   | - Research in network meta-analysis with a focus on studies with missing outcome data |
+|                   | Teaching biostatistics to medical students                                       |
+
+## RESEARCH GRANT PARTICIPATION
+
+|                   |                                                                                  |
+|:------------------|:---------------------------------------------------------------------------------|
+|January 2022 –     | **TRAnsitivity & Consistency Evaluation in Network Meta-Analysis**               |
+|present            | Principal investigator: Loukia Spineli                                           |
+|                   | *Objective*: Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions |
+|                   | (Deutsche Forschungsgemeinschaft [462260733](https://gepris.dfg.de/gepris/projekt/462260733?language=en); SP 1664/2-1) |
+|January 2020 –     | **NEtwork and conventional meta-analysis with Missing Outcome data**             |
+|December 2021      | Principal investigator: Loukia Spineli                                           |
+|                   | *Objective*: To consolidate and advance the methodology to address missing participant outcome data in conventional and network meta-analysis of healthcare interventions |
+|                   | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-3) |
+|March 2017 –       | **NEtwork meta-analysis with Missing Outcome data**             |
+|February 2019      | Principal investigator: Loukia Spineli                                           |
+|                   | *Objective*: To provide empirical evidence on the reporting and handling of missing outcome data in networks of interventions and a thorough empirical and simulative evaluation of the performance of different methods to handle missing binary outcome data in the context of network meta-analysis |
+|                   | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-1) |
+|February 2014 –    | **Advances in Small Trials dEsign for Regulatory Innovation and eXcellence**     |
+|February 2017      | Principal investigator: Prof. dr. Kit Roes                                       |
+|                   | *Objective*: ASTERIX is specifically designed to optimize methodology for clinical trials in small populations to achieve more reliable and cost-efficient clinical development of treatments for rare diseases |
+|                   | (FP7-HEALTH-2013-INNOVATION-1 603160)                                            |
+|December 2012      | **Missing Outcome data in Psychiatric TrIals & Meta-Analysis**     |
+|November 2013      | Principal investigator:  Prof. Georgia Salanti, PhD                              |
+|                   | *Objective*: To develop novel statistical methodology to evaluate and address bias associated with missing outcome data in the systematic reviews and meta-analyses in psychiatry |
+|                   | (Hellenic General Secretariat for Research and Technology, ARISTEIA)             |
+|November 2010      | **Integrating the Multiple Meta-Analysis**     |
+|December 2012      | Principal investigator:  Prof. Georgia Salanti, PhD                              |
+|                   | *Objective*: To establish and enrich the emerging network meta-analysis by tackling specific controversial issues and consolidating the methodology |
+|                   | (FP7-IDEAS-ERC Starting grant 260559)                                            |
+
+## AWARDS / SCHOLARSHIPS
+
+|                   |                                                                                  |
+|:------------------|:---------------------------------------------------------------------------------|
+|June 2021          | **Individual research funding** at 292.450 € for three years                     |
+|                   | German Research Foundation                                                       |
+|                   | (Deutsche Forschungsgemeinschaft [462260733](https://gepris.dfg.de/gepris/projekt/462260733?language=en); SP 1664/2-1)  |
+|October 2019       | **Individual research funding** at 185.300 € for two years                       |
+|                   | German Research Foundation                                                       |
+|                   | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-3)  |
+|January 2017       | **Individual research funding** at 173.400 € for two years                       |
+|                   | German Research Foundation                                                       |
+|                   | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-1)  |
+|September 2010     | **Scholarship** at 2.000 € for two years for the Academic Year 2009-2010         |
+|                   | Postgraduate Program in Applied Statistics                                       |
+|                   | Department of Statistics and Insurance Science                                   | 
+|                   | University of Piraeus, Piraeus, Greecε                                           |
+
+## MEMBERSHIPS
+
+|                   |                                                                                  |
+|:------------------|:---------------------------------------------------------------------------------|
