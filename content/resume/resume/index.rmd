@@ -119,7 +119,7 @@ output: html_document
 |January 2017         | **Individual research funding** at 173.400 € for two years                       |
 |                     | German Research Foundation                                                       |
 |                     | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-1)  |
-|September 2010       | **Scholarship** at 2.000 € for two years for the Academic Year 2009-2010         |
+|September 2010       | **Scholarship** at 2.000 € for the Academic Year 2009-2010         |
 |                     | Postgraduate Program in Applied Statistics                                       |
 |                     | Department of Statistics and Insurance Science                                   | 
 |                     | University of Piraeus, Piraeus, Greecε                                           |
