@@ -1,11 +1,14 @@
 ---
 title: 'Publication list'
 date: '2022-09-06T00:00:00Z'
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
 ---
 
 <p><img src="book-g939085abe_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay"></p>
-
 
 ### Original articles
 
@@ -128,7 +131,7 @@ Bertl K, **Spineli LM**, Mohandis K, Stavropoulos A. Root coverage stability: A 
 <font size="4">Pandis N, Fleming PS, **Spineli LM**, Salanti G. Initial orthodontic alignment effectiveness with self-ligating and conventional appliances: a network meta-analysis in practice. *Am J Orthod Dentofacial Orthop* 2014; 145(4 Suppl):S152-63. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24680024/)</font> 
 </div>
 
-## Book chapters
+### Book chapters
 
 <div style="text-align: justify">
 <font size="4">**Spineli LM**. Meta-analysis and handling of missing data. In Pandis N. Biostatistics in Orthodontics. Design, analysis, reporting and synthesis of clinical studies. Zahnmedizinische Kliniken der Universität Bern. 2014. (Updated 2019)</font> 
