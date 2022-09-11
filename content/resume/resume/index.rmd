@@ -1,8 +1,11 @@
 ---
 title: 'Curriculum vitae'
 date: '2022-09-06T00:00:00Z'
-output: html_document
+output: 
+  html_document
 ---
+
+<p><img src="application-g74be984fa_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:5138153 on pixabay"></p>
 
 ### PERSONAL DATA
 
@@ -15,6 +18,8 @@ output: html_document
 |Telephone             | +49 (0) 511 532 83593                             |
 |Email                 | Spineli.Loukia@mh-hannover.de                     |
 |ORCID iD              | https://orcid.org/0000-0001-9515-582X             |
+|Web of Science ID     | [S-9443-2019](https://www.webofscience.com/wos/author/record/S-9443-2019) |
+|Loop profile          | [461987](https://loop.frontiersin.org/people/461987/overview) |
 
 ### EDUCATION
 
@@ -28,7 +33,7 @@ output: html_document
 |                   | Department of Hygiene and Epidemiology, School of Medicine                       |
 |                   | University of Ioannina, Ioannina, Greece                                         |
 |                   | Thesis (in English): *Studies with missing values in network meta-analysis*      |  
-|September 2010     | **MSc in Applied Statistics with Specialization in Biostatistics and Biometry**  | 
+|March 2011         | **MSc in Applied Statistics with Specialization in Biostatistics and Biometry**  | 
 |                   | Department of Statistics and Insurance Science                                   | 
 |                   | University of Piraeus, Piraeus, Greece                                           |
 |                   | Thesis (in Greek): *Gene expression analysis for the study of the survival time of women with breast cancer* |
@@ -110,23 +115,24 @@ output: html_document
 
 |                     |                                                                                  |
 |:--------------------|:---------------------------------------------------------------------------------|
-|June 2021            | **Individual research funding** at 292.450 € for three years                     |
+|June 2021            | **Individual research funding** at 292,450 € for three years                     |
 |                     | German Research Foundation                                                       |
 |                     | (Deutsche Forschungsgemeinschaft [462260733](https://gepris.dfg.de/gepris/projekt/462260733?language=en); SP 1664/2-1)  |
-|October 2019         | **Individual research funding** at 185.300 € for two years                       |
+|October 2019         | **Individual research funding** at 185,300 € for two years                       |
 |                     | German Research Foundation                                                       |
 |                     | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-3)  |
-|January 2017         | **Individual research funding** at 173.400 € for two years                       |
+|January 2017         | **Individual research funding** at 173,400 € for two years                       |
 |                     | German Research Foundation                                                       |
 |                     | (Deutsche Forschungsgemeinschaft [339420617](https://gepris.dfg.de/gepris/projekt/339420617?language=en); SP 1664/1-1)  |
-|September 2010       | **Scholarship** at 2.000 € for the Academic Year 2009-2010         |
+|September 2010       | **Scholarship** at 2,000 € for the Academic Year 2009-2010         |
 |                     | Postgraduate Program in Applied Statistics                                       |
 |                     | Department of Statistics and Insurance Science                                   | 
-|                     | University of Piraeus, Piraeus, Greecε                                           |
+|                     | University of Piraeus, Piraeus, Greece                                           |
 
 ### MEMBERSHIPS
 
-- <font size="4"> International Society of Clinical Biostatisticians (since 2013) </font>       
+- <font size="4"> International Society for Clinical Biostatisticians (since 2013) </font>  
+- <font size="4"> The Cochrane Collaboration (since 2018) </font> 
 - <font size="4"> Author of the Cochrane Incontinence Group (since 2019) </font>
 
 ### JOURNAL EDITORIAL BOARD
@@ -139,25 +145,27 @@ output: html_document
 
 - <font size="4"> American Journal of Orthodontics and Dentofacial Orthopedics </font>
 - <font size="4"> BMC Medical Research Methodology </font>
-- <font size="4"> BMJ Open </font>
 - <font size="4"> The BMJ </font>
+- <font size="4"> BMJ Open </font>
 - <font size="4"> CNS Drugs </font>
 - <font size="4"> European Journal of Obstetrics & Gynecology and Reproductive Biology </font>
+- <font size="4"> International Journal of Epidemiology </font>
 - <font size="4"> Journal of the American Society of Hypertension </font>
 - <font size="4"> Journal of Clinical Epidemiology </font>
 - <font size="4"> Journal of Dentistry </font>
 - <font size="4"> Journal of Mental Health </font>
+- <font size="4"> Journal of Pregnancy </font>
 - <font size="4"> Medicine </font>
 - <font size="4"> Methods of Information in Medicine </font>
+- <font size="4"> Obesity Reviews </font>
 - <font size="4"> PLOS One </font>
 - <font size="4"> Research Synthesis Methods </font>
+- <font size="4"> Scientific Reports Methods </font>
 - <font size="4"> Trials </font>
 
 ### GRANTS PEER REVIEWING
 
-|                                    |                                                                            |
-|:-----------------------------------|:---------------------------------------------------------------------------|
-| **Medical Research Council**       | Invitation to review a methodological proposal on evidence synthesis       |
+- <font size="4"> Medical Research Council </font>
 
 ### OTHER SCIENTIFIC ACTIVITIES
 

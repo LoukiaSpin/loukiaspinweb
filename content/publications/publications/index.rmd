@@ -4,8 +4,83 @@ date: '2022-09-06T00:00:00Z'
 output: html_document
 ---
 
+<p><img src="book-g939085abe_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay"></p>
+
 ### Original articles
 
-1. **Spineli LM**, Papadimitropoulou K, Kalyvas C. Pattern-mixture model in network meta-analysis of binary missing outcome data: one-stage or two-stage approach? *BMC Med Res Methodol* 2021; 21(1):12.
+|       |                                                                                                           |
+|:------|:----------------------------------------------------------------------------------------------------------|
+|1.     | **Spineli LM**. A revised framework to evaluate the consistency assumption globally in a network of interventions. *Med Decis Making* 2022; 42(5):637-648. |
+|2.     | **Spineli LM**, Kalyvas C, Papadimitropoulou K. How robust are findings of pairwise and network meta-analysis in the presence of missing participant outcome data? *BMC Med* 2021; 19(1):323. |
+|3.     | Bialek-Waldmann JK, Domning S, Esser R, Glienke W, Mertens M, Aleksandrova K, Arseniev L, Kumar S, Schneider A, Koenig J, Theobald SJ, Tsay HC, Cornelius ADA, Bonifacius A, Eiz-Vesper B, Figueiredo C, Schaudien D, Talbot SR, Bleich A, **Spineli LM**, von Kaisenberg C, et al. Induced dendritic cells co-expressing GM-CSF/IFN-α/tWT1 priming T and B cells and automated manufacturing to boost GvL. *Mol Ther Methods Clin Dev* 2021; 21:621-641. |
+|4.     | Bertl K, **Spineli LM**, Mohandis K, Stavropoulos A. Root coverage stability: A systematic overview of controlled clinical trials with at least 5 years of follow-up. *Clin Exp Dent Res* 2021; 7(5):692-710. |
+|5.     | Van der Mierden S, **Spineli LM**, Talbot SR, Yiannakou C, Zentrich E, Weegh N, Struve B, Zur Brügge TF, Bleich A, Leenaars CHC. Extracting data from graphs: A case-study on animal research with implications for meta-analyses. *Res Synth Methods* 2021; 12(6):701-710. |
+|6.     | **Spineli LM**, Kalyvas C, Papadimitropoulou K. Quantifying the robustness of primary analysis results: A case study on missing outcome data in pairwise and network meta-analysis. *Res Synth Methods* 2021; 12(4):475-490. |
+|7.     | **Spineli LM**, Papadimitropoulou K, Kalyvas C. Pattern-mixture model in network meta-analysis of binary missing outcome data: one-stage or two-stage approach? *BMC Med Res Methodol* 2021; 21(1):12.  |
+|8.     | **Spineli LM**, Kalyvas C, Papadimitropoulou K. Continuous(ly) missing outcome data in network meta-analysis: a one-stage pattern-mixture model approach. *Stat Methods Med Res* 2021; 30(4):958-975. |
+|9.     | Stavropoulos A, Bertl K, **Spineli LM**, Sculean A, Cortellini P, Tonetti M. Medium and Long-Term Clinical Benefits of Periodontal Regenerative/Reconstructive Procedures in Intrabony Defects: Systematic Review and Network Meta-Analysis of Randomized Controlled Clinical Studies. *J Clin Periodontol* 2021; 48(3):410-430. |
+|10.    | Gómez-Escobar LG, Mora-Ochoa H, Villanueva AV, **Spineli LM**, Sanclemente G, Couban R, García E, Chapman E, Yepes-Nuñez JJ. Effectiveness and adverse event of topical and allergen immunotherapy for atopic dermatitis: a systematic review and network meta-analysis protocol. *Syst Rev* 2020; 9(1):222. |
+|11.     | Schick S, **Spineli LM**, Raio L, Groß MM. First assessed cervical dilatation: is it associated with oxytocin augmentation during labour? a retrospective cohort study in a university hospital in Switzerland. *Midwifery* 2020; 85:102683. |
+|12.     | **Spineli LM**, Kalyvas C. Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. *BMC Med Res Methodol* 2020; 20(1):48. |
+|13.     | Buckley BS, Sanders CD, **Spineli L**, Deng Q, Kwong JS. Conservative interventions for treating functional daytime urinary incontinence in children. *Cochrane Database Syst Rev* 2019; 9:CD012367. |
+|14.     | **Spineli LM**, Kalyvas C, Pateras K. Participants’ outcomes gone missing within a network of interventions: Bayesian modeling strategies. *Stat Med* 2019; 38(20):3861-3879. |
+|15.     | **Spineli LM**. An empirical comparison of Bayesian modelling strategies for missing binary outcome data in network meta-analysis. *BMC Med Res Methodol* 2019; 19(1):86. |
+|16.     | Theobald SJ, Khailaie S, Meyer-Hermann M, Volk V, Olbrich H, Danisch S, Gerasch L, Schneider A, Sinzger C, Schaudien D, Lienenklaus S, Riese P, Guzman CA, Figueiredo C, von Kaisenberg C, **Spineli LM**, Glaesener S, Meyer-Bahlburg A, Ganser A, Schmitt M, Mach M, Messerle M, Stripecke R. Signatures of T and B Cell Development, Functional Responses and PD-1 Upregulation After HCMV Latent Infections and Reactivations in Nod.Rag.Gamma Mice Humanized With Cord Blood CD34+ Cells. *Front Immunol* 2018; 9:2734. |
+|17.     | Mitroiu M, Rengerink KO, Pontes C, Sancho A, Vives R, Pesiou S, Fontanet JM, Torres F, Nikolakopoulos S, Pateras K, Rosenkranz G, Posch M, Urach S, Ristl R, Koch A, **Spineli LM**, van der Lee JH, Roes KCB. Applicability and added value of novel methods to improve drug development in rare diseases. *Orphanet J Rare Dis* 2018; 13(1):200.|
+|18.     | **Spineli LM**, Yepes-Nuñez JJ, Schünemann HJ. A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. *BMC Med Res Methodol* 2018; 18(1):115. |
+|19.     | **Spineli LM**. Modeling missing binary outcome data while preserving transitivity assumption yielded more credible network meta-analysis results. *J Clin Epidemiol* 2019; 105:19-26. |
+|20.     | Weckend MJ, **Spineli LM**, Grylka-Baeschlin S, Groß MM. Association between increased antenatal vaginal pH and preterm birth rate: a systematic review. *J Perinat Med* 2019; 47(2):142-151. |
+|21.     | Bültmann E, **Spineli L**, Hartmann H, Sander A, Lanfermann H. Quantitative microstructural cerebral changes in neurofibromatosis type 1. *Brain Dev* 2018; 40(5):376-382. |
+|22.     | Volk V, Reppas AI, Robert P, **Spineli LM**, Sundarasetty BS, Theobald SJ, Schneider A, Gerasch L, Deves-Roth C, Klöß S, Koehl U, von Kaisenberg C, Figueiredo C, Hatzikirou H, Meyer-Hermann M, Stripecke R. Multidimensional Analysis Integrating Human T-Cell Signatures in Lymphatic Tissues with Sex of Humanized Mice for Prediction of Responses after Dendritic Cell Immunization. *Front Immunol* 2017; 8:1709. |
+|23.     | **Spineli LM**. Missing binary data extraction challenges from Cochrane Reviews in mental health and implications on the empirical research. *Res Synth Methods* 2017; 8(4):514-525. |
+|24.     | Bültmann E, **Spineli LM**, Göhner F, Hartmann H, Lanfermann H. Age-Related T2 Relaxation Times at 3Tesla as biomarker of infratentorial brain maturation. *Childs Nerv Syst* 2018; 34(1):117-127. |
+|25.     | **Spineli LM**, Jenz E, Großhennig A, Koch A. Critical appraisal of arguments for the delayed-start design proposed as alternative to the parallel-group randomized clinical trial design in the field of rare disease. *Orphanet J Rare Dis* 2017; 12(1):140. |
+|26.     | Bültmann E, **Spineli LM**, Hartmann H, Lanfermann H. Measuring in vivo cerebral maturation using age-related T2 Relaxation Times at 3T. *Brain Dev* 2018; 40(2):85-93. |
+|27.     | Oehrlich NE, **Spineli LM**, Papendorf F, Park-Simon TW. Clinical outcome of brain metastases differs significantly among breast cancer subtypes. *Oncol Lett* 2017; 14(1):194-200. |
+|28.     | Sundarasetty B, Volk V, Theobald SJ, Rittinghausen S, Schaudien D, Neuhaus V, Figueiredo C, Schneider A, Gerasch L, Mucci A, Moritz T, von Kaisenberg C, **Spineli LM**, Sewald K, Braun A, Weigt H, Ganser A, Stripecke R. Human Effector Memory T Helper Cells Engage with Mouse Macrophages and Cause Graft-versus-Host-Like Pathology in Skin of Humanized Mice Used in a Nonclinical Immunization Study. *Am J Pathol* 2017; 187(6):1380-1398. |
+|29.     | Paparoupa M, **Spineli L**, Framke T, Ho H, Schuppert F, Gillissen A. Pulmonary Embolism in Pneumonia: Still a Diagnostic Challenge? Results of a Case-Control Study in 100 Patients. *Dis Markers* 2016; 2016:8682506. |
+|30.     | Dressler N, Chandra A, Aguirre Davila L, **Spineli LM**, Schippert C, von Versen-Höynck F. BMI and season are associated with vitamin D deficiency in women with impaired fertility: a two-centre analysis. *Arch Gynecol Obstet* 2016; 293(4):907-14. |
+|31.     | Koletsi D, **Spineli LM**, Lempesi E, Pandis N. Risk of bias and magnitude of effect in orthodontic randomized controlled trials: a meta-epidemiological review. *Eur J Orthod* 2015; 38(3):308-12. |
+|32.     | **Spineli LM**, Pandis N, Salanti G. Reporting and handling missing outcome data in mental health: a systematic review of Cochrane systematic reviews and meta-analyses. *Res Synth Methods* 2015; 6(2):175-87. |
+|33.     | **Spineli LM**, Fleming PS, Pandis N. Addressing missing participant outcome data in dental clinical trials. *J Dent* 2015; 43(6):605-618. |
+|34.     | Huhn M, Tardy M, **Spineli LM**, Kissling W, Förstl H, Pitschel-Walz G, Davis J, Leucht S. Efficacy of pharmacotherapy and psychotherapy for adult psychiatric disorders: a systematic overview of meta-analyses. *JAMA Psychiatry* 2014; 71(6):706-15. |
+|35.     | Samara MT, **Spineli LM**, Furukawa T, Engel R, Davis JM, Salanti G, Leucht S. Imputation of responder rates from means and standard deviations in schizophrenia. *Schizophr Res* 2013; 151(1-3):209-14. |
+|36.     | Leucht S, Cipriani A, **Spineli LM**, Mavridis D, Örey D, Richter F, Samara M, Barbui C, Engel RR, Geddes JR, Kissling W, Stapf MP, Lässig B, Salanti G, Davis JM. Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis. *Lancet* 2013; 382(9896):951-62. |
+|37.     | **Spineli LM**, Leucht S, Cipriani A, Higgins JP, Salanti G. The impact of trial characteristics on premature discontinuation of antipsychotics in schizophrenia. *Eur Neuropsychopharmacol* 2013; 23(9):1010-6. |
+|38.     | **Spineli LM**, Higgins JP, Cipriani A, Leucht S, Salanti G. Evaluating the impact of imputations for missing participants outcome data in network meta-analysis. *Clin Trials* 2013; 10(3):378-88. |
+|39.     | Cipriani A, Barbui C, Salanti G, Rendell J, Brown R, Stockton S, Purgato M, **Spineli LM**, Goodwin GM, Geddes JR. Comparative efficacy and acceptability of antimanic drugs in acute mania: a multiple-treatments meta-analysis. *Lancet* 2011; 378(9799):1306-15. |
 
-2. **Spineli LM**, Kalyvas C, Papadimitropoulou K. Continuous(ly) missing outcome data in network meta-analysis: a one-stage pattern-mixture model approach. *Stat Methods Med Res* 2021. doi: 10.1177/0962280220983544. Online ahead of print.
+### Editorials 
+
+|       |                                                                                                           |
+|:------|:----------------------------------------------------------------------------------------------------------|
+|1.     | **Spineli LM**, Pandis N. An introduction to cumulative meta-analysis. *Am J Orthod Dentofacial Orthop* 2022; 161(3):474-476. |
+|2.     | **Spineli LM**, Pandis N. Missing participant outcome data in meta-analysis. Part II. *Am J Orthod Dentofacial Orthop* 2021; 160(4):632-635. |
+|3.     | **Spineli LM**, Pandis N. Missing participant outcome data in meta-analysis. Part I. *Am J Orthod Dentofacial Orthop* 2021; 160(3):481-483. |
+|4.     | **Spineli LM**, Pandis N. Individual participant data in meta-analysis. *Am J Orthod Dentofacial Orthop* 2021; 159(6):868-870. |
+|5.     | **Spineli LM**, Pandis N. Publication bias: Graphical and statistical methods. *Am J Orthod Dentofacial Orthop* 2021; 159(2):248-251. |
+|6.     | **Spineli LM**, Pandis N. Reporting bias: Notion, many faces and implication. *Am J Orthod Dentofacial Orthop* 2021; 159(1):136-138. |
+|7.     | **Spineli LM**, Pandis N. Problems and pitfalls in subgroup analysis and meta-regression. *Am J Orthod Dentofacial Orthop* 2020; 158(6):901-904. |
+|8.     | **Spineli LM**, Pandis N. Fixed-effect versus random-effects model in meta-regression analysis. *Am J Orthod Dentofacial Orthop* 2020; 158(5):770-772. |
+|9.     | **Spineli LM**, Pandis N. Exploring heterogeneity in meta-analysis: Meta-regression analysis. *Am J Orthod Dentofacial Orthop* 2020; 158(4):623-625. |
+|10.    | **Spineli LM**, Pandis N. Exploring heterogeneity in meta-analysis: Subgroup analysis. Part 2. *Am J Orthod Dentofacial Orthop* 2020; 158(3):462-463. |
+|11.    | **Spineli LM**, Pandis N. Exploring heterogeneity in meta-analysis: Subgroup analysis. Part 1. *Am J Orthod Dentofacial Orthop* 2020; 158(2):302-304.e1. |
+|12.    | **Spineli LM**, Pandis N. Statistical heterogeneity: Notion and estimation in meta-Analysis. *Am J Orthod Dentofacial Orthop* 2020; 157(6):856-859.e2. |
+|13.    | **Spineli LM**, Pandis N. Prediction interval in random-effects meta-Analysis. *Am J Orthod Dentofacial Orthop* 2020; 157(4):586-588. |
+|14.    | **Spineli LM**, Pandis N. The importance of careful selection between fixed-effect and random-effects models. *Am J Orthod Dentofacial Orthop* 2020; 157(3):432-433. |
+|15.    | **Spineli LM**, Pandis N. Meta-analysis: Random-effects model. *Am J Orthod Dentofacial Orthop* 2020; 157(2):280-282. |
+|16.    | **Spineli LM**, Pandis N. Meta-analysis: Fixed-effect model. *Am J Orthod Dentofacial Orthop* 2020; 157(1):134-137. |
+|17.    | Pandis N, **Spineli LM**. Die Netzwerk-Metaanalyse in der Kieferorthopädie: Die nächste Ebene der Evidenzsynthese? *Inf Orthod Kieferorthop* 2015; 47(1):57-59. |
+|18.    | Pandis N, Fleming PS, **Spineli LM**, Salanti G. Initial orthodontic alignment effectiveness with self-ligating and conventional appliances: a network meta-analysis in practice. *Am J Orthod Dentofacial Orthop* 2014; 145(4 Suppl):S152-63. |
+
+## Book chapters
+
+|       |                                                                                                           |
+|:------|:----------------------------------------------------------------------------------------------------------|
+|1.     | **Spineli LM**. Meta-analysis and handling of missing data. In Pandis N. Biostatistics in Orthodontics. Design, analysis, reporting and synthesis of clinical studies. Zahnmedizinische Kliniken der Universität Bern. 2014. (Updated 2019). |
+
+### Published statistical packages
+
+|       |                                                                                                           |
+|:------|:----------------------------------------------------------------------------------------------------------|
+|1.     | **Spineli LM**. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.1.0. 2021. https://CRAN.R-project.org/package=rnmamod [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/rnmamod. |

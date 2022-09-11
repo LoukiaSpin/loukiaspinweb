@@ -26,10 +26,11 @@ content:
 
   # Contact details (edit or remove options as required)
   email: spineli.loukia@mh-hannover.de
-  #phone: 
+  phone: 
   address:
-    street: Carl-Neuberg Straße 1
+    street: Carl-Neuberg Street 1
     city: Hannover
+    region: 
     postcode: '30625'
     country: Germany
     country_code: DE
