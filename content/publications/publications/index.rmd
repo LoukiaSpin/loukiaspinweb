@@ -2,7 +2,7 @@
 title: 'Publication list'
 date: '2022-09-06T00:00:00Z'
 output: 
-   blogdown::html_page:
+   blogdown::html_page
 ---
 
 <p><img src="book-g939085abe_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay"></p>
