@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evidence synthesis Lab</title>
-    <link>loukiaspineli.netlify.app/</link>
-      <atom:link href="loukiaspineli.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://loukiaspineli.netlify.app/</link>
+      <atom:link href="https://loukiaspineli.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Evidence synthesis Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/loukiaspineli.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://loukiaspineli.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Evidence synthesis Lab</title>
-      <link>loukiaspineli.netlify.app/</link>
+      <link>https://loukiaspineli.netlify.app/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>loukiaspineli.netlify.app/talk/example-talk/</link>
+      <link>https://loukiaspineli.netlify.app/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>loukiaspineli.netlify.app/talk/example-talk/</guid>
+      <guid>https://loukiaspineli.netlify.app/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,21 +34,1009 @@
     
     <item>
       <title>How it all started</title>
-      <link>loukiaspineli.netlify.app/biography/biography/</link>
+      <link>https://loukiaspineli.netlify.app/biography/biography/</link>
+      <pubDate>Tue, 06 Sep 2022 21:13:14 -0500</pubDate>
+      <guid>https://loukiaspineli.netlify.app/biography/biography/</guid>
+      <description>
+
+
+&lt;p&gt;I have aspired to study archaeology since my early teens. I excelled in history, philosophy and Latin and got good grades in Ancient Greek. It is needless to say that Ross Geller was my favourite character from the Friends TV series for being a palaeontologist, though I am more like Chandler Bing in many aspects. I ended up studying statistics. The journey theme was initial self-doubt and ‘what the heck I was thinking’ on repeat mode, followed by zero regrets and many surprises. I got some hints that statistics would be my calling during my Bachelor’s studies at the University of Piraeus (Department of Statistics and Insurance Science). By the end of my studies, I was determined to pursue a Master’s degree in Biostatistics, which I did at the same University and Department. Afterwards, with the encouragement of my Master’s supervisor, because the self-doubt emerged once again, I moved to Ioannina to pursue my PhD Studies at the School of Medicine (Department of Hygiene and Epidemiology). Little did I know that this step would be the springboard for my career as a researcher and more surprises to follow.&lt;/p&gt;
+&lt;p&gt;During my PhD studies, I was introduced to evidence synthesis, particularly the network meta-analysis framework. My research revolved around aggregate missing participant outcome data in network meta-analysis. Publications, international collaborations, journal clubs and presentations in conferences filled my experience canvas with unprecedented colours and set the foundation for my next big step: my relocation to Germany as a postdoctoral researcher. Of course, self-doubt relocated with me there. And, yes, ‘what the heck I was thinking’ was the initial theme on repeat mode, again. My postdoctoral experience started at the Hannover Medical School (Institute for Biostatistics). For the next three years, I contributed to statistical consultations with clinicians and medical students from the University (mostly observational studies) and the &lt;a href=&#34;http://www.asterix-fp7.eu/&#34;&gt;ASTERIX project&lt;/a&gt;, my first international consortium.&lt;/p&gt;
+&lt;p&gt;During the second year of my employment, &lt;a href=&#34;https://en.wikipedia.org/wiki/Habilitation&#34;&gt;Habilitation&lt;/a&gt; got to my attention thanks to the &lt;a href=&#34;https://www.mhh.de/gleichstellung/ina-pichlmayr-mentoring&#34;&gt;Ina-Pichlmayr-Mentoring postdoctoral programme&lt;/a&gt; for women. So, the plan was to fund my position at the Hannover Medical School to gain eligibility for the Habilitation process. To my surprise, I ventured an attempt and submitted my first funding proposal to the &lt;a href=&#34;https://www.dfg.de/en/&#34;&gt;German Research Foundation&lt;/a&gt; in the middle of the third year. Behold! The &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/339420617?language=en&#34;&gt;NEMO project&lt;/a&gt; (short for &lt;strong&gt;NE&lt;/strong&gt;twork and pairwise meta-analysis with &lt;strong&gt;M&lt;/strong&gt;issing &lt;strong&gt;O&lt;/strong&gt;utcome data). Thanks to a two-year extension of my project, I was eligible to apply for the title of &lt;a href=&#34;https://en.wikipedia.org/wiki/Privatdozent&#34;&gt;Privatdozentin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am currently a Privatdozentin and principal investigator of the &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/462260733&#34;&gt;TRACE-NMA project&lt;/a&gt; (short for &lt;strong&gt;TRA&lt;/strong&gt;nsitivity and &lt;strong&gt;C&lt;/strong&gt;onsistency &lt;strong&gt;E&lt;/strong&gt;valuation in &lt;strong&gt;N&lt;/strong&gt;etwork &lt;strong&gt;M&lt;/strong&gt;eta-&lt;strong&gt;A&lt;/strong&gt;nalysis) in the &lt;a href=&#34;https://www.mhh.de/hebammenwissenschaft&#34;&gt;Midwifery Research and Education Unit of Hannover Medical School&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributing presentations</title>
+      <link>https://loukiaspineli.netlify.app/presentations/presentations/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>loukiaspineli.netlify.app/biography/biography/</guid>
-      <description>&lt;p&gt;I have aspired to study archaeology since my early teens. I excelled in history, philosophy and Latin and got good grades in Ancient Greek. It is needless to say that Ross Geller was my favourite character from the Friends TV series for being a palaeontologist, though I am more like Chandler Bing in many aspects. I ended up studying statistics. The journey theme was initial self-doubt and ‘what the heck I was thinking’ on repeat mode, followed by zero regrets and many surprises. I got some hints that statistics would be my calling during my Bachelor&amp;rsquo;s studies at the University of Piraeus (Department of Statistics and Insurance Science). By the end of my studies, I was determined to pursue a Master&amp;rsquo;s degree in Biostatistics, which I did at the same University and Department. Afterwards, with the encouragement of my Master&amp;rsquo;s supervisor, because the self-doubt emerged once again, I moved to Ioannina to pursue my PhD Studies at the School of Medicine (Department of Hygiene and Epidemiology). Little did I know that this step would be the springboard for my career as a researcher and more surprises to follow.&lt;/p&gt;
-&lt;p&gt;During my PhD studies, I was introduced to evidence synthesis, particularly the network meta-analysis framework. My research revolved around aggregate missing participant outcome data in network meta-analysis. Publications, international collaborations, journal clubs and presentations in conferences filled my experience canvas with unprecedented colours and set the foundation for my next big step: my relocation to Germany as a postdoctoral researcher. Of course, self-doubt relocated with me there. And, yes, ‘what the heck I was thinking’ was the initial theme on repeat mode, again. My postdoctoral experience started at the Hannover Medical School (Institute of Biometry). For the next three years, I contributed to statistical consultations with clinicians and medical students from the University (mostly observational studies) and the &lt;a href=&#34;http://www.asterix-fp7.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTERIX project&lt;/a&gt;, my first international consortium.&lt;/p&gt;
-&lt;p&gt;During the second year of my employment, &lt;a href=&#34;https://en.wikipedia.org/wiki/Habilitation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Habilitation&lt;/a&gt; got to my attention thanks to the &lt;a href=&#34;https://www.mhh.de/gleichstellung/ina-pichlmayr-mentoring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ina-Pichlmayr-Mentoring postdoctoral programme&lt;/a&gt; for women. So, the plan was to fund my position at the Hannover Medical School to gain eligibility for the Habilitation process. To my surprise, I ventured an attempt and submitted my first funding proposal to the &lt;a href=&#34;https://www.dfg.de/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;German Research Foundation&lt;/a&gt; in the middle of the third year.  Behold! The &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/339420617?language=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEMO project&lt;/a&gt; (short for &lt;strong&gt;NE&lt;/strong&gt;twork and pairwise meta-analysis with &lt;strong&gt;M&lt;/strong&gt;issing &lt;strong&gt;O&lt;/strong&gt;utcome data). Thanks to a two-year extension of my project, I was eligible to apply for the title of &lt;a href=&#34;https://en.wikipedia.org/wiki/Privatdozent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privatdozentin&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I am currently a Privatdozentin and principal investigator of the &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/462260733&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TRACE-NMA project&lt;/a&gt; (short for &lt;strong&gt;TRA&lt;/strong&gt;nsitivity and &lt;strong&gt;C&lt;/strong&gt;onsistency &lt;strong&gt;E&lt;/strong&gt;valuation in &lt;strong&gt;N&lt;/strong&gt;etwork &lt;strong&gt;M&lt;/strong&gt;eta-&lt;strong&gt;A&lt;/strong&gt;nalysis) in the &lt;a href=&#34;https://www.mhh.de/hebammenwissenschaft&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Midwifery Research and Education Unit of Hannover Medical School&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://loukiaspineli.netlify.app/presentations/presentations/</guid>
+      <description>
+
+
+&lt;p&gt;
+&lt;img src=&#34;microphone-gb9aab599d_1920.jpg&#34; alt=&#34;Alt text (no caption!)&#34; title=&#34;Photo by user_id:8988 on pixabay&#34;&gt;
+&lt;/p&gt;
+&lt;div id=&#34;conferences-workshops-and-symposiums&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Conferences, workshops and symposiums&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;11%&#34; /&gt;
+&lt;col width=&#34;88%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;08/2022&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;65. GMDS-TMF-Jahrestagung in Kiel (held virtually), 21.-25.08.2022&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Evaluating the quality of reporting the transitivity assumption in complex networks of interventions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;08/2022&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;43th Annual Conference of the International Society for Clinical Biostatistics (hybrid), Newcastle, UK&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Evaluating the quality of reporting the transitivity assumption in complex networks of interventions (poster)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;07/2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;38th SBPqO, Brazilian division of the International Association for Dental Research (online), Brazil&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Disinfection after caries removal: a systematic review with GRADE approach (poster)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;07/2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;42th Annual Conference of the International Society for Clinical Biostatistics (online), Lyon, France&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Quantifying the robustness of primary analysis results: a case study on missing outcome data in pairwise and network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;06/2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;32nd International Confederation of Midwives Virtual Triennial Congress&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Midwifery-led antenatal care and spontaneous visits in emergency healthcare services during pregnancy at CHU Saint-Pierre, Brussels, Belgium (poster)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;05/2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;16. Deutscher Hebammenkongress 2021 (als Online-Konfernez), 10.-12.05.2021&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Abfolge und zeitliche Zusammenhänge von subjektiv wahrgenommenen Geburtsbeginnsymptomen bei Erstgebärenden&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;12/2020&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Aktiv in der Lehre: Fortbildung für Lehrende an der MHH (14. Durchgang), 07.12.2020&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Course plan for Further Education: Integrating Systematic Reviews in Healthcare Decisions using ‘AidL Methods’ for Small Seminars. (poster)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;09/2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;64. GMDS-Jahrestagung in Dortmund, 09.-11.09.2019&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;07/2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;07/2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Caution required in the analysis of poorly connected networks of interventions (poster)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;06/2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Normal Labour and Birth Research Conference, Grange Over Sands, Cumbria, North West England&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Community birth and transfer for primiparous women: a retrospective cohort study&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;05/2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Migration Trajectories and Health around Birth, Montreal, Canada&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Antenatal care midwifery-led and spontaneous visits in emergency services during pregnancy (poster)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;09/2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;63. Jahrestagung der GMDS in Osnabrück, 02.-06.09.2018&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Comparison of methods to handle missing binary outcome data in network meta-analysis: an empirical study&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;06/2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Research Synthesis 2018 Conference in the University of Trier, Trier, Germany&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;03/2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;64. Biometrisches Kolloquium 2018 (IBS-DR), Biometrie: gelebte Vielfalt 25.-28. März 2018 an der Goethe-Universität Frankfurt&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;11/2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;28th Congress of the German Society of Perinatal Medicine, Berlin, Germany&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Association between increased antenatal vaginal pH and preterm birth rate: a systematic review&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;09/2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;The Global Evidence Summit–Cochrane South Africa in Cape Town&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Obtaining absolute effect estimates to facilitate Shared Decision Making in the context of multiple treatment comparisons&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;06/2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;31st ICM Triennial Congress in Toronto Canada&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Effectiveness of self-diagnosed vaginal pH scores for the prevention of preterm birth: a systematic review&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;08/2016&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Health – Exploring Complexity (HEC) 2016 in Ludwig-Maximilians-Universität München, Munich, Germany&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Graphical exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;06/2016&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;22. Jahrestagung der Deutschen Gesellschaft für Radioonkologie in Mannheimer Rosengarten&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Use of a Simultaneous Integrated Boost (SIB) in the intensity modulated Radiotherapy (IMRT) of locally advanced Head and Neck Tumors-a retrospective Analysis of Effectiveness and Toxicity&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;03/2016&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Fourth Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik “Statistics under one Umbrella”, Göttingen&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Graphical complete exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;01/2016&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;International Workshop on Humanized Mice&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gender differences in human T cell reconstitution and maturation in humanized mice after cord blood stem cell transplantation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;11/2015&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Arbeitsgruppe (IBS / DR), Workshop, Institut für Medizinische Biometrie und Informatik, Universität Heidelberg, Heidelberg&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;‚Der p-Wert in der Lehre‘ und ‚Gute Lehrbücher für das Fach der Biometrie/Biostatistik‘&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;09/2015&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;60th Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie (GMDS) 2015 in Krefeld, Germany&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Principle considerations regarding the use of adaptive designs for trials in rare diseases and small populations&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;08/2015&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;36th Annual Conference of the International Society for Clinical Biostatistics, University of Utrecht, Utrecht, The Netherlands&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;01/2015&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Symposium on Small Populations, Wyndham Apollo Hotel, Amsterdam&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;07/2014&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Symposium on Small Populations, Medizinische Universität Wien, Vienna, Austria&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Heterogeneity in meta-analyses of clinical trials and stages of an adaptive design&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;08/2013&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;23th Annual Conference of the International Society for Clinical Biostatistics, Ludwig-Maximilians-Universität, Munich, Germany&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Evaluating the impact of imputations for missing participant outcome data in network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;12/2012&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;3rd Hellenic Conference of the Forum of Public Health and Social Statistics, Athens&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;The Impact of Trial Characteristics on Premature Discontinuation of Antipsychotics in Schizophrenia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;invited-speaker&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Invited speaker&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;11%&#34; /&gt;
+&lt;col width=&#34;88%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;03/2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Missing Outcome Data in Network Meta-analysis of Healthcare Interventions: a combination of a systematic overview, empirical and simulation study – The NEMO (NEtwork meta-analysis with Missing Outcome data) project&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;09/2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Seminar, Department of Statistics and Insurance Science, University of Piraeus, Piraeus, Greece&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Introduction to the systematic reviews and statistical heterogeneity&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;03/2016&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Seminar, Department of Statistics and Insurance Science, University of Piraeus, Piraeus, Greece&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Network meta‐analysis: basic concepts, benefits and challenges of the next generation evidence synthesis tool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;12/2013&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Biometrisches Kolloquium, Institute for Biostatistics, Medizinische Hochschule Hannover&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Network meta‐analysis: basic concepts, benefits and challenges of the next generation evidence synthesis tool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum vitae</title>
+      <link>https://loukiaspineli.netlify.app/resume/resume/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://loukiaspineli.netlify.app/resume/resume/</guid>
+      <description>
+
+
+&lt;p&gt;
+&lt;img src=&#34;application-g74be984fa_1920.jpg&#34; alt=&#34;Alt text (no caption!)&#34; title=&#34;Photo by user_id:5138153 on pixabay&#34;&gt;
+&lt;/p&gt;
+&lt;div id=&#34;personal-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;PERSONAL DATA&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;30%&#34; /&gt;
+&lt;col width=&#34;69%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Address&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Midwifery Research and Education Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Carl-Neuberg Straße 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;30625 Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Telephone&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;+49 (0) 511 532 83593&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Email&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;mailto:Spineli.Loukia@mh-hannover.de&#34; class=&#34;email&#34;&gt;Spineli.Loukia@mh-hannover.de&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ORCID iD&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://orcid.org/0000-0001-9515-582X&#34; class=&#34;uri&#34;&gt;https://orcid.org/0000-0001-9515-582X&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Web of Science ID&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.webofscience.com/wos/author/record/S-9443-2019&#34;&gt;S-9443-2019&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Loop profile&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://loop.frontiersin.org/people/461987/overview&#34;&gt;461987&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;education&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;EDUCATION&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;18%&#34; /&gt;
+&lt;col width=&#34;81%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;October 2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Privatdozentin, Venia legendi für Evidenzsynthese im Gesundheitswesen&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Obstetrics, Gynecology and Reproductive Medicine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Antrittsvorlesung (in English): &lt;em&gt;Network meta-analysis: more than just an evidence synthesis tool&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;December 2014&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;PhD in Evidence Synthesis&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Hygiene and Epidemiology, School of Medicine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;University of Ioannina, Ioannina, Greece&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Thesis (in English): &lt;em&gt;Studies with missing values in network meta-analysis&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;March 2011&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;MSc in Applied Statistics with Specialization in Biostatistics and Biometry&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Statistics and Insurance Science&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;University of Piraeus, Piraeus, Greece&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Thesis (in Greek): &lt;em&gt;Gene expression analysis for the study of the survival time of women with breast cancer&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;May 2008&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;BSc in Statistics and Insurance Science&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Statistics and Insurance Science&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;University of Piraeus, Piraeus, Greecε&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;research-professional-experience&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;RESEARCH / PROFESSIONAL EXPERIENCE&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;18%&#34; /&gt;
+&lt;col width=&#34;81%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;January 2022 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Principal Investigator in Evidence Synthesis funded by DFG&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;present&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Midwifery Research and Education Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;January 2020 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Principal Investigator in Evidence Synthesis funded by DFG&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;December 2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Midwifery Research and Education Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Consolidate and advance the methodology to address missing participant outcome data in conventional and network meta-analysis of healthcare interventions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;March 2019 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Lecturer in Statistics and Principal Investigator in Evidence Synthesis&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;December 2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Midwifery Research and Education Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Teaching in the European Master of Science in Midwifery Programme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Supervision of Master Students&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Research on the methodology of systematic reviews with multiple interventions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;March 2017 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Principal Investigator in Evidence Synthesis funded by DFG&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;February 2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Institute for Biostatistics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Extensive research on missing (participant) outcome data in network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;June 2016 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Systematic Reviewer for Cochrane Response&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;June 2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Participation in the development of protocols for systematic reviews&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Participation in selecting eligible clinical studies and extracting relevant data&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Assessment of the quality of clinical studies using the Cochrane Risk of Bias tool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Meta-analysis and interpretation of results&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;February 2014 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Postdoctoral Researcher&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;February 2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Institute for Biostatistics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Statistical consultation with clinicians, MSc and PhD medical students&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Teaching meta-analysis to medical students&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;March 2012&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Visiting Research Associate&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Psychiatry, Technical University of Munich&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;University Hospital, Munich, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;November 2010&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Research Associate in Evidence Synthesis&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;November 2013&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Hygiene and Epidemiology, School of Medicine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;University of Ioannina, Ioannina, Greece&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Research in network meta-analysis with a focus on studies with missing outcome data&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;- Teaching biostatistics to medical students&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;research-grant-participation&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;RESEARCH GRANT PARTICIPATION&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;18%&#34; /&gt;
+&lt;col width=&#34;81%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;January 2022 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;TRAnsitivity &amp;amp; Consistency Evaluation in Network Meta-Analysis&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;present&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Principal investigator: Loukia Spineli&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Objective&lt;/em&gt;: Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(Deutsche Forschungsgemeinschaft &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/462260733?language=en&#34;&gt;462260733&lt;/a&gt;; SP 1664/2-1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;January 2020 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;NEtwork and conventional meta-analysis with Missing Outcome data&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;December 2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Principal investigator: Loukia Spineli&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Objective&lt;/em&gt;: To consolidate and advance the methodology to address missing participant outcome data in conventional and network meta-analysis of healthcare interventions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(Deutsche Forschungsgemeinschaft &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/339420617?language=en&#34;&gt;339420617&lt;/a&gt;; SP 1664/1-3)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;March 2017 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;NEtwork meta-analysis with Missing Outcome data&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;February 2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Principal investigator: Loukia Spineli&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Objective&lt;/em&gt;: To provide empirical evidence on the reporting and handling of missing outcome data in networks of interventions and a thorough empirical and simulative evaluation of the performance of different methods to handle missing binary outcome data in the context of network meta-analysis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(Deutsche Forschungsgemeinschaft &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/339420617?language=en&#34;&gt;339420617&lt;/a&gt;; SP 1664/1-1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;February 2014 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Advances in Small Trials dEsign for Regulatory Innovation and eXcellence&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;February 2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Principal investigator: Prof. dr. Kit Roes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Objective&lt;/em&gt;: ASTERIX is specifically designed to optimize methodology for clinical trials in small populations to achieve more reliable and cost-efficient clinical development of treatments for rare diseases&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(FP7-HEALTH-2013-INNOVATION-1 603160)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;December 2012&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Missing Outcome data in Psychiatric TrIals &amp;amp; Meta-Analysis&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;November 2013&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Principal investigator: Prof. Georgia Salanti, PhD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Objective&lt;/em&gt;: To develop novel statistical methodology to evaluate and address bias associated with missing outcome data in the systematic reviews and meta-analyses in psychiatry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(Hellenic General Secretariat for Research and Technology, ARISTEIA)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;November 2010&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Integrating the Multiple Meta-Analysis&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;December 2012&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Principal investigator: Prof. Georgia Salanti, PhD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Objective&lt;/em&gt;: To establish and enrich the emerging network meta-analysis by tackling specific controversial issues and consolidating the methodology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(FP7-IDEAS-ERC Starting grant 260559)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;awards-scholarships&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;AWARDS / SCHOLARSHIPS&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;20%&#34; /&gt;
+&lt;col width=&#34;79%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;June 2021&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Individual research funding&lt;/strong&gt; at 292,450 € for three years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;German Research Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(Deutsche Forschungsgemeinschaft &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/462260733?language=en&#34;&gt;462260733&lt;/a&gt;; SP 1664/2-1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;October 2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Individual research funding&lt;/strong&gt; at 185,300 € for two years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;German Research Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(Deutsche Forschungsgemeinschaft &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/339420617?language=en&#34;&gt;339420617&lt;/a&gt;; SP 1664/1-3)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;January 2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Individual research funding&lt;/strong&gt; at 173,400 € for two years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;German Research Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;(Deutsche Forschungsgemeinschaft &lt;a href=&#34;https://gepris.dfg.de/gepris/projekt/339420617?language=en&#34;&gt;339420617&lt;/a&gt;; SP 1664/1-1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;September 2010&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Scholarship&lt;/strong&gt; at 2,000 € for the Academic Year 2009-2010&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Postgraduate Program in Applied Statistics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Statistics and Insurance Science&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;University of Piraeus, Piraeus, Greece&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;memberships&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;MEMBERSHIPS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; International Society for Clinical Biostatisticians (since 2013) &lt;/font&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; The Cochrane Collaboration (since 2018) &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Author of the Cochrane Incontinence Group (since 2019) &lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;journal-editorial-board&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;JOURNAL EDITORIAL BOARD&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Journal of Dentistry (since 2021) &lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;journal-peer-reviewing&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;JOURNAL PEER REVIEWING&lt;/h3&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt; Invitations to review mostly submitted systematic reviews with conventional or network meta-analysis (Journals in alphabetical order): &lt;/font&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; American Journal of Orthodontics and Dentofacial Orthopedics &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; BMC Medical Research Methodology &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; The BMJ &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; BMJ Open &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; CNS Drugs &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; European Journal of Obstetrics &amp;amp; Gynecology and Reproductive Biology &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; International Journal of Epidemiology &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Journal of the American Society of Hypertension &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Journal of Clinical Epidemiology &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Journal of Dentistry &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Journal of Mental Health &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Journal of Pregnancy &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Medicine &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Methods of Information in Medicine &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Obesity Reviews &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; PLOS One &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Research Synthesis Methods &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Scientific Reports Methods &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Trials &lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;grants-peer-reviewing&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;GRANTS PEER REVIEWING&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font size=&#34;4&#34;&gt; Medical Research Council &lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;other-scientific-activities&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;OTHER SCIENTIFIC ACTIVITIES&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;19%&#34; /&gt;
+&lt;col width=&#34;80%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;September 2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Aktiv in der Lehre: Fortbildung für Lehrende an der MHH (14. Durchgang)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;December 2020&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;February 2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Basisprogramm zur Qualifizierung von Lehrenden der Medizinische Hochschule Hannover&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;January 2016 –&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;8th Ina-Pichlmayr-Mentoring an der Medizinische Hochschule Hannover&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;June 2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hannover Medical School, Hannover, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;languages&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;LANGUAGES&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;34%&#34; /&gt;
+&lt;col width=&#34;65%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Greek&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Native speaker&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;English&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Full professional proficiency&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;German&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Independent user, good knowledge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;other-qualification&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;OTHER QUALIFICATION&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;40%&#34; /&gt;
+&lt;col width=&#34;59%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Office processors&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Microsoft Office&lt;sup&gt;TM&lt;/sup&gt; tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Statistical software&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;RStudio, SPSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Code hosting platform&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GitHub (&lt;a href=&#34;https://github.com/LoukiaSpin&#34; class=&#34;uri&#34;&gt;https://github.com/LoukiaSpin&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publication list</title>
+      <link>https://loukiaspineli.netlify.app/publications/publications/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://loukiaspineli.netlify.app/publications/publications/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#original-articles&#34;&gt;Original articles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#editorials&#34;&gt;Editorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#book-chapters&#34;&gt;Book chapters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#published-statistical-packages&#34;&gt;Published statistical packages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;img src=&#34;book-g939085abe_1920.jpg&#34; alt=&#34;Alt text (no caption!)&#34; title=&#34;Photo by user_id:1795490 on pixabay&#34;&gt;
+&lt;/p&gt;
+&lt;div id=&#34;original-articles&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Original articles&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. A revised framework to evaluate the consistency assumption globally in a network of interventions. &lt;em&gt;Med Decis Making&lt;/em&gt; 2022; 42(5):637-648. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34961377/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Papadimitropoulou K. How robust are findings of pairwise and network meta-analysis in the presence of missing participant outcome data? &lt;em&gt;BMC Med&lt;/em&gt; 2021; 19(1):323. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34930276/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Bialek-Waldmann JK, Domning S, Esser R, Glienke W, Mertens M, Aleksandrova K, Arseniev L, Kumar S, Schneider A, Koenig J, Theobald SJ, Tsay HC, Cornelius ADA, Bonifacius A, Eiz-Vesper B, Figueiredo C, Schaudien D, Talbot SR, Bleich A, &lt;strong&gt;Spineli LM&lt;/strong&gt;, von Kaisenberg C, Clark C, Blasczyk R, Heuser M, Ganser A, Köhl U, Farzaneh F, Stripecke R. Induced dendritic cells co-expressing GM-CSF/IFN-α/tWT1 priming T and B cells and automated manufacturing to boost GvL. &lt;em&gt;Mol Ther Methods Clin Dev&lt;/em&gt; 2021; 21:621-641. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34095345/&#34;&gt;PubMed&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+Bertl K, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Mohandis K, Stavropoulos A. Root coverage stability: A systematic overview of controlled clinical trials with at least 5 years of follow-up. &lt;em&gt;Clin Exp Dent Res&lt;/em&gt; 2021; 7(5):692-710. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33565266/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Van der Mierden S, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Talbot SR, Yiannakou C, Zentrich E, Weegh N, Struve B, Zur Brügge TF, Bleich A, Leenaars CHC. Extracting data from graphs: A case-study on animal research with implications for meta-analyses. &lt;em&gt;Res Synth Methods&lt;/em&gt; 2021; 12(6):701-710. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33555134/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Papadimitropoulou K. Quantifying the robustness of primary analysis results: A case study on missing outcome data in pairwise and network meta-analysis. &lt;em&gt;Res Synth Methods&lt;/em&gt; 2021; 12(4):475-490. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33543587/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Papadimitropoulou K, Kalyvas C. Pattern-mixture model in network meta-analysis of binary missing outcome data: one-stage or two-stage approach? &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2021; 21(1):12. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33413138/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Papadimitropoulou K. Continuous(ly) missing outcome data in network meta-analysis: a one-stage pattern-mixture model approach. &lt;em&gt;Stat Methods Med Res&lt;/em&gt; 2021; 30(4):958-975. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33406990/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Stavropoulos A, Bertl K, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Sculean A, Cortellini P, Tonetti M. Medium and Long-Term Clinical Benefits of Periodontal Regenerative/Reconstructive Procedures in Intrabony Defects: Systematic Review and Network Meta-Analysis of Randomized Controlled Clinical Studies. &lt;em&gt;J Clin Periodontol&lt;/em&gt; 2021; 48(3):410-430. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33289191/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Gómez-Escobar LG, Mora-Ochoa H, Villanueva AV, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Sanclemente G, Couban R, García E, Chapman E, Yepes-Nuñez JJ. Effectiveness and adverse event of topical and allergen immunotherapy for atopic dermatitis: a systematic review and network meta-analysis protocol. &lt;em&gt;Syst Rev&lt;/em&gt; 2020; 9(1):222. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32988419/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Schick S, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Raio L, Groß MM. First assessed cervical dilatation: is it associated with oxytocin augmentation during labour? a retrospective cohort study in a university hospital in Switzerland. &lt;em&gt;Midwifery&lt;/em&gt; 2020; 85:102683. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32200140/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C. Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2020; 20(1):48. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32111167/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Buckley BS, Sanders CD, &lt;strong&gt;Spineli L&lt;/strong&gt;, Deng Q, Kwong JS. Conservative interventions for treating functional daytime urinary incontinence in children. &lt;em&gt;Cochrane Database Syst Rev&lt;/em&gt; 2019; 9:CD012367. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31532563/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Pateras K. Participants’ outcomes gone missing within a network of interventions: Bayesian modeling strategies. &lt;em&gt;Stat Med&lt;/em&gt; 2019; 38(20):3861-3879. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31134664/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. An empirical comparison of Bayesian modelling strategies for missing binary outcome data in network meta-analysis. &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2019; 19(1):86. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31018836/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Theobald SJ, Khailaie S, Meyer-Hermann M, Volk V, Olbrich H, Danisch S, Gerasch L, Schneider A, Sinzger C, Schaudien D, Lienenklaus S, Riese P, Guzman CA, Figueiredo C, von Kaisenberg C, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Glaesener S, Meyer-Bahlburg A, Ganser A, Schmitt M, Mach M, Messerle M, Stripecke R. Signatures of T and B Cell Development, Functional Responses and PD-1 Upregulation After HCMV Latent Infections and Reactivations in Nod.Rag.Gamma Mice Humanized With Cord Blood CD34+ Cells. &lt;em&gt;Front Immunol&lt;/em&gt; 2018; 9:2734. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30524448/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Mitroiu M, Rengerink KO, Pontes C, Sancho A, Vives R, Pesiou S, Fontanet JM, Torres F, Nikolakopoulos S, Pateras K, Rosenkranz G, Posch M, Urach S, Ristl R, Koch A, &lt;strong&gt;Spineli LM&lt;/strong&gt;, van der Lee JH, Roes KCB. Applicability and added value of novel methods to improve drug development in rare diseases. &lt;em&gt;Orphanet J Rare Dis&lt;/em&gt; 2018; 13(1):200. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30419965/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Yepes-Nuñez JJ, Schünemann HJ. A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2018; 18(1):115. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30355280/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. Modeling missing binary outcome data while preserving transitivity assumption yielded more credible network meta-analysis results. &lt;em&gt;J Clin Epidemiol&lt;/em&gt; 2019; 105:19-26. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30223064/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Weckend MJ, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Grylka-Baeschlin S, Groß MM. Association between increased antenatal vaginal pH and preterm birth rate: a systematic review. &lt;em&gt;J Perinat Med&lt;/em&gt; 2019; 47(2):142-151. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29995636/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Bültmann E, &lt;strong&gt;Spineli L&lt;/strong&gt;, Hartmann H, Sander A, Lanfermann H. Quantitative microstructural cerebral changes in neurofibromatosis type 1. &lt;em&gt;Brain Dev&lt;/em&gt; 2018; 40(5):376-382. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29373161/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Volk V, Reppas AI, Robert P, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Sundarasetty BS, Theobald SJ, Schneider A, Gerasch L, Deves-Roth C, Klöß S, Koehl U, von Kaisenberg C, Figueiredo C, Hatzikirou H, Meyer-Hermann M, Stripecke R. Multidimensional Analysis Integrating Human T-Cell Signatures in Lymphatic Tissues with Sex of Humanized Mice for Prediction of Responses after Dendritic Cell Immunization. &lt;em&gt;Front Immunol&lt;/em&gt; 2017; 8:1709. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29276513/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. Missing binary data extraction challenges from Cochrane Reviews in mental health and implications on the empirical research. &lt;em&gt;Res Synth Methods&lt;/em&gt; 2017; 8(4):514-525. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28961395/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Bültmann E, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Göhner F, Hartmann H, Lanfermann H. Age-Related T2 Relaxation Times at 3 Tesla as biomarker of infratentorial brain maturation. &lt;em&gt;Childs Nerv Syst&lt;/em&gt; 2018; 34(1):117-127. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28821935/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Jenz E, Großhennig A, Koch A. Critical appraisal of arguments for the delayed-start design proposed as alternative to the parallel-group randomized clinical trial design in the field of rare disease. &lt;em&gt;Orphanet J Rare Dis&lt;/em&gt; 2017; 12(1):140. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28814322/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Bültmann E, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Hartmann H, Lanfermann H. Measuring in vivo cerebral maturation using age-related T2 Relaxation Times at 3T. &lt;em&gt;Brain Dev&lt;/em&gt; 2018; 40(2):85-93. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28801085/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Oehrlich NE, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Papendorf F, Park-Simon TW. Clinical outcome of brain metastases differs significantly among breast cancer subtypes. &lt;em&gt;Oncol Lett&lt;/em&gt; 2017; 14(1):194-200. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28693153/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Sundarasetty B, Volk V, Theobald SJ, Rittinghausen S, Schaudien D, Neuhaus V, Figueiredo C, Schneider A, Gerasch L, Mucci A, Moritz T, von Kaisenberg C, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Sewald K, Braun A, Weigt H, Ganser A, Stripecke R. Human Effector Memory T Helper Cells Engage with Mouse Macrophages and Cause Graft-versus-Host-Like Pathology in Skin of Humanized Mice Used in a Nonclinical Immunization Study. &lt;em&gt;Am J Pathol&lt;/em&gt; 2017; 187(6):1380-1398. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28432872/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Paparoupa M, &lt;strong&gt;Spineli L&lt;/strong&gt;, Framke T, Ho H, Schuppert F, Gillissen A. Pulmonary Embolism in Pneumonia: Still a Diagnostic Challenge? Results of a Case-Control Study in 100 Patients. &lt;em&gt;Dis Markers&lt;/em&gt; 2016; 2016:8682506. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27313336/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Dressler N, Chandra A, Aguirre Davila L, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Schippert C, von Versen-Höynck F. BMI and season are associated with vitamin D deficiency in women with impaired fertility: a two-centre analysis. &lt;em&gt;Arch Gynecol Obstet&lt;/em&gt; 2016; 293(4):907-14. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26573012/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Koletsi D, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Lempesi E, Pandis N. Risk of bias and magnitude of effect in orthodontic randomized controlled trials: a meta-epidemiological review. &lt;em&gt;Eur J Orthod&lt;/em&gt; 2015; 38(3):308-12. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26174770/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N, Salanti G. Reporting and handling missing outcome data in mental health: a systematic review of Cochrane systematic reviews and meta-analyses. &lt;em&gt;Res Synth Methods&lt;/em&gt; 2015; 6(2):175-87. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26099485/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Fleming PS, Pandis N. Addressing missing participant outcome data in dental clinical trials. &lt;em&gt;J Dent&lt;/em&gt; 2015; 43(6):605-618. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25837533/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Huhn M, Tardy M, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Kissling W, Förstl H, Pitschel-Walz G, Davis J, Leucht S. Efficacy of pharmacotherapy and psychotherapy for adult psychiatric disorders: a systematic overview of meta-analyses. &lt;em&gt;JAMA Psychiatry&lt;/em&gt; 2014; 71(6):706-15. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24789675/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Samara MT, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Furukawa T, Engel R, Davis JM, Salanti G, Leucht S. Imputation of responder rates from means and standard deviations in schizophrenia. &lt;em&gt;Schizophr Res&lt;/em&gt; 2013; 151(1-3):209-14. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24262679/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Leucht S, Cipriani A, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Mavridis D, Örey D, Richter F, Samara M, Barbui C, Engel RR, Geddes JR, Kissling W, Stapf MP, Lässig B, Salanti G, Davis JM. Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis. &lt;em&gt;Lancet&lt;/em&gt; 2013; 382(9896):951-62. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23810019/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Leucht S, Cipriani A, Higgins JP, Salanti G. The impact of trial characteristics on premature discontinuation of antipsychotics in schizophrenia. &lt;em&gt;Eur Neuropsychopharmacol&lt;/em&gt; 2013; 23(9):1010-6. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23639793/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Higgins JP, Cipriani A, Leucht S, Salanti G. Evaluating the impact of imputations for missing participants outcome data in network meta-analysis. &lt;em&gt;Clin Trials&lt;/em&gt; 2013; 10(3):378-88. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23321265/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Cipriani A, Barbui C, Salanti G, Rendell J, Brown R, Stockton S, Purgato M, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Goodwin GM, Geddes JR. Comparative efficacy and acceptability of antimanic drugs in acute mania: a multiple-treatments meta-analysis. &lt;em&gt;Lancet&lt;/em&gt; 2011; 378(9799):1306-15. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21851976/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editorials&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Editorials&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. An introduction to cumulative meta-analysis. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2022; 161(3):474-476. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35184848/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Missing participant outcome data in meta-analysis. Part 2. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2021; 160(4):632-635. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34579822/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Missing participant outcome data in meta-analysis. Part 1. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2021; 160(3):481-483. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34456008/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Individual participant data in meta-analysis. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2021; 159(6):868-870. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34059215/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Publication bias: Graphical and statistical methods. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2021; 159(2):248-251. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33546830/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Reporting bias: Notion, many faces and implication. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2021; 159(1):136-138. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33357750/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Problems and pitfalls in subgroup analysis and meta-regression. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 158(6):901-904. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33250104/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Fixed-effect versus random-effects model in meta-regression analysis. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 158(5):770-772. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33131567/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Exploring heterogeneity in meta-analysis: Meta-regression analysis. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 158(4):623-625. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32988571/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Exploring heterogeneity in meta-analysis: Subgroup analysis. Part 2. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 158(3):462-463. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32862938/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Exploring heterogeneity in meta-analysis: Subgroup analysis. Part 1. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 158(2):302-304.e1. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32620480/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Statistical heterogeneity: Notion and estimation in meta-Analysis. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 157(6):856-859.e2. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32487316/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Prediction interval in random-effects meta-Analysis. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 157(4):586-588. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32241366/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. The importance of careful selection between fixed-effect and random-effects models. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 157(3):432-433. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32115122/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Meta-analysis: Random-effects model. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 157(2):280-282. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32005481/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Pandis N. Meta-analysis: Fixed-effect model. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2020; 157(1):134-137. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31901272/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Pandis N, &lt;strong&gt;Spineli LM&lt;/strong&gt;. Die Netzwerk-Metaanalyse in der Kieferorthopädie: Die nächste Ebene der Evidenzsynthese? &lt;em&gt;Inf Orthod Kieferorthop&lt;/em&gt; 2015; 47(1):57-59. &lt;a href=&#34;https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0035-1548755&#34;&gt;Thieme&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;Pandis N, Fleming PS, &lt;strong&gt;Spineli LM&lt;/strong&gt;, Salanti G. Initial orthodontic alignment effectiveness with self-ligating and conventional appliances: a network meta-analysis in practice. &lt;em&gt;Am J Orthod Dentofacial Orthop&lt;/em&gt; 2014; 145(4 Suppl):S152-63. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24680024/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;book-chapters&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Book chapters&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. Meta-analysis and handling of missing data. In Pandis N. Biostatistics in Orthodontics. Design, analysis, reporting and synthesis of clinical studies. Zahnmedizinische Kliniken der Universität Bern. 2014. (Updated 2019)&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;published-statistical-packages&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Published statistical packages&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.1.0. 2021. &lt;a href=&#34;https://CRAN.R-project.org/package=rnmamod&#34; class=&#34;uri&#34;&gt;https://CRAN.R-project.org/package=rnmamod&lt;/a&gt; [creator and maintainer]. GitHub development version in &lt;a href=&#34;https://github.com/LoukiaSpin/rnmamod&#34; class=&#34;uri&#34;&gt;https://github.com/LoukiaSpin/rnmamod&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>loukiaspineli.netlify.app/post/getting-started/</link>
+      <link>https://loukiaspineli.netlify.app/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>loukiaspineli.netlify.app/post/getting-started/</guid>
+      <guid>https://loukiaspineli.netlify.app/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -125,9 +1113,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>loukiaspineli.netlify.app/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://loukiaspineli.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>loukiaspineli.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://loukiaspineli.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -164,7 +1152,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;loukiaspineli.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://loukiaspineli.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -175,9 +1163,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Slides</title>
-      <link>loukiaspineli.netlify.app/slides/example/</link>
+      <link>https://loukiaspineli.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>loukiaspineli.netlify.app/slides/example/</guid>
+      <guid>https://loukiaspineli.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -300,9 +1288,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>loukiaspineli.netlify.app/project/example/</link>
+      <link>https://loukiaspineli.netlify.app/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>loukiaspineli.netlify.app/project/example/</guid>
+      <guid>https://loukiaspineli.netlify.app/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -312,29 +1300,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>loukiaspineli.netlify.app/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>loukiaspineli.netlify.app/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
-      <link>loukiaspineli.netlify.app/admin/config.yml</link>
+      <link>https://loukiaspineli.netlify.app/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>loukiaspineli.netlify.app/admin/config.yml</guid>
+      <guid>https://loukiaspineli.netlify.app/admin/config.yml</guid>
       <description></description>
     </item>
     

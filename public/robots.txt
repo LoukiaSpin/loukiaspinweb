@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: loukiaspineli.netlify.app/sitemap.xml
+Sitemap: https://loukiaspineli.netlify.app/sitemap.xml
