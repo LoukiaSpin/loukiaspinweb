@@ -3,12 +3,11 @@ title: 'Publication list'
 date: '2022-09-06T00:00:00Z'
 output: 
    blogdown::html_page:
-     toc: false
 ---
 
 <p><img src="book-g939085abe_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay"></p>
 
-### Original articles {#originalarticles .emphasized}
+### Original articles 
 
 <div style="text-align: justify">
 <font size="4">**Spineli LM**. A revised framework to evaluate the consistency assumption globally in a network of interventions. *Med Decis Making* 2022; 42(5):637-648. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34961377/)</font>
