@@ -2,7 +2,7 @@
 title: 'Curriculum vitae'
 date: '2022-09-06T00:00:00Z'
 output: 
-  html_document
+   blogdown::html_page
 ---
 
 <p><img src="application-g74be984fa_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:5138153 on pixabay"></p>

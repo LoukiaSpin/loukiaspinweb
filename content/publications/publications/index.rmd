@@ -2,10 +2,8 @@
 title: 'Publication list'
 date: '2022-09-06T00:00:00Z'
 output: 
-  html_document:
+   blogdown::html_page:
     toc: true
-    toc_depth: 2
-    toc_float: true
 ---
 
 <p><img src="book-g939085abe_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay"></p>
