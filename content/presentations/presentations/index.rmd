@@ -10,6 +10,8 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|09/2022     | **European Society of Endodontology Bienal Congress, Budapest, 7-10/9/22**                   | 
+|            | Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis |
 |08/2022     | **65. GMDS-TMF-Jahrestagung in Kiel (held virtually), 21.-25.08.2022**                       | 
 |            | Evaluating the quality of reporting the transitivity assumption in complex networks of interventions |
 |08/2022     | **43th Annual Conference of the International Society for Clinical Biostatistics (hybrid), Newcastle, UK** |
