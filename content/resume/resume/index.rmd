@@ -153,6 +153,7 @@ output:
 - <font size="4"> Journal of the American Society of Hypertension </font>
 - <font size="4"> Journal of Clinical Epidemiology </font>
 - <font size="4"> Journal of Dentistry </font>
+-	<font size="4"> The Journal of Evidence-Based Dental Practice </font>
 - <font size="4"> Journal of Mental Health </font>
 - <font size="4"> Journal of Pregnancy </font>
 - <font size="4"> Medicine </font>
