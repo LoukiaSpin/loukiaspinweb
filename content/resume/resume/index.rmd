@@ -62,7 +62,7 @@ output:
 |March 2017 –       | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
 |February 2019      | Institute for Biostatistics                                                      |
 |                   | Hannover Medical School, Hannover, Germany                                       |
-|                   | - Extensive research on missing (participant) outcome data in network meta-analysis |
+|                   | - Extensive research on missing participant outcome data in network meta-analysis |
 |June 2016 –        | **Systematic Reviewer for Cochrane Response**                                    |
 |June 2017          | - Participation in the development of protocols for systematic reviews           |
 |                   | - Participation in selecting eligible clinical studies and extracting relevant data |
@@ -79,7 +79,7 @@ output:
 |November 2010      | **Research Associate in Evidence Synthesis**                                     |
 |November 2013      | Department of Hygiene and Epidemiology, School of Medicine                       |
 |                   | University of Ioannina, Ioannina, Greece                                         |
-|                   | - Research in network meta-analysis with a focus on studies with missing outcome data |
+|                   | - Research in network meta-analysis with a focus on studies with missing participant outcome data |
 |                   | - Teaching biostatistics to medical students                                     |
 
 ### RESEARCH GRANT PARTICIPATION
@@ -161,7 +161,7 @@ output:
 - <font size="4"> Obesity Reviews </font>
 - <font size="4"> PLOS One </font>
 - <font size="4"> Research Synthesis Methods </font>
-- <font size="4"> Scientific Reports Methods </font>
+- <font size="4"> Scientific Reports </font>
 - <font size="4"> Trials </font>
 
 ### GRANTS PEER REVIEWING
