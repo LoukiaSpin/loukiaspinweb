@@ -12,7 +12,7 @@ output: html_document
 |:-----------|:---------------------------------------------------------------------------------------------|
 |03/2023     | **Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf), online, 27-31/03/23**    | 
 |            | Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package                          |
-|09/2022     | **European Society of Endodontology Bienal Congress, Budapest, 7-10/09/22**                   | 
+|09/2022     | **European Society of Endodontology Biennial Congress, Budapest, 7-10/09/22**                   | 
 |            | Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis |
 |08/2022     | **65. GMDS-TMF-Jahrestagung in Kiel (held virtually), 21.-25.08.2022**                       | 
 |            | Evaluating the quality of reporting the transitivity assumption in complex networks of interventions |
