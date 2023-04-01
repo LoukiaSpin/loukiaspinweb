@@ -10,7 +10,7 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
-<font size="4">**Spineli LM**. Using network meta-analysis to predict the percentage of missing participants for a future trial. *Res Methods Med Health Sci * 2023. [Journal](https://doi.org/10.1177/26320843231167502)</font>
+<font size="4">**Spineli LM**. Using network meta-analysis to predict the percentage of missing participants for a future trial. *Res Methods Med Health Sci* 2023. [Journal](https://doi.org/10.1177/26320843231167502)</font>
 
 <font size="4">Ferreira LAQ, Diniz IMA, Peixoto RTRDC, Gomes NA, Caneschi CS, **Spineli LM**, Martins CC. Efficacy of antiseptics and chemomechanical methods for dentin caries lesions: A systematic review with GRADE approach. *Front Oral Health* 2023; 4:1110634. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36908693/)</font>
 
