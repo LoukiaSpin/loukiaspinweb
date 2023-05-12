@@ -148,6 +148,7 @@ output:
 - <font size="4"> The BMJ </font>
 - <font size="4"> BMJ Open </font>
 - <font size="4"> CNS Drugs </font>
+- <font size="4"> Diabetology & Metabolic Syndrome </font>
 - <font size="4"> European Journal of Obstetrics & Gynecology and Reproductive Biology </font>
 - <font size="4"> International Journal of Epidemiology </font>
 - <font size="4"> Journal of the American Society of Hypertension </font>
