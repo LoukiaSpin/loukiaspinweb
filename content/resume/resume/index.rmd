@@ -160,6 +160,7 @@ output:
 - <font size="4"> Medicine </font>
 - <font size="4"> Methods of Information in Medicine </font>
 - <font size="4"> Obesity Reviews </font>
+- <font size="4"> Periodontology 2000 </font>
 - <font size="4"> PLOS One </font>
 - <font size="4"> Research Synthesis Methods </font>
 - <font size="4"> Scientific Reports </font>
