@@ -10,6 +10,10 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
+<font size="4">Fasoulas A, Keratiotis G, **Spineli LM**, Pandis N, De Bruyne M, De Moor R, Meire M. Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis. *Clin Exp Dent* 2023. (Accepted)</font>
+
+<font size="4">Kalyvas C, Papadimitropoulou K, Malbecq W, **Spineli LM**. Dealing with censoring in a network meta-analysis of time-to-event data with fractional polynomials. *Res Methods Med Health Sci* 2023. [Journal](https://journals.sagepub.com/doi/10.1177/26320843231190026)</font>
+
 <font size="4">**Spineli LM**. Using network meta-analysis to predict the percentage of missing participants for a future trial. *Res Methods Med Health Sci* 2023. [Journal](https://doi.org/10.1177/26320843231167502)</font>
 
 <font size="4">Ferreira LAQ, Diniz IMA, Peixoto RTRDC, Gomes NA, Caneschi CS, **Spineli LM**, Martins CC. Efficacy of antiseptics and chemomechanical methods for dentin caries lesions: A systematic review with GRADE approach. *Front Oral Health* 2023; 4:1110634. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36908693/)</font>
