@@ -4,7 +4,7 @@ education:
   courses:
   - course: Habilitation in Evidence Synthesis in Healthcare
     institution: Hannover Medical School
-    year: 2021
+    year: 2022
   - course: PhD in Evidence Synthesis
     institution: University of Ioannina, School of Medicine
     year: 2014
