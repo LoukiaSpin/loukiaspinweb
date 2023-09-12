@@ -1,6 +1,6 @@
 ---
 title: 'Contributing presentations'
-date: '2023-08-17T00:00:00Z'
+date: '2023-09-17T00:00:00Z'
 output: html_document
 ---
 
@@ -10,6 +10,10 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|09/2023     | **Lübecker interprofessioneller Perinatalkongress (online), 15.-16.09.2023** | 
+|            | Rizinusöl – veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?. |
+|09/2023     | **European Society of Endodontology Helsinki 2023 – European Society of Endodontology Biennial Congress, 06-09/09/2023** | 
+|            | A repeated cross-sectional study of the periapical health related to the quality of root canal treatment in a Belgian population. |
 |08/2023     | **44th Annual Conference of the International Society for Clinical Biostatistics (hybrid), 27-31/08/2023, Milan, Italy** | 
 |            | Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions. |
 |06/2023     | **33rd International Confederation of Midwives, Triennial Congress, 11-14/06/2023, Bali, Indonesia** | 
