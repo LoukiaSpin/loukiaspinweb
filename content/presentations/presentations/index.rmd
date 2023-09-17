@@ -11,7 +11,7 @@ output: html_document
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
 |09/2023     | **Lübecker interprofessioneller Perinatalkongress (online), 15.-16.09.2023** | 
-|            | Rizinusöl – veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?. |
+|            | Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?. |
 |09/2023     | **European Society of Endodontology Helsinki 2023 - European Society of Endodontology Biennial Congress, 06-09/09/2023** | 
 |            | A repeated cross-sectional study of the periapical health related to the quality of root canal treatment in a Belgian population. |
 |08/2023     | **44th Annual Conference of the International Society for Clinical Biostatistics (hybrid), 27-31/08/2023, Milan, Italy** | 
