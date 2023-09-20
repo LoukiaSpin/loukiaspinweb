@@ -10,6 +10,8 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|09/2023     | **68. GMDS-TMF-Jahrestagung in Heilbronn, 17.-21.09.2023. ** | 
+|            | Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions. |
 |09/2023     | **Lübecker interprofessioneller Perinatalkongress (online), 15.-16.09.2023** | 
 |            | Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?. |
 |09/2023     | **European Society of Endodontology Helsinki 2023 - European Society of Endodontology Biennial Congress, 06-09/09/2023** | 
