@@ -1,6 +1,6 @@
 ---
 title: 'Contributing presentations'
-date: '2023-09-17T00:00:00Z'
+date: "`r Sys.time()`"
 output: html_document
 ---
 
