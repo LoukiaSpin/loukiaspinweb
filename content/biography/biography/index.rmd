@@ -1,6 +1,6 @@
 ---
 title: "How it all started"
-date: "`r Sys.time()`"
+hidedate: true
 output: 
   blogdown::html_page
 ---
