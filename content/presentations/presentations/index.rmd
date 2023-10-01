@@ -1,6 +1,6 @@
 ---
 title: 'Contributing presentations'
-date: '2023-09-20T00:00:00'
+date: '2023-10-01T00:00:00'
 output: html_document
 ---
 
@@ -10,12 +10,17 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
+|            | Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization. |
+|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
+|            | Intra-surgical efficacy of air-polishing in decontaminating implant surfaces. A laboratory study. |
 |09/2023     | **68. GMDS-TMF-Jahrestagung in Heilbronn, 17.-21.09.2023. ** | 
 |            | Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions. |
 |09/2023     | **Lübecker interprofessioneller Perinatalkongress (online), 15.-16.09.2023** | 
 |            | Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?. |
 |09/2023     | **European Society of Endodontology Helsinki 2023 - European Society of Endodontology Biennial Congress, 06-09/09/2023** | 
 |            | A repeated cross-sectional study of the periapical health related to the quality of root canal treatment in a Belgian population. |
+|            | - Won the **ESE Wladimir Adlivankine Research prize**. Recipient: Georgios Keratiotis (the presenter). |
 |08/2023     | **44th Annual Conference of the International Society for Clinical Biostatistics (hybrid), 27-31/08/2023, Milan, Italy** | 
 |            | Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions. |
 |06/2023     | **33rd International Confederation of Midwives, Triennial Congress, 11-14/06/2023, Bali, Indonesia** | 
