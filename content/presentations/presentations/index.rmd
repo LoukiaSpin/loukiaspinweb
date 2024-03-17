@@ -1,6 +1,6 @@
 ---
 title: 'Contributing presentations'
-date: '2023-10-01T00:00:00'
+date: '2024-03-17T00:00:00'
 output: html_document
 ---
 
@@ -10,6 +10,8 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|02/2024     | **7. Internationale Konferenz der Deutsche Gesellschaft für Hebammenwissenschaft (DGHWi), 8.-9.2.2024, Berlin. ** | 
+|            | Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett. |
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
 |            | Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization. |
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
