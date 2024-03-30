@@ -17,8 +17,8 @@ education:
 email: ''
 highlight_name: yes
 interests:
-- Pairwise and network meta-analysis methods
-- Meta-epidemiological studies
+- "Pairwise and network meta-analysis methods"
+- "Meta-epidemiological studies"
 - Systematic reviews
 organizations:
 - name: Hannover Medical School
@@ -28,7 +28,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: graduation-cap
+- icon: "graduation-cap"
   icon_pack: fas
   link: https://scholar.google.com/citations?user=p55jwq0AAAAJ&hl=el&oi=ao
 - icon: researchgate
@@ -36,14 +36,16 @@ social:
   link: https://www.researchgate.net/profile/Loukia_Spineli
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/loukia-spineli-6637309b
+  link: "https://linkedin.com/in/loukia-spineli-6637309b"
 - icon: github
   icon_pack: fab
   link: https://github.com/LoukiaSpin
 superuser: yes
-bio: My research interests include developing and evaluating methods for pairwise and network meta-analysis using aggregate data, and working on the R package [rnmamod](https://cran.r-project.org/web/packages/rnmamod/index.html).
+bio: "My research interests include developing and evaluating methods for pairwise
+  and network meta-analysis using aggregate data, and working on the R packages [rnmamod](https://cran.r-project.org/web/packages/rnmamod/index.html)
+  and [tracenma](https://cran.r-project.org/web/packages/tracenma/index.html)."
 ---
 
 This website hosts current and past projects on network meta-analysis that I led as principal investigator, and related publications and conference presentations. You can also read my ongoing [research journey](/biography/biography/), my [resumé](/resume/resume/), and a [list of publications](/publications/publications/) and [contributing presentations](/presentations/presentations/) accumulated since my PhD studies.
 
-I plan to create posts related to my projects and the [rnmamod](https://cran.r-project.org/web/packages/rnmamod/index.html) R package, which I author. Stay tuned! :smile: 
+I plan to create posts related to my projects, the [rnmamod](https://cran.r-project.org/web/packages/rnmamod/index.html) and [tracenma](https://cran.r-project.org/web/packages/tracenma/index.html) R packages, which I author. Stay tuned! :smile: 
