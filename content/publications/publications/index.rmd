@@ -163,7 +163,6 @@ output:
 
 <div style="text-align: justify">
 <font size="4">**Spineli LM**. tracenma: Database for Developing Transitivity Methodology in Network Meta-Analysis. R package version 0.1.0. 2024. https://CRAN.R-project.org/package=tracenma [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/tracenma</font> 
-</div>
 
 <font size="4">**Spineli LM**. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.4.0. 2024. https://CRAN.R-project.org/package=rnmamod [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/rnmamod</font> 
 </div>
