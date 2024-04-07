@@ -1,5 +1,5 @@
 ---
-title: 'Example Project'
+title: 'The NEMO Project'
 date: '2024-04-07T00:00:00Z'
 output: 
    blogdown::html_page
