@@ -41,7 +41,7 @@
 
 
 &lt;p&gt;
-&lt;img src=&#34;coffee-8405076_1920.jpg&#34; alt=&#34;Alt text (no caption!)&#34; title=&#34;Photo by user_id:1795490 on pixabay&#34;&gt;
+&amp;lt;img src=“coffee-8405076_1920.jpg” alt=“Alt text (no caption!)” title=“Photo by user_id:1795490 on pixabay” height = “80%”, width=“80%”&amp;gt;
 &lt;/p&gt;
 &lt;div id=&#34;nemo&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;NEMO&lt;/h3&gt;
