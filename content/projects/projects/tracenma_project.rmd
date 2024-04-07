@@ -1,11 +1,10 @@
 ---
-title: 'The TRACENMA project'
+title: 'The TRACE-NMA project'
 date: '2024-04-07T00:00:00'
 output: 
    blogdown::html_page
 ---
 
-
-### TRACENMA
+### TRACE-NMA: <ins>TRA</ins>nsitivity and <ins>C</ins>onsistency <ins>E</ins>valuation in <ins>N</ins>etwork <ins>M</ins>eta-<ins>A</ins>nalysis
 
 Under construction

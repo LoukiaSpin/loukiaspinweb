@@ -5,7 +5,6 @@ output:
    blogdown::html_page
 ---
 
-
-### NEMO
+### NEMO: <ins>NE</ins>twork and pairwise meta-analysis with <ins>M</ins>issing <ins>O</ins>utcome data
 
 Under construction
