@@ -33,18 +33,30 @@
     </item>
     
     <item>
-      <title>The NEMO Project</title>
-      <link>https://loukiaspineli.netlify.app/projects/projects/</link>
+      <title>The NEMO project</title>
+      <link>https://loukiaspineli.netlify.app/projects/projects/nemo_project/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://loukiaspineli.netlify.app/projects/projects/</guid>
+      <guid>https://loukiaspineli.netlify.app/projects/projects/nemo_project/</guid>
       <description>
 
 
-&lt;p&gt;
-&lt;img src=&#34;coffee-8405076_1920.jpg&#34; alt=&#34;Alt text (no caption!)&#34; title=&#34;Photo by user_id:1795490 on pixabay&#34; height = &#34;80%&#34; width=&#34;60%&#34;&gt;
-&lt;/p&gt;
 &lt;div id=&#34;nemo&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;NEMO&lt;/h3&gt;
+&lt;p&gt;Under construction&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The TRACENMA project</title>
+      <link>https://loukiaspineli.netlify.app/projects/projects/tracenma_project/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://loukiaspineli.netlify.app/projects/projects/tracenma_project/</guid>
+      <description>
+
+
+&lt;div id=&#34;tracenma&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;TRACENMA&lt;/h3&gt;
 &lt;p&gt;Under construction&lt;/p&gt;
 &lt;/div&gt;
 </description>
