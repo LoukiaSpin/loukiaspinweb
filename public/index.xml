@@ -40,9 +40,37 @@
       <description>
 
 
-&lt;div id=&#34;nemo-network-and-pairwise-meta-analysis-with-missing-outcome-data&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;NEMO: &lt;ins&gt;NE&lt;/ins&gt;twork and pairwise meta-analysis with &lt;ins&gt;M&lt;/ins&gt;issing &lt;ins&gt;O&lt;/ins&gt;utcome data&lt;/h3&gt;
+&lt;div id=&#34;network-and-pairwise-meta-analysis-with-missing-outcome-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;ins&gt;NE&lt;/ins&gt;twork and pairwise meta-analysis with &lt;ins&gt;M&lt;/ins&gt;issing &lt;ins&gt;O&lt;/ins&gt;utcome data&lt;/h3&gt;
 &lt;p&gt;Under construction&lt;/p&gt;
+&lt;div id=&#34;presentations&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Presentations&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;publications&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Publications&lt;/h4&gt;
+&lt;div id=&#34;original-research&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Original research&lt;/h5&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. Using network meta-analysis to predict the percentage of missing participants for a future trial. &lt;em&gt;Res Methods Med Health Sci&lt;/em&gt; 2023; 4(4):140-149. &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/26320843231167502&#34;&gt;Journal&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. A revised framework to evaluate the consistency assumption globally in a network of interventions. &lt;em&gt;Med Decis Making&lt;/em&gt; 2022; 42(5):637-648. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34961377/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Papadimitropoulou K. How robust are findings of pairwise and network meta-analysis in the presence of missing participant outcome data? &lt;em&gt;BMC Med&lt;/em&gt; 2021; 19(1):323. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34930276/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Papadimitropoulou K. Quantifying the robustness of primary analysis results: A case study on missing outcome data in pairwise and network meta-analysis. &lt;em&gt;Res Synth Methods&lt;/em&gt; 2021; 12(4):475-490. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33543587/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Papadimitropoulou K, Kalyvas C. Pattern-mixture model in network meta-analysis of binary missing outcome data: one-stage or two-stage approach? &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2021; 21(1):12. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33413138/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Papadimitropoulou K. Continuous(ly) missing outcome data in network meta-analysis: a one-stage pattern-mixture model approach. &lt;em&gt;Stat Methods Med Res&lt;/em&gt; 2021; 30(4):958-975. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33406990/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C. Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2020; 20(1):48. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32111167/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Kalyvas C, Pateras K. Participants’ outcomes gone missing within a network of interventions: Bayesian modeling strategies. &lt;em&gt;Stat Med&lt;/em&gt; 2019; 38(20):3861-3879. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31134664/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. An empirical comparison of Bayesian modelling strategies for missing binary outcome data in network meta-analysis. &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2019; 19(1):86. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31018836/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;, Yepes-Nuñez JJ, Schünemann HJ. A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. &lt;em&gt;BMC Med Res Methodol&lt;/em&gt; 2018; 18(1):115. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30355280/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. Modeling missing binary outcome data while preserving transitivity assumption yielded more credible network meta-analysis results. &lt;em&gt;J Clin Epidemiol&lt;/em&gt; 2019; 105:19-26. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30223064/&#34;&gt;PubMed&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-package&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;R package&lt;/h5&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;Spineli LM&lt;/strong&gt;. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.1.0. 2021. &lt;a href=&#34;https://CRAN.R-project.org/package=rnmamod&#34; class=&#34;uri&#34;&gt;https://CRAN.R-project.org/package=rnmamod&lt;/a&gt; [creator and maintainer]. GitHub development version in &lt;a href=&#34;https://github.com/LoukiaSpin/rnmamod&#34; class=&#34;uri&#34;&gt;https://github.com/LoukiaSpin/rnmamod&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -55,8 +83,8 @@
       <description>
 
 
-&lt;div id=&#34;trace-nma-transitivity-and-consistency-evaluation-in-network-meta-analysis&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;TRACE-NMA: &lt;ins&gt;TRA&lt;/ins&gt;nsitivity and &lt;ins&gt;C&lt;/ins&gt;onsistency &lt;ins&gt;E&lt;/ins&gt;valuation in &lt;ins&gt;N&lt;/ins&gt;etwork &lt;ins&gt;M&lt;/ins&gt;eta-&lt;ins&gt;A&lt;/ins&gt;nalysis&lt;/h3&gt;
+&lt;div id=&#34;transitivity-and-consistency-evaluation-in-network-meta-analysis&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;ins&gt;TRA&lt;/ins&gt;nsitivity and &lt;ins&gt;C&lt;/ins&gt;onsistency &lt;ins&gt;E&lt;/ins&gt;valuation in &lt;ins&gt;N&lt;/ins&gt;etwork &lt;ins&gt;M&lt;/ins&gt;eta-&lt;ins&gt;A&lt;/ins&gt;nalysis&lt;/h3&gt;
 &lt;p&gt;Under construction&lt;/p&gt;
 &lt;/div&gt;
 </description>

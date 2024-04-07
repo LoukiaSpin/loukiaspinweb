@@ -5,6 +5,43 @@ output:
    blogdown::html_page
 ---
 
-### NEMO: <ins>NE</ins>twork and pairwise meta-analysis with <ins>M</ins>issing <ins>O</ins>utcome data
+### <ins>NE</ins>twork and pairwise meta-analysis with <ins>M</ins>issing <ins>O</ins>utcome data
 
 Under construction
+
+#### Presentations
+
+#### Publications 
+
+##### Original research
+
+<div style="text-align: justify">
+<font size="4">**Spineli LM**. Using network meta-analysis to predict the percentage of missing participants for a future trial. *Res Methods Med Health Sci* 2023; 4(4):140-149. [Journal](https://journals.sagepub.com/doi/full/10.1177/26320843231167502)</font>
+
+<font size="4">**Spineli LM**. A revised framework to evaluate the consistency assumption globally in a network of interventions. *Med Decis Making* 2022; 42(5):637-648. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34961377/)</font>
+
+<font size="4">**Spineli LM**, Kalyvas C, Papadimitropoulou K. How robust are findings of pairwise and network meta-analysis in the presence of missing participant outcome data? *BMC Med* 2021; 19(1):323. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34930276/)</font>
+
+<font size="4">**Spineli LM**, Kalyvas C, Papadimitropoulou K. Quantifying the robustness of primary analysis results: A case study on missing outcome data in pairwise and network meta-analysis. *Res Synth Methods* 2021; 12(4):475-490. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33543587/)</font>
+
+<font size="4">**Spineli LM**, Papadimitropoulou K, Kalyvas C. Pattern-mixture model in network meta-analysis of binary missing outcome data: one-stage or two-stage approach? *BMC Med Res Methodol* 2021; 21(1):12. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33413138/)</font>
+
+<font size="4">**Spineli LM**, Kalyvas C, Papadimitropoulou K. Continuous(ly) missing outcome data in network meta-analysis: a one-stage pattern-mixture model approach. *Stat Methods Med Res* 2021; 30(4):958-975. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33406990/)</font>
+
+<font size="4">**Spineli LM**, Kalyvas C. Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. *BMC Med Res Methodol* 2020; 20(1):48. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32111167/)</font>
+
+<font size="4">**Spineli LM**, Kalyvas C, Pateras K. Participants’ outcomes gone missing within a network of interventions: Bayesian modeling strategies. *Stat Med* 2019; 38(20):3861-3879. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31134664/)</font>
+
+<font size="4">**Spineli LM**. An empirical comparison of Bayesian modelling strategies for missing binary outcome data in network meta-analysis. *BMC Med Res Methodol* 2019; 19(1):86. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31018836/)</font>
+
+<font size="4">**Spineli LM**, Yepes-Nuñez JJ, Schünemann HJ. A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. *BMC Med Res Methodol* 2018; 18(1):115. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30355280/)</font>
+
+<font size="4">**Spineli LM**. Modeling missing binary outcome data while preserving transitivity assumption yielded more credible network meta-analysis results. *J Clin Epidemiol* 2019; 105:19-26. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30223064/)</font>
+</div>
+
+##### R package
+
+<div style="text-align: justify">
+<font size="4">**Spineli LM**. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.1.0. 2021. https://CRAN.R-project.org/package=rnmamod [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/rnmamod</font> 
+</div>
+

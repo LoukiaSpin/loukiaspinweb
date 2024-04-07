@@ -5,6 +5,6 @@ output:
    blogdown::html_page
 ---
 
-### TRACE-NMA: <ins>TRA</ins>nsitivity and <ins>C</ins>onsistency <ins>E</ins>valuation in <ins>N</ins>etwork <ins>M</ins>eta-<ins>A</ins>nalysis
+### <ins>TRA</ins>nsitivity and <ins>C</ins>onsistency <ins>E</ins>valuation in <ins>N</ins>etwork <ins>M</ins>eta-<ins>A</ins>nalysis
 
 Under construction
