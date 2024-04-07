@@ -5,7 +5,7 @@ output:
    blogdown::html_page
 ---
 
-<p><img src="coffee-8405076_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay" height = "80%", width="80%"></p>
+<p><img src="coffee-8405076_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay" height = "80%" width="60%"></p>
 
 
 ### NEMO
