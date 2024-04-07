@@ -1,7 +1,8 @@
 ---
 title: 'The NEMO Project'
 date: '2024-04-07T00:00:00'
-output: html_document
+output: 
+   blogdown::html_page
 ---
 
 <p><img src="coffee-8405076_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay"></p>
