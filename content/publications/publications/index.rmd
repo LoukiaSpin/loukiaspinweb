@@ -10,13 +10,15 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
+<font size="4">Celetta E, **Spineli LM**, Avignon V, Gehling H, Gross MM. An exploratory review on the empirical evaluation of the quality of reporting and analyzing labor duration. Birth. 2024 May 28. doi: 10.1111/birt.12833. Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38804004/)</font>
+
 <font size="4">Mheissen S, **Spineli LM**, Daraqel B, Alsafadi AS. Language bias in orthodontic systematic reviews: A meta-epidemiological study. *PLoS One* 2024; 19(4):e0300881. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38557691/)</font>
 
 <font size="4">**Spineli LM**, Kalyvas C, Yepes-Nuñez JJ, García-Sierra AM, Rivera-Pinzón DC, Seide SE, Papadimitropoulou K. Low awareness of the transitivity assumption in complex networks of interventions: a systematic survey from 721 network meta-analyses. *BMC Med* 2024; 22(1):112. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38475826/)</font>
 
 <font size="4">Keratiotis G, **Spineli L**, De Bruyne MAA, De Moor RJG, Meire MA. A 22-year follow-up cross-sectional study on periapical health in relation to the quality of root canal treatment in a Belgian population. *Int Endod J* 2024; 57(5):533-548. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38314902/)</font>
 
-<font size="4">Sobootian DJ, Bronzlik P, **Spineli LM**, Becker LS, Winther HB, Bueltmann E. Convolutional Neural Network for Fully Automated Cerebellar Volumetry in Children in Comparison to Manual Segmentation and Developmental Trajectory of Cerebellar Volumes. *Cerebellum* 2023. doi: 10.1007/s12311-023-01609-2. Online ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37833550/)</font>
+<font size="4">Sobootian DJ, Bronzlik P, **Spineli LM**, Becker LS, Winther HB, Bueltmann E. Convolutional Neural Network for Fully Automated Cerebellar Volumetry in Children in Comparison to Manual Segmentation and Developmental Trajectory of Cerebellar Volumes. *Cerebellum* 2023; 23(3):1074-1085. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37833550/)</font>
 
 <font size="4">Fasoulas A, Keratiotis G, **Spineli LM**, Pandis N, De Bruyne M, De Moor R, Meire M. Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis. *Clin Exp Dent Res* 2023; 9(6):1129-1148. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37710421/)</font>
 
@@ -34,7 +36,7 @@ output:
 
 <font size="4">Bialek-Waldmann JK, Domning S, Esser R, Glienke W, Mertens M, Aleksandrova K, Arseniev L, Kumar S, Schneider A, Koenig J, Theobald SJ, Tsay HC, Cornelius ADA, Bonifacius A, Eiz-Vesper B, Figueiredo C, Schaudien D, Talbot SR, Bleich A, **Spineli LM**, von Kaisenberg C, Clark C, Blasczyk R, Heuser M, Ganser A, Köhl U, Farzaneh F, Stripecke R. Induced dendritic cells co-expressing GM-CSF/IFN-α/tWT1 priming T and B cells and automated manufacturing to boost GvL. *Mol Ther Methods Clin Dev* 2021; 21:621-641. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34095345/)</font>
 
-<font size="4">Bertl K, **Spineli LM**, Mohandis K, Stavropoulos A. Root coverage stability: A systematic overview of controlled clinical trials with at least 5 years of follow-up. *Clin Exp Dent Res* 2021; 7(5):692-710. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33565266/)</font>
+<font size="4">Bertl K, **Spineli LM**, Mohandis K, Stavropoulos A. Root coverage stability: A systematic overview of controlled clinical trials with at least 5 years of follow-up. *Clin Exp Dent Res* 2021; 7(5):692-710. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33565266/)</font>
 
 <font size="4">Van der Mierden S, **Spineli LM**, Talbot SR, Yiannakou C, Zentrich E, Weegh N, Struve B, Zur Brügge TF, Bleich A, Leenaars CHC. Extracting data from graphs: A case-study on animal research with implications for meta-analyses. *Res Synth Methods* 2021; 12(6):701-710. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33555134/)</font>
 
