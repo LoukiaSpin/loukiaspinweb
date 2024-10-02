@@ -10,6 +10,9 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
+<font size="4">Gehling H, **Spineli LM**, Gross MM. Investigating the associations between early labour onset symptoms and self-diagnosed labour onset in a cohort study of primiparas. Sex Reprod Healthc. 2024; 42:101033.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39277946/)</font>
+
 <font size="4">Celetta E, **Spineli LM**, Avignon V, Gehling H, Gross MM. An exploratory review on the empirical evaluation of the quality of reporting and analyzing labor duration. Birth. 2024 May 28. doi: 10.1111/birt.12833. Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38804004/)</font>
 
 <font size="4">Mheissen S, **Spineli LM**, Daraqel B, Alsafadi AS. Language bias in orthodontic systematic reviews: A meta-epidemiological study. *PLoS One* 2024; 19(4):e0300881. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38557691/)</font>
@@ -112,6 +115,8 @@ output:
 ### Editorials 
 
 <div style="text-align: justify">
+<font size="4">**Spineli LM**, Pandis N. Two-stage vs one-stage meta-analysis. *Am J Orthod Dentofacial Orthop* 2023; 166(3):295-298. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39277277/)</font> 
+
 <font size="4">**Spineli LM**, Pandis N. An Introduction to Interpreting Meta-analyses for Orthodontists. *Semin Orthod* 2024; 30(1):50-57. [Journal](https://www.sciencedirect.com/science/article/pii/S1073874623001159)</font> 
 
 <font size="4">**Spineli LM**, Pandis N. Meta-analysis of split-mouth studies. *Am J Orthod Dentofacial Orthop* 2023; 163(3):445-448. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36870714/)</font> 

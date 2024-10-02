@@ -10,7 +10,11 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
-|02/2024     | **7. Internationale Konferenz der Deutsche Gesellschaft für Hebammenwissenschaft (DGHWi), 8.-9.2.2024, Berlin. ** | 
+|09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen.** | 
+|            | Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation. |
+|09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern.** | 
+|            | Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health. |
+|02/2024     | **7. Internationale Konferenz der Deutsche Gesellschaft für Hebammenwissenschaft (DGHWi), 8.-9.2.2024, Berlin.** | 
 |            | Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett. |
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
 |            | Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization. |
