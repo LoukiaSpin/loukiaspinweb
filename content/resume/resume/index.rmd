@@ -115,6 +115,8 @@ output:
 
 |                     |                                                                                  |
 |:--------------------|:---------------------------------------------------------------------------------|
+|June 2024            | **Teaching award in the category "Best module"** at 5.882,35 € (together with Professor Helena Zacharias) for the module _Einführung in die Datenanalyse_   |
+|                     | [Master in Biomedical Data Science](https://www.mhh.de/master-biomeddat) at Hannover Medical School |
 |June 2021            | **Individual research funding** at 292,450 € for three years                     |
 |                     | German Research Foundation                                                       |
 |                     | (Deutsche Forschungsgemeinschaft [462260733](https://gepris.dfg.de/gepris/projekt/462260733?language=en); SP 1664/2-1)  |
@@ -129,11 +131,11 @@ output:
 |                     | Department of Statistics and Insurance Science                                   |
 |                     | University of Piraeus, Piraeus, Greece                                           |
 
-### MEMBERSHIPS
+### SCIENTIFIC COMMITTEES/ MEMBERSHIPS
 
-- <font size="4"> International Society for Clinical Biostatisticians (since 2013) </font>  
-- <font size="4"> The Cochrane Collaboration (since 2018) </font> 
+- <font size="4"> Habilitationsausschuss, Hannover Medical School (since 2024) </font> 
 - <font size="4"> Author of the Cochrane Incontinence Group (since 2019) </font>
+- <font size="4"> International Society for Clinical Biostatisticians (since 2013) </font> 
 
 ### JOURNAL EDITORIAL BOARD
 
@@ -174,14 +176,16 @@ output:
 
 ### OTHER SCIENTIFIC ACTIVITIES
 
-|                    |                                                                                  |
-|:-------------------|:---------------------------------------------------------------------------------|
-|September 2019      | **Aktiv in der Lehre: Fortbildung für Lehrende an der MHH (14. Durchgang)**      |
-|December 2020       | Hannover Medical School, Hannover, Germany                                       |
-|February 2019       | **Basisprogramm zur Qualifizierung von Lehrenden der Medizinische Hochschule Hannover** |
-|                    | Hannover Medical School, Hannover, Germany                                       |
-|January 2016 –      | **8th Ina-Pichlmayr-Mentoring an der Medizinische Hochschule Hannover**          |
-|June 2017           | Hannover Medical School, Hannover, Germany                                       |
+|                     |                                                                                  |
+|:--------------------|:---------------------------------------------------------------------------------|
+|May 2023 –  present  | **TRAVELS - Interdisciplinary lecture series on the scientific method in Medicine & Life Sciences** |
+|                     | Hannover Medical School, Hannover, Germany (Co-organised)                        |
+|September 2019 –     | **Aktiv in der Lehre: Fortbildung für Lehrende an der MHH (14. Durchgang)**      |
+|December 2020        | Hannover Medical School, Hannover, Germany (Participation)                       |
+|February 2019        | **Basisprogramm zur Qualifizierung von Lehrenden der Medizinische Hochschule Hannover** |
+|                     | Hannover Medical School, Hannover, Germany (Participation)                       |
+|January 2016 –       | **8th Ina-Pichlmayr-Mentoring an der Medizinische Hochschule Hannover**          |
+|June 2017            | Hannover Medical School, Hannover, Germany (Participation)                       |
 
 ### LANGUAGES
 
