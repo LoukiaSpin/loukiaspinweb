@@ -31,7 +31,7 @@ social:
 - icon: "graduation-cap"
   icon_pack: fas
   link: https://scholar.google.com/citations?user=p55jwq0AAAAJ&hl=el&oi=ao
-- icon: ORCID
+- icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-9515-582X
 - icon: researchgate
