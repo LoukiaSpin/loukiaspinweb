@@ -11,11 +11,11 @@ output: html_document
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
 |09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen.** | 
-|            | Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation. |
+|            | Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation (poster). |
 |09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern.** | 
-|            | Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health. |
+|            | Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health (poster). |
 |02/2024     | **7. Internationale Konferenz der Deutsche Gesellschaft für Hebammenwissenschaft (DGHWi), 8.-9.2.2024, Berlin.** | 
-|            | Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett. |
+|            | Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett (poster). |
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
 |            | Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization. |
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
@@ -32,80 +32,80 @@ output: html_document
 |06/2023     | **33rd International Confederation of Midwives, Triennial Congress, 11-14/06/2023, Bali, Indonesia** | 
 |            | Rate, reasons and risk factors of intrapartum transfer from an alongside midwifery-led unit. |
 |05/2023     | **104. Deutscheρ Röntgenkongress in Wiesbaden (17.-19.05.2023)**    | 
-|            | Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten. (DOI: 10.1055/s-0043-1763055) |
+|            | Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten. (DOI: 10.1055/s-0043-1763055). |
 |04/2023     | **International Normal Labour and Birth Research Conference (24-26/04/2023), Grange-over-Sands, Cumbria, UK**    | 
-|            | Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey (poster) |
+|            | Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey (poster). |
 |03/2023     | **Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf), online, 27-31/03/23**    | 
-|            | Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package                          |
+|            | Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package.                          |
 |09/2022     | **European Society of Endodontology Biennial Congress, Budapest, 7-10/09/22**                   | 
-|            | Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis |
+|            | Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis. |
 |08/2022     | **65. GMDS-TMF-Jahrestagung in Kiel (held virtually), 21.-25.08.2022**                       | 
-|            | Evaluating the quality of reporting the transitivity assumption in complex networks of interventions |
+|            | Evaluating the quality of reporting the transitivity assumption in complex networks of interventions. |
 |08/2022     | **43th Annual Conference of the International Society for Clinical Biostatistics (hybrid), Newcastle, UK** |
-|            | Evaluating the quality of reporting the transitivity assumption in complex networks of interventions (poster) |
+|            | Evaluating the quality of reporting the transitivity assumption in complex networks of interventions (poster). |
 |07/2021     | **38th SBPqO, Brazilian division of the International Association for Dental Research (online), Brazil** | 
-|            | Disinfection after caries removal: a systematic review with GRADE approach (poster) |
+|            | Disinfection after caries removal: a systematic review with GRADE approach (poster). |
 |07/2021     | **42th Annual Conference of the International Society for Clinical Biostatistics (online), Lyon, France** | 
-|            | Quantifying the robustness of primary analysis results: a case study on missing outcome data in pairwise and network meta-analysis |
+|            | Quantifying the robustness of primary analysis results: a case study on missing outcome data in pairwise and network meta-analysis. |
 |06/2021     | **32nd International Confederation of Midwives Virtual Triennial Congress** | 
-|            | Midwifery-led antenatal care and spontaneous visits in emergency healthcare services during pregnancy at CHU Saint-Pierre, Brussels, Belgium (poster)|
+|            | Midwifery-led antenatal care and spontaneous visits in emergency healthcare services during pregnancy at CHU Saint-Pierre, Brussels, Belgium (poster).|
 |05/2021     | **16. Deutscher Hebammenkongress 2021 (als Online-Konfernez), 10.-12.05.2021** | 
-|            | Abfolge und zeitliche Zusammenhänge von subjektiv wahrgenommenen Geburtsbeginnsymptomen bei Erstgebärenden |
+|            | Abfolge und zeitliche Zusammenhänge von subjektiv wahrgenommenen Geburtsbeginnsymptomen bei Erstgebärenden. |
 |12/2020     | **Aktiv in der Lehre: Fortbildung für Lehrende an der MHH (14. Durchgang), 07.12.2020** | 
-|            | Course plan for Further Education: Integrating Systematic Reviews in Healthcare Decisions using ‘AidL Methods’ for Small Seminars. (poster) |
+|            | Course plan for Further Education: Integrating Systematic Reviews in Healthcare Decisions using ‘AidL Methods’ for Small Seminars (poster). |
 |09/2019     | **64. GMDS-Jahrestagung in Dortmund, 09.-11.09.2019** | 
-|            | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis |
+|            | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. |
 |07/2019     | **40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium** | 
-|            | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis |
+|            | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. |
 |07/2019     | **40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium** | 
-|            | Caution required in the analysis of poorly connected networks of interventions (poster) |
+|            | Caution required in the analysis of poorly connected networks of interventions (poster). |
 |06/2019     | **Normal Labour and Birth Research Conference, Grange Over Sands, Cumbria, North West England** | 
 |            | Community birth and transfer for primiparous women: a retrospective cohort study |
 |05/2019     | **Migration Trajectories and Health around Birth, Montreal, Canada** | 
-|            | Antenatal care midwifery-led and spontaneous visits in emergency services during pregnancy (poster) |
+|            | Antenatal care midwifery-led and spontaneous visits in emergency services during pregnancy (poster). |
 |09/2018     | **63. Jahrestagung der GMDS in Osnabrück, 02.-06.09.2018** | 
-|            | Comparison of methods to handle missing binary outcome data in network meta-analysis: an empirical study |
+|            | Comparison of methods to handle missing binary outcome data in network meta-analysis: an empirical study. |
 |06/2018     | **Research Synthesis 2018 Conference in the University of Trier, Trier, Germany** | 
-|            | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor |
+|            | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. |
 |03/2018     | **64. Biometrisches Kolloquium 2018 (IBS-DR), Biometrie: gelebte Vielfalt 25.-28. März 2018 an der Goethe-Universität Frankfurt** | 
-|            | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor |
+|            | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. |
 |11/2017     | **28th Congress of the German Society of Perinatal Medicine, Berlin, Germany** | 
-|            | Association between increased antenatal vaginal pH and preterm birth rate: a systematic review |
+|            | Association between increased antenatal vaginal pH and preterm birth rate: a systematic review. |
 |09/2017     | **The Global Evidence Summit--Cochrane South Africa in Cape Town** | 
-|            | Obtaining absolute effect estimates to facilitate Shared Decision Making in the context of multiple treatment comparisons |
+|            | Obtaining absolute effect estimates to facilitate Shared Decision Making in the context of multiple treatment comparisons. |
 |06/2017     | **31st ICM Triennial Congress in Toronto Canada** | 
-|            | Effectiveness of self-diagnosed vaginal pH scores for the prevention of preterm birth: a systematic review |
+|            | Effectiveness of self-diagnosed vaginal pH scores for the prevention of preterm birth: a systematic review. |
 |08/2016     | **Health – Exploring Complexity (HEC) 2016 in Ludwig-Maximilians-Universität München, Munich, Germany** | 
-|            | Graphical exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis |
+|            | Graphical exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis. |
 |06/2016     | **22. Jahrestagung der Deutschen Gesellschaft für Radioonkologie in Mannheimer Rosengarten** | 
-|            | Use of a Simultaneous Integrated Boost (SIB) in the intensity modulated Radiotherapy (IMRT) of locally advanced Head and Neck Tumors-a retrospective Analysis of Effectiveness and Toxicity |
+|            | Use of a Simultaneous Integrated Boost (SIB) in the intensity modulated Radiotherapy (IMRT) of locally advanced Head and Neck Tumors-a retrospective Analysis of Effectiveness and Toxicity. |
 |03/2016     | **Fourth Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik "Statistics under one Umbrella", Göttingen** | 
 |            | Graphical complete exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis |
 |01/2016     | **International Workshop on Humanized Mice** | 
-|            | Gender differences in human T cell reconstitution and maturation in humanized mice after cord blood stem cell transplantation |
+|            | Gender differences in human T cell reconstitution and maturation in humanized mice after cord blood stem cell transplantation. |
 |11/2015     | **Arbeitsgruppe (IBS / DR), Workshop, Institut für Medizinische Biometrie und Informatik, Universität Heidelberg, Heidelberg** | 
-|            | ‚Der p-Wert in der Lehre‘ und ‚Gute Lehrbücher für das Fach der Biometrie/Biostatistik‘ |
+|            | ‚Der p-Wert in der Lehre‘ und ‚Gute Lehrbücher für das Fach der Biometrie/Biostatistik‘. |
 |09/2015     | **60th Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie (GMDS) 2015 in Krefeld, Germany** | 
-|            | Principle considerations regarding the use of adaptive designs for trials in rare diseases and small populations |
+|            | Principle considerations regarding the use of adaptive designs for trials in rare diseases and small populations. |
 |08/2015     | **36th Annual Conference of the International Society for Clinical Biostatistics, University of Utrecht, Utrecht, The Netherlands** | 
-|            | Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases |
+|            | Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases. |
 |01/2015     | **Symposium on Small Populations, Wyndham Apollo Hotel, Amsterdam** | 
-|            | Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases |
+|            | Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases. |
 |07/2014     | **Symposium on Small Populations, Medizinische Universität Wien, Vienna, Austria** | 
-|            | Heterogeneity in meta-analyses of clinical trials and stages of an adaptive design |
+|            | Heterogeneity in meta-analyses of clinical trials and stages of an adaptive design. |
 |08/2013     | **23th Annual Conference of the International Society for Clinical Biostatistics, Ludwig-Maximilians-Universität, Munich, Germany** | 
-|            | Evaluating the impact of imputations for missing participant outcome data in network meta-analysis |
+|            | Evaluating the impact of imputations for missing participant outcome data in network meta-analysis. |
 |12/2012     | **3rd Hellenic Conference of the Forum of Public Health and Social Statistics, Athens** | 
-|            | The Impact of Trial Characteristics on Premature Discontinuation of Antipsychotics in Schizophrenia |
+|            | The Impact of Trial Characteristics on Premature Discontinuation of Antipsychotics in Schizophrenia. |
 
 ### Invited speaker
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
 |03/2019     | **Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany**                       | 
-|            | Missing Outcome Data in Network Meta-analysis of Healthcare Interventions: a combination of a systematic overview, empirical and simulation study – The NEMO (NEtwork meta-analysis with Missing Outcome data) project |
+|            | Missing Outcome Data in Network Meta-analysis of Healthcare Interventions: a combination of a systematic overview, empirical and simulation study – The NEMO (NEtwork meta-analysis with Missing Outcome data) project. |
 |09/2017     | **Seminar, Department of Statistics and Insurance Science, University of Piraeus, Piraeus, Greece** | 
-|            | Introduction to the systematic reviews and statistical heterogeneity |
+|            | Introduction to the systematic reviews and statistical heterogeneity. |
 |03/2016     | **Seminar, Department of Statistics and Insurance Science, University of Piraeus, Piraeus, Greece** | 
-|            | Network meta‐analysis: basic concepts, benefits and challenges of the next generation evidence synthesis tool |
+|            | Network meta‐analysis: basic concepts, benefits and challenges of the next generation evidence synthesis tool. |
 |12/2013     | **Biometrisches Kolloquium, Institute for Biostatistics, Medizinische Hochschule Hannover** | 
-|            | Network meta‐analysis: basic concepts, benefits and challenges of the next generation evidence synthesis tool |
+|            | Network meta‐analysis: basic concepts, benefits and challenges of the next generation evidence synthesis tool. |
