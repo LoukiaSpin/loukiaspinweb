@@ -10,6 +10,9 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
+<font size="4">**Spineli LM**. Local inconsistency detection using the Kullback-Leibler divergence measure. Syst Rev. 2024; 13(1):261.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39420381/)</font>
+
 <font size="4">Gehling H, **Spineli LM**, Gross MM. Investigating the associations between early labour onset symptoms and self-diagnosed labour onset in a cohort study of primiparas. Sex Reprod Healthc. 2024; 42:101033.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39277946/)</font>
 
