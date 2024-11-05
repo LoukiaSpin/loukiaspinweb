@@ -10,6 +10,8 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|10/2024     | **Normal Labour and Birth Conference, 28-30/10/2024, Hong Kong.** | 
+|            | Women’s experiences of German perinatal healthcare during the COVID-19 pandemic - findings from the cross-sectional survey COCOON (poster). |
 |09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen.** | 
 |            | Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation (poster). |
 |09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern.** | 
