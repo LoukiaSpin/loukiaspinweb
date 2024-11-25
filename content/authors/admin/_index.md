@@ -34,12 +34,12 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-9515-582X
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Loukia_Spineli
-- icon: linkedin
-  icon_pack: fab
-  link: "https://linkedin.com/in/loukia-spineli-6637309b"
+#- icon: researchgate
+#  icon_pack: fab
+#  link: https://www.researchgate.net/profile/Loukia_Spineli
+#- icon: linkedin
+#  icon_pack: fab
+#  link: "https://linkedin.com/in/loukia-spineli-6637309b"
 - icon: github
   icon_pack: fab
   link: https://github.com/LoukiaSpin
