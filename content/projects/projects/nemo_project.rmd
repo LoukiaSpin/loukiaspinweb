@@ -9,13 +9,13 @@ output:
 
 Under construction
 
-::: {style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 30px;"}
+::: {style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 25px;"}
 **Presentations**
 :::
 
 xx
 
-::: {style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 30px;"}
+::: {style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 25px;"}
 **Publications**
 :::
 
