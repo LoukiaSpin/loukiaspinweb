@@ -15,7 +15,7 @@ xx
 
 <div style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB;">__Publications__</div> 
 
-__Original research__
+### Original research
 
 <div style="text-align: justify">
 <font size="4">**Spineli LM**. Using network meta-analysis to predict the percentage of missing participants for a future trial. *Res Methods Med Health Sci* 2023; 4(4):140-149. [Journal](https://journals.sagepub.com/doi/full/10.1177/26320843231167502)</font>
@@ -41,10 +41,9 @@ __Original research__
 <font size="4">**Spineli LM**. Modeling missing binary outcome data while preserving transitivity assumption yielded more credible network meta-analysis results. *J Clin Epidemiol* 2019; 105:19-26. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30223064/)</font>
 </div>
 
-__R package__
+### R package
 
 <div style="text-align: justify">
 <font size="4">**Spineli LM**. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.4.0. 2024. https://CRAN.R-project.org/package=rnmamod [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/rnmamod</font>
-<!-- </details> -->
 </div>
 
