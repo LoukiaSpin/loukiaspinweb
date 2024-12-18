@@ -15,7 +15,6 @@ xx
 
 <div style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB;">__Publications__</div> 
 
-<!-- <details><summary>__Original research__</summary> -->
 __Original research__
 
 <div style="text-align: justify">
@@ -40,9 +39,7 @@ __Original research__
 <font size="4">**Spineli LM**, Yepes-Nuñez JJ, Schünemann HJ. A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. *BMC Med Res Methodol* 2018; 18(1):115. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30355280/)</font>
 
 <font size="4">**Spineli LM**. Modeling missing binary outcome data while preserving transitivity assumption yielded more credible network meta-analysis results. *J Clin Epidemiol* 2019; 105:19-26. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30223064/)</font>
-<!-- </details> -->
 </div>
-<!-- <details><summary>__R package__</summary> -->
 
 __R package__
 
