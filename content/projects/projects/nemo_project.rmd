@@ -13,22 +13,22 @@ Under construction
 **Presentations**
 :::
 
-|            |                                                                                              |
-|:-----------|:---------------------------------------------------------------------------------------------|
-|07/2021     | **42th Annual Conference of the International Society for Clinical Biostatistics (online), Lyon, France** | 
-|            | Quantifying the robustness of primary analysis results: a case study on missing outcome data in pairwise and network meta-analysis. |
-|09/2019     | **64. GMDS-Jahrestagung in Dortmund, 09.-11.09.2019** | 
-|            | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. |
-|07/2019     | **40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium** | 
-|            | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. |
-|03/2019     | **Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany**  |
-|            | Missing Outcome Data in Network Meta-analysis of Healthcare Interventions: a combination of a systematic overview, empirical and simulation study – The NEMO (NEtwork meta-analysis with Missing Outcome data) project. |
-|09/2018     | **63. Jahrestagung der GMDS in Osnabrück, 02.-06.09.2018** | 
-|            | Comparison of methods to handle missing binary outcome data in network meta-analysis: an empirical study. |
-|06/2018     | **Research Synthesis 2018 Conference in the University of Trier, Trier, Germany** | 
-|            | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. |
-|03/2018     | **64. Biometrisches Kolloquium 2018 (IBS-DR), Biometrie: gelebte Vielfalt 25.-28. März 2018 an der Goethe-Universität Frankfurt** | 
-|            | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. [Download presentation](/nemo presentations/ResearchSynthesis_Spineli.pdf)|
+|  |  |
+|:-------------|:---------------------------------------------------------|
+| 07/2021 | **42th Annual Conference of the International Society for Clinical Biostatistics (online), Lyon, France** |
+|  | Quantifying the robustness of primary analysis results: a case study on missing outcome data in pairwise and network meta-analysis. |
+| 09/2019 | **64. GMDS-Jahrestagung in Dortmund, 09.-11.09.2019** |
+|  | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. |
+| 07/2019 | **40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium** |
+|  | Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis. |
+| 03/2019 | **Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany** |
+|  | Missing Outcome Data in Network Meta-analysis of Healthcare Interventions: a combination of a systematic overview, empirical and simulation study – The NEMO (NEtwork meta-analysis with Missing Outcome data) project. |
+| 09/2018 | **63. Jahrestagung der GMDS in Osnabrück, 02.-06.09.2018** |
+|  | Comparison of methods to handle missing binary outcome data in network meta-analysis: an empirical study. |
+| 06/2018 | **Research Synthesis 2018 Conference in the University of Trier, Trier, Germany** |
+|  | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. |
+| 03/2018 | **64. Biometrisches Kolloquium 2018 (IBS-DR), Biometrie: gelebte Vielfalt 25.-28. März 2018 an der Goethe-Universität Frankfurt** |
+|  | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. [Download presentation](./nemo presentations/ResearchSynthesis_Spineli.pdf) |
 
 ::: {style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 25px;"}
 **Publications**
