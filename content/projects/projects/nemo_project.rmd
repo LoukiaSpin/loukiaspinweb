@@ -28,7 +28,7 @@ Under construction
 | 06/2018 | **Research Synthesis 2018 Conference in the University of Trier, Trier, Germany** |
 |  | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. |
 | 03/2018 | **64. Biometrisches Kolloquium 2018 (IBS-DR), Biometrie: gelebte Vielfalt 25.-28. März 2018 an der Goethe-Universität Frankfurt** |
-|  | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. [Download presentation](/nemopresentations/ResearchSynthesis_Spineli.pdf) |
+|  | A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor. [Download presentation](../content/projects/projects/nemopresentations/ResearchSynthesis_Spineli.pdf) |
 
 ::: {style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 25px;"}
 **Publications**
