@@ -10,6 +10,9 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
+<font size="4">Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. Statistical Heterogeneity in Oral Health Meta-Analyses. J Dent Res. 2025. doi: 10.1177/00220345251316279. Epub ahead of print.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39962342/)</font>
+
 <font size="4">**Spineli LM**. An empirical study on 209 networks of treatments revealed intransitivity to be common and multiple statistical tests suboptimal to assess transitivity. BMC Med Res Methodol. 2024; 24(1):301.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39681853/)</font>
 
