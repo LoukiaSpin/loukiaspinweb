@@ -45,8 +45,12 @@ output:
 
 |                   |                                                                                  |
 |:------------------|:---------------------------------------------------------------------------------|
-|January 2022 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
+|January 2025 –     | **Principal Investigator in Evidence Synthesis, Research Coordinator**                   |
 |present            | Midwifery Research and Education Unit                                            |
+|                   | Hannover Medical School, Hannover, Germany                                       |
+|                   | - Reporting and methodological quality of systematic reviews on labour duration | 
+|January 2022 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
+|December 2024      | Midwifery Research and Education Unit                                            |
 |                   | Hannover Medical School, Hannover, Germany                                       |
 |                   | - Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions | 
 |January 2020 –     | **Principal Investigator in Evidence Synthesis funded by DFG**                   |
@@ -87,7 +91,7 @@ output:
 |                   |                                                                                  |
 |:------------------|:---------------------------------------------------------------------------------|
 |January 2022 –     | **TRAnsitivity & Consistency Evaluation in Network Meta-Analysis**               |
-|present            | Principal investigator: Loukia Spineli                                           |
+|December 2024      | Principal investigator: Loukia Spineli                                           |
 |                   | *Objective*: Enrichment of the knowledge and methodology to evaluate the transitivity and consistency assumptions in complex networks of interventions |
 |                   | (Deutsche Forschungsgemeinschaft [462260733](https://gepris.dfg.de/gepris/projekt/462260733?language=en); SP 1664/2-1) |
 |January 2020 –     | **NEtwork and conventional meta-analysis with Missing Outcome data**             |
@@ -153,7 +157,7 @@ output:
 - <font size="4"> Diabetology & Metabolic Syndrome </font>
 - <font size="4"> European Journal of Obstetrics & Gynecology and Reproductive Biology </font>
 - <font size="4"> International Journal of Epidemiology </font>
-- <font size="4"> International Orthodontics
+- <font size="4"> International Orthodontics </font>
 - <font size="4"> Journal of the American Society of Hypertension </font>
 - <font size="4"> Journal of Clinical Epidemiology </font>
 - <font size="4"> Journal of Dentistry </font>
@@ -167,6 +171,7 @@ output:
 - <font size="4"> PLOS One </font>
 - <font size="4"> Research Synthesis Methods </font>
 - <font size="4"> Scientific Reports </font>
+- <font size="4"> Sexual & Reproductive Healthcare </font>
 - <font size="4"> Trials </font>
 
 ### GRANTS PEER REVIEWING

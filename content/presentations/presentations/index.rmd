@@ -10,8 +10,10 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|03/2025     | **26. Jahrestagung des EbM-Netzwerks, 26.-28. März 2025, Freiburg.** | 
+|            | Local inconsistency detection using the Kullback-Leibler divergence measure (poster). |
 |11/2024     | **ISPOR Europe 2024 (The International Society for Pharmacoeconomics and Outcomes Research), 17-20/11/2024, Barcelona International Convention Centre, Barcelona.** | 
-|            | Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes. |
+|            | Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes (poster). |
 |10/2024     | **Normal Labour and Birth Conference, 28-30/10/2024, Hong Kong.** | 
 |            | Women’s experiences of German perinatal healthcare during the COVID-19 pandemic - findings from the cross-sectional survey COCOON (poster). |
 |09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen.** | 
