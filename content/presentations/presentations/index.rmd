@@ -11,38 +11,37 @@ output: html_document
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
 |03/2025     | **26. Jahrestagung des EbM-Netzwerks, 26.-28. März 2025, Freiburg.** | 
-|            | Local inconsistency detection using the Kullback-Leibler divergence measure (poster). |
+|            | Spineli LM. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) |
 |11/2024     | **ISPOR Europe 2024 (The International Society for Pharmacoeconomics and Outcomes Research), 17-20/11/2024, Barcelona International Convention Centre, Barcelona.** | 
-|            | Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes (poster). |
+|            | Friedrich G, Nevière A, Spineli LM, Papadimitropoulou K, Gauthier A. *Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes.* (poster) |
 |10/2024     | **Normal Labour and Birth Conference, 28-30/10/2024, Hong Kong.** | 
-|            | Women’s experiences of German perinatal healthcare during the COVID-19 pandemic - findings from the cross-sectional survey COCOON (poster). |
-|09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen.** | 
-|            | Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation (poster). |
+|            | Hallet AC, Spineli LM, Loughnan S, Flenady V, Gross MM. *Women’s experiences of German perinatal healthcare during the COVID-19 pandemic - findings from the cross-sectional survey COCOON.* (poster) |
+|09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen.**| 
+|            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, Spineli LM, Zacharias HU. *Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation.* (poster) |
 |09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern.** | 
-|            | Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health (poster). |
-|02/2024     | **7. Internationale Konferenz der Deutsche Gesellschaft für Hebammenwissenschaft (DGHWi), 8.-9.2.2024, Berlin.** | 
-|            | Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett (poster). |
-|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
-|            | Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization. |
-|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023. ** | 
-|            | Intra-surgical efficacy of air-polishing in decontaminating implant surfaces. A laboratory study. |
-|09/2023     | **68. GMDS-TMF-Jahrestagung in Heilbronn, 17.-21.09.2023. ** | 
-|            | Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions. |
+|            | Tatas Z, Kyriakou E, Seehra J, Pandis N, Spineli LM. *Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health.* (poster) |
+|02/2024     | **7.Internationale Konferenz der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi), Heba-Päd – 1.Konferenz zur pädagogischen Arbeit im Hebammenstudium der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi) und des Deutschen Hebammenverbands (DHV). Berlin, 08.-10.02.2024.** | 
+|            | Hess C, Spineli LM, Zinßer LA, Groß MM. *Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett.* (poster). Düsseldorf: German Medical Science GMS Publishing House; 2024. DocIK-P27. DOI: 10.3205/24dghwi57, URN: urn:nbn:de:0183-24dghwi574, doi: 10.3205/24dghwi57.|
+|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023.** | 
+|            | Bertl K, Dahi M, Amash S, Beck F, Heimel P, Spineli LM, Stavropoulos A. *Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization.* |
+|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023.** | 
+|            | Stavropoulos A, Al Said A, Mustafa O, Heimel P, Spineli LM, Bertl K. *Intra-surgical efficacy of air-polishing in decontaminating implant surfaces. A laboratory study.* |
+|09/2023     | **Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie. 68. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS). Heilbronn, 17.-21.09.2023.** | 
+|            | Spineli LM. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* Düsseldorf: German Medical Science GMS Publishing House; 2023. DocAbstr. 107, doi: 10.3205/23gmds078. |
 |09/2023     | **Lübecker interprofessioneller Perinatalkongress (online), 15.-16.09.2023** | 
-|            | Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?. |
+|            | Hünig J, Spineli LM, Oblasser C, Gross MM. *Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?* |
 |09/2023     | **European Society of Endodontology Helsinki 2023 - European Society of Endodontology Biennial Congress, 06-09/09/2023** | 
-|            | A repeated cross-sectional study of the periapical health related to the quality of root canal treatment in a Belgian population. |
-|            | - Won the **ESE Wladimir Adlivankine Research prize**. Recipient: Georgios Keratiotis (the presenter). |
+|            | Keratiotis G, Spineli LM, De Bruyne MAA, De Moor RJG, Meire MA. *A repeated cross-sectional study of the periapical health related to the quality of root canal treatment in a Belgian population.* [Won the **ESE Wladimir Adlivankine Research prize**. Recipient: Georgios Keratiotis (the presenter)] |
 |08/2023     | **44th Annual Conference of the International Society for Clinical Biostatistics (hybrid), 27-31/08/2023, Milan, Italy** | 
-|            | Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions. |
+|            | Spineli LM. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* |
 |06/2023     | **33rd International Confederation of Midwives, Triennial Congress, 11-14/06/2023, Bali, Indonesia** | 
-|            | Rate, reasons and risk factors of intrapartum transfer from an alongside midwifery-led unit. |
+|            | Michel S, Oblasser C, Spineli LM, Gross MM. *Rate, reasons and risk factors of intrapartum transfer from an alongside midwifery-led unit.* |
 |05/2023     | **104. Deutscheρ Röntgenkongress in Wiesbaden (17.-19.05.2023)**    | 
-|            | Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten. (DOI: 10.1055/s-0043-1763055). |
-|04/2023     | **International Normal Labour and Birth Research Conference (24-26/04/2023), Grange-over-Sands, Cumbria, UK**    | 
-|            | Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey (poster). |
+|            | Winther HB, Bronzlik P, Sobootian DJ, Spineli LM, Becker L, Marcel E, Bültmann E. *Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten.* Abstracts / Vortrag (Wissenschaft) / IT/Bildverarbeitung/Software. RöFo 2023; 195(S01): 41-42. DOI: 10.1055/s-0043-1763055. |
+|04/2023     | **International Normal Labour and Birth Research Conference (24-26/04/2023), Grange-over-Sands, Cumbria, UK**    |
+|            | Hallet AV, Oblasser C, Spineli LM, Gross MM. *Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey.* (poster) |
 |03/2023     | **Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf), online, 27-31/03/23**    | 
-|            | Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package.                          |
+|            | Spineli LM, Kalyvas C, Papadimitropoulou K. *Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package.* [YouTube video](https://www.youtube.com/watch?v=ZfrU3OpEE5A) |
 |09/2022     | **European Society of Endodontology Biennial Congress, Budapest, 7-10/09/22**                   | 
 |            | Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis. |
 |08/2022     | **65. GMDS-TMF-Jahrestagung in Kiel (held virtually), 21.-25.08.2022**                       | 
@@ -107,7 +106,7 @@ output: html_document
 ### Invited speaker
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
-|03/2019     | **Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany**                       | 
+|03/2019     | **Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany**| 
 |            | Missing Outcome Data in Network Meta-analysis of Healthcare Interventions: a combination of a systematic overview, empirical and simulation study – The NEMO (NEtwork meta-analysis with Missing Outcome data) project. |
 |09/2017     | **Seminar, Department of Statistics and Insurance Science, University of Piraeus, Piraeus, Greece** | 
 |            | Introduction to the systematic reviews and statistical heterogeneity. |
