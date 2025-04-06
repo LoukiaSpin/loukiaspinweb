@@ -11,7 +11,7 @@ output: html_document
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
 |03/2025     | **26. Jahrestagung des Netzwerks Evidenzbasierte Medizin. Freiburg, 26.-28.03.2025** | 
-|            | Spineli LM. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) [doi: 10.3205/25ebm074](https://www.egms.de/static/en/meetings/ebm2025/25ebm074.shtml) |
+|            | **Spineli LM**. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) [doi: 10.3205/25ebm074](https://www.egms.de/static/en/meetings/ebm2025/25ebm074.shtml) |
 |11/2024     | **ISPOR Europe 2024 (The International Society for Pharmacoeconomics and Outcomes Research), 17-20/11/2024, Barcelona International Convention Centre, Barcelona** | 
 |            | Friedrich G, Nevière A, Spineli LM, Papadimitropoulou K, Gauthier A. *Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes.* (poster) [doi: 10.1016/j.jval.2024.10.2339](https://www.valueinhealthjournal.com/article/S1098-3015(24)05202-1/fulltext) |
 |10/2024     | **Normal Labour and Birth Conference, 28-30/10/2024, Hong Kong** | 
@@ -21,7 +21,7 @@ output: html_document
 |09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern** | 
 |            | Tatas Z, Kyriakou E, Seehra J, Pandis N, Spineli LM. *Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health.* (poster) |
 |02/2024     | **7.Internationale Konferenz der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi), Heba-Päd – 1.Konferenz zur pädagogischen Arbeit im Hebammenstudium der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi) und des Deutschen Hebammenverbands (DHV). Berlin, 08.-10.02.2024** | 
-|            | Hess C, Spineli LM, Zinßer LA, Groß MM. *Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett.* (poster). [doi: 10.3205/24dghwi57](https://www.egms.de/static/en/meetings/dghwi2024/24dghwi57.shtml)|
+|            | Hess C, Spineli LM, Zinßer LA, Groß MM. *Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett.* (poster) [doi: 10.3205/24dghwi57](https://www.egms.de/static/en/meetings/dghwi2024/24dghwi57.shtml)|
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023** | 
 |            | Bertl K, Dahi M, Amash S, Beck F, Heimel P, Spineli LM, Stavropoulos A. *Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization.* |
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023** | 
@@ -37,7 +37,7 @@ output: html_document
 |06/2023     | **33rd International Confederation of Midwives, Triennial Congress, 11-14/06/2023, Bali, Indonesia** | 
 |            | Michel S, Oblasser C, Spineli LM, Gross MM. *Rate, reasons and risk factors of intrapartum transfer from an alongside midwifery-led unit.* |
 |05/2023     | **104. Deutscheρ Röntgenkongress in Wiesbaden (17.-19.05.2023)**    | 
-|            | Winther HB, Bronzlik P, Sobootian DJ, Spineli LM, Becker L, Marcel E, Bültmann E. *Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten.* Abstracts / Vortrag (Wissenschaft) / IT/Bildverarbeitung/Software. RöFo 2023; 195(S01): 41-42. DOI: 10.1055/s-0043-1763055. |
+|            | Winther HB, Bronzlik P, Sobootian DJ, Spineli LM, Becker L, Marcel E, Bültmann E. *Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten.* [doi: 10.1055/s-0043-1763055](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0043-1763055) |
 |04/2023     | **International Normal Labour and Birth Research Conference (24-26/04/2023), Grange-over-Sands, Cumbria, UK**    |
 |            | Hallet AV, Oblasser C, Spineli LM, Gross MM. *Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey.* (poster) |
 |03/2023     | **Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf), online, 27-31/03/23**    | 
@@ -47,7 +47,7 @@ output: html_document
 |08/2022     | **67. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS), 13. Jahreskongress der Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V. (TMF). Kiel, 21.-25.08.2022**| 
 |            | Spineli LM, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* [doi: 10.3205/22gmds077](https://www.egms.de/static/en/meetings/gmds2022/22gmds077.shtml) |
 |08/2022     | **43th Annual Conference of the International Society for Clinical Biostatistics (hybrid), Newcastle, UK** |
-|            | Spineli LM, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* (poster). |
+|            | Spineli LM, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* (poster) |
 |07/2021     | **38th SBPqO, Brazilian division of the International Association for Dental Research (online), Brazil** | 
 |            | Ferreira LAQ, Diniz IMA, Peixoto RTRDC, Gomes NA, Caneschi CS, Spineli LM, Martins CC. *Disinfection after caries removal: a systematic review with GRADE approach.* (poster) |
 |07/2021     | **42th Annual Conference of the International Society for Clinical Biostatistics (online), Lyon, France** | 
@@ -77,7 +77,7 @@ output: html_document
 |11/2017     | **28th Congress of the German Society of Perinatal Medicine, Berlin, Germany** | 
 |            | Weckend MJ, Spineli LM, Grylka-Baeschlin S, Gross MM. *Association between increased antenatal vaginal pH and preterm birth rate: a systematic review.* |
 |09/2017     | **The Global Evidence Summit--Cochrane South Africa in Cape Town** | 
-|            | Spineli LM, Brignardello-Petersen R, Heen A, Achille F, Brandt L, Guyatt G, Vandvik P, Agoritsas T. *Obtaining absolute effect estimates to facilitate Shared Decision Making in the context of multiple treatment comparisons.* [Source](dx.doi.org/10.1002/14651858.CD201702) |
+|            | Spineli LM, Brignardello-Petersen R, Heen A, Achille F, Brandt L, Guyatt G, Vandvik P, Agoritsas T. *Obtaining absolute effect estimates to facilitate Shared Decision Making in the context of multiple treatment comparisons.* [Source](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD201702/full) |
 |06/2017     | **31st ICM Triennial Congress in Toronto Canada** | 
 |            | Weckend MJ, Spineli LM, Grylka-Baeschlin S, Gross MM. *Effectiveness of self-diagnosed vaginal pH scores for the prevention of preterm birth: a systematic review.* |
 |08/2016     | **Health – Exploring Complexity (HEC) 2016 in Ludwig-Maximilians-Universität München, Munich, Germany** | 
