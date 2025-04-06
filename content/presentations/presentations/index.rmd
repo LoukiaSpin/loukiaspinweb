@@ -10,24 +10,24 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
-|03/2025     | **26. Jahrestagung des EbM-Netzwerks, 26.-28. März 2025, Freiburg.** | 
-|            | Spineli LM. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) |
-|11/2024     | **ISPOR Europe 2024 (The International Society for Pharmacoeconomics and Outcomes Research), 17-20/11/2024, Barcelona International Convention Centre, Barcelona.** | 
-|            | Friedrich G, Nevière A, Spineli LM, Papadimitropoulou K, Gauthier A. *Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes.* (poster) |
-|10/2024     | **Normal Labour and Birth Conference, 28-30/10/2024, Hong Kong.** | 
+|03/2025     | **26. Jahrestagung des Netzwerks Evidenzbasierte Medizin. Freiburg, 26.-28.03.2025** | 
+|            | Spineli LM. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) [doi: 10.3205/25ebm074](https://www.egms.de/static/en/meetings/ebm2025/25ebm074.shtml) |
+|11/2024     | **ISPOR Europe 2024 (The International Society for Pharmacoeconomics and Outcomes Research), 17-20/11/2024, Barcelona International Convention Centre, Barcelona** | 
+|            | Friedrich G, Nevière A, Spineli LM, Papadimitropoulou K, Gauthier A. *Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes.* (poster) [doi: 10.1016/j.jval.2024.10.2339](https://www.valueinhealthjournal.com/article/S1098-3015(24)05202-1/fulltext) |
+|10/2024     | **Normal Labour and Birth Conference, 28-30/10/2024, Hong Kong** | 
 |            | Hallet AC, Spineli LM, Loughnan S, Flenady V, Gross MM. *Women’s experiences of German perinatal healthcare during the COVID-19 pandemic - findings from the cross-sectional survey COCOON.* (poster) |
-|09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen.**| 
+|09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen**| 
 |            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, Spineli LM, Zacharias HU. *Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation.* (poster) |
-|09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern.** | 
+|09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern** | 
 |            | Tatas Z, Kyriakou E, Seehra J, Pandis N, Spineli LM. *Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health.* (poster) |
-|02/2024     | **7.Internationale Konferenz der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi), Heba-Päd – 1.Konferenz zur pädagogischen Arbeit im Hebammenstudium der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi) und des Deutschen Hebammenverbands (DHV). Berlin, 08.-10.02.2024.** | 
-|            | Hess C, Spineli LM, Zinßer LA, Groß MM. *Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett.* (poster). Düsseldorf: German Medical Science GMS Publishing House; 2024. DocIK-P27. DOI: 10.3205/24dghwi57, URN: urn:nbn:de:0183-24dghwi574, doi: 10.3205/24dghwi57.|
-|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023.** | 
+|02/2024     | **7.Internationale Konferenz der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi), Heba-Päd – 1.Konferenz zur pädagogischen Arbeit im Hebammenstudium der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi) und des Deutschen Hebammenverbands (DHV). Berlin, 08.-10.02.2024** | 
+|            | Hess C, Spineli LM, Zinßer LA, Groß MM. *Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett.* (poster). [doi: 10.3205/24dghwi57](https://www.egms.de/static/en/meetings/dghwi2024/24dghwi57.shtml)|
+|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023** | 
 |            | Bertl K, Dahi M, Amash S, Beck F, Heimel P, Spineli LM, Stavropoulos A. *Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization.* |
-|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023.** | 
+|09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023** | 
 |            | Stavropoulos A, Al Said A, Mustafa O, Heimel P, Spineli LM, Bertl K. *Intra-surgical efficacy of air-polishing in decontaminating implant surfaces. A laboratory study.* |
-|09/2023     | **68. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS). Heilbronn, 17.-21.09.2023.** [doi: 10.3205/23gmds078](https://www.egms.de/static/de/meetings/gmds2023/23gmds078.shtml) | 
-|            | Spineli LM. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* Düsseldorf: German Medical Science GMS Publishing House; 2023. DocAbstr. 107, doi: 10.3205/23gmds078. |
+|09/2023     | **68. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS). Heilbronn, 17.-21.09.2023** | 
+|            | Spineli LM. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* [doi: 10.3205/23gmds078](https://www.egms.de/static/de/meetings/gmds2023/23gmds078.shtml) |
 |09/2023     | **Lübecker interprofessioneller Perinatalkongress (online), 15.-16.09.2023** | 
 |            | Hünig J, Spineli LM, Oblasser C, Gross MM. *Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?* |
 |09/2023     | **European Society of Endodontology Helsinki 2023 - European Society of Endodontology Biennial Congress, 06-09/09/2023** | 
@@ -44,7 +44,7 @@ output: html_document
 |            | Spineli LM, Kalyvas C, Papadimitropoulou K. *Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package.* [YouTube video](https://www.youtube.com/watch?v=ZfrU3OpEE5A) |
 |09/2022     | **European Society of Endodontology Biennial Congress, Budapest, 7-10/09/22**                   | 
 |            | Fasoulas A, Keratiotis G, Spineli LM, Pandis N, De Bruyne MAA, De Moor RJG, Meire MA. *Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis.* |
-|08/2022     | **67. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS), 13. Jahreskongress der Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V. (TMF). Kiel, 21.-25.08.2022.**| 
+|08/2022     | **67. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS), 13. Jahreskongress der Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V. (TMF). Kiel, 21.-25.08.2022**| 
 |            | Spineli LM, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* [doi: 10.3205/22gmds077](https://www.egms.de/static/en/meetings/gmds2022/22gmds077.shtml) |
 |08/2022     | **43th Annual Conference of the International Society for Clinical Biostatistics (hybrid), Newcastle, UK** |
 |            | Spineli LM, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* (poster). |
