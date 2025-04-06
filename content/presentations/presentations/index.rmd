@@ -13,97 +13,97 @@ output: html_document
 |03/2025     | **26. Jahrestagung des Netzwerks Evidenzbasierte Medizin. Freiburg, 26.-28.03.2025** | 
 |            | **Spineli LM**. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) [doi: 10.3205/25ebm074](https://www.egms.de/static/en/meetings/ebm2025/25ebm074.shtml) |
 |11/2024     | **ISPOR Europe 2024 (The International Society for Pharmacoeconomics and Outcomes Research), 17-20/11/2024, Barcelona International Convention Centre, Barcelona** | 
-|            | Friedrich G, Nevière A, Spineli LM, Papadimitropoulou K, Gauthier A. *Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes.* (poster) [doi: 10.1016/j.jval.2024.10.2339](https://www.valueinhealthjournal.com/article/S1098-3015(24)05202-1/fulltext) |
+|            | Friedrich G, Nevière A, **Spineli LM**, Papadimitropoulou K, Gauthier A. *Tackling Rare Events in Network Meta-Analysis: Comparative Performance of Methods for Sparse Safety Outcomes.* (poster) [doi: 10.1016/j.jval.2024.10.2339](https://www.valueinhealthjournal.com/article/S1098-3015(24)05202-1/fulltext) |
 |10/2024     | **Normal Labour and Birth Conference, 28-30/10/2024, Hong Kong** | 
-|            | Hallet AC, Spineli LM, Loughnan S, Flenady V, Gross MM. *Women’s experiences of German perinatal healthcare during the COVID-19 pandemic - findings from the cross-sectional survey COCOON.* (poster) |
+|            | Hallet AC, **Spineli LM**, Loughnan S, Flenady V, Gross MM. *Women’s experiences of German perinatal healthcare during the COVID-19 pandemic - findings from the cross-sectional survey COCOON.* (poster) |
 |09/2024     | **DGMet (Deutsche Gesellschaft für Metabolomforschung) annual meeting, 25-26/09/2024, Schloss Rauischholzhausen**| 
-|            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, Spineli LM, Zacharias HU. *Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation.* (poster) |
+|            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, **Spineli LM**, Zacharias HU. *Addressing the challenges of high metabolite/lipoprotein inter-correlations in mixed graphical model estimation.* (poster) |
 |09/2024     | **10th International Conference, Methodological Issues in Oral Health Research, 9-11/09/2024, School of Dental Medicine of the University of Bern, Bern** | 
-|            | Tatas Z, Kyriakou E, Seehra J, Pandis N, Spineli LM. *Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health.* (poster) |
+|            | Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. *Undue reliance on I2 when reporting and interpreting statistical heterogeneity: an empirical study on 313 meta-analyses in oral health.* (poster) |
 |02/2024     | **7.Internationale Konferenz der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi), Heba-Päd – 1.Konferenz zur pädagogischen Arbeit im Hebammenstudium der Deutschen Gesellschaft für Hebammenwissenschaft (DGHWi) und des Deutschen Hebammenverbands (DHV). Berlin, 08.-10.02.2024** | 
-|            | Hess C, Spineli LM, Zinßer LA, Groß MM. *Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett.* (poster) [doi: 10.3205/24dghwi57](https://www.egms.de/static/en/meetings/dghwi2024/24dghwi57.shtml)|
+|            | Hess C, **Spineli LM**, Zinßer LA, Groß MM. *Erfahrung und Bewertung des sexuellen Erlebens von Frauen mit Beckenbodentraining im Wochenbett.* (poster) [doi: 10.3205/24dghwi57](https://www.egms.de/static/en/meetings/dghwi2024/24dghwi57.shtml)|
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023** | 
-|            | Bertl K, Dahi M, Amash S, Beck F, Heimel P, Spineli LM, Stavropoulos A. *Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization.* |
+|            | Bertl K, Dahi M, Amash S, Beck F, Heimel P, **Spineli LM**, Stavropoulos A. *Effect of hyaluronic acid on palatal wound healing – A split mouth RCT with focus on pain and re-epithelization.* |
 |09/2023     | **Berlin reloaded (30th European Association for Osseointegration annual scientific meeting & 37th German Association of Oral Implantology annual congress), 28-30/09/2023** | 
-|            | Stavropoulos A, Al Said A, Mustafa O, Heimel P, Spineli LM, Bertl K. *Intra-surgical efficacy of air-polishing in decontaminating implant surfaces. A laboratory study.* |
+|            | Stavropoulos A, Al Said A, Mustafa O, Heimel P, **Spineli LM**, Bertl K. *Intra-surgical efficacy of air-polishing in decontaminating implant surfaces. A laboratory study.* |
 |09/2023     | **68. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS). Heilbronn, 17.-21.09.2023** | 
-|            | Spineli LM. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* [doi: 10.3205/23gmds078](https://www.egms.de/static/de/meetings/gmds2023/23gmds078.shtml) |
+|            | **Spineli LM**. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* [doi: 10.3205/23gmds078](https://www.egms.de/static/de/meetings/gmds2023/23gmds078.shtml) |
 |09/2023     | **Lübecker interprofessioneller Perinatalkongress (online), 15.-16.09.2023** | 
-|            | Hünig J, Spineli LM, Oblasser C, Gross MM. *Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?* |
+|            | Hünig J, **Spineli LM**, Oblasser C, Gross MM. *Rizinusöl - veraltete, gefährliche oder zukunftweisende Methode der Geburtseinleitung?* |
 |09/2023     | **European Society of Endodontology Helsinki 2023 - European Society of Endodontology Biennial Congress, 06-09/09/2023** | 
-|            | Keratiotis G, Spineli LM, De Bruyne MAA, De Moor RJG, Meire MA. *A repeated cross-sectional study of the periapical health related to the quality of root canal treatment in a Belgian population.* [Won the **ESE Wladimir Adlivankine Research prize**. Recipient: Georgios Keratiotis (the presenter)] |
+|            | Keratiotis G, **Spineli LM**, De Bruyne MAA, De Moor RJG, Meire MA. *A repeated cross-sectional study of the periapical health related to the quality of root canal treatment in a Belgian population.* [Won the **ESE Wladimir Adlivankine Research prize**. Recipient: Georgios Keratiotis (the presenter)] |
 |08/2023     | **44th Annual Conference of the International Society for Clinical Biostatistics (hybrid), 27-31/08/2023, Milan, Italy** | 
-|            | Spineli LM. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* |
+|            | **Spineli LM**. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* |
 |06/2023     | **33rd International Confederation of Midwives, Triennial Congress, 11-14/06/2023, Bali, Indonesia** | 
-|            | Michel S, Oblasser C, Spineli LM, Gross MM. *Rate, reasons and risk factors of intrapartum transfer from an alongside midwifery-led unit.* |
+|            | Michel S, Oblasser C, **Spineli LM**, Gross MM. *Rate, reasons and risk factors of intrapartum transfer from an alongside midwifery-led unit.* |
 |05/2023     | **104. Deutscheρ Röntgenkongress in Wiesbaden (17.-19.05.2023)**    | 
-|            | Winther HB, Bronzlik P, Sobootian DJ, Spineli LM, Becker L, Marcel E, Bültmann E. *Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten.* [doi: 10.1055/s-0043-1763055](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0043-1763055) |
+|            | Winther HB, Bronzlik P, Sobootian DJ, **Spineli LM**, Becker L, Marcel E, Bültmann E. *Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten.* [doi: 10.1055/s-0043-1763055](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0043-1763055) |
 |04/2023     | **International Normal Labour and Birth Research Conference (24-26/04/2023), Grange-over-Sands, Cumbria, UK**    |
-|            | Hallet AV, Oblasser C, Spineli LM, Gross MM. *Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey.* (poster) |
+|            | Hallet AV, Oblasser C, **Spineli LM**, Gross MM. *Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey.* (poster) |
 |03/2023     | **Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf), online, 27-31/03/23**    | 
-|            | Spineli LM, Kalyvas C, Papadimitropoulou K. *Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package.* [YouTube video](https://www.youtube.com/watch?v=ZfrU3OpEE5A) |
+|            | **Spineli LM**, Kalyvas C, Papadimitropoulou K. *Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package.* [YouTube video](https://www.youtube.com/watch?v=ZfrU3OpEE5A) |
 |09/2022     | **European Society of Endodontology Biennial Congress, Budapest, 7-10/09/22**                   | 
-|            | Fasoulas A, Keratiotis G, Spineli LM, Pandis N, De Bruyne MAA, De Moor RJG, Meire MA. *Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis.* |
+|            | Fasoulas A, Keratiotis G, **Spineli LM**, Pandis N, De Bruyne MAA, De Moor RJG, Meire MA. *Comparative efficacy of materials used in patients undergoing pulpotomy or direct pulp capping in carious teeth: A systematic review and meta-analysis.* |
 |08/2022     | **67. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS), 13. Jahreskongress der Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V. (TMF). Kiel, 21.-25.08.2022**| 
-|            | Spineli LM, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* [doi: 10.3205/22gmds077](https://www.egms.de/static/en/meetings/gmds2022/22gmds077.shtml) |
+|            | **Spineli LM**, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* [doi: 10.3205/22gmds077](https://www.egms.de/static/en/meetings/gmds2022/22gmds077.shtml) |
 |08/2022     | **43th Annual Conference of the International Society for Clinical Biostatistics (hybrid), Newcastle, UK** |
-|            | Spineli LM, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* (poster) |
+|            | **Spineli LM**, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* (poster) |
 |07/2021     | **38th SBPqO, Brazilian division of the International Association for Dental Research (online), Brazil** | 
-|            | Ferreira LAQ, Diniz IMA, Peixoto RTRDC, Gomes NA, Caneschi CS, Spineli LM, Martins CC. *Disinfection after caries removal: a systematic review with GRADE approach.* (poster) |
+|            | Ferreira LAQ, Diniz IMA, Peixoto RTRDC, Gomes NA, Caneschi CS, **Spineli LM**, Martins CC. *Disinfection after caries removal: a systematic review with GRADE approach.* (poster) |
 |07/2021     | **42th Annual Conference of the International Society for Clinical Biostatistics (online), Lyon, France** | 
-|            | Spineli LM, Kalyvas C, Papadimitropoulou K. *Quantifying the robustness of primary analysis results: a case study on missing outcome data in pairwise and network meta-analysis.* |
+|            | **Spineli LM**, Kalyvas C, Papadimitropoulou K. *Quantifying the robustness of primary analysis results: a case study on missing outcome data in pairwise and network meta-analysis.* |
 |06/2021     | **32nd International Confederation of Midwives Virtual Triennial Congress (Online)** | 
-|            | Vincent C, Spineli LM, Barlow P, Gross MM. *Midwifery-led antenatal care and spontaneous visits in emergency healthcare services during pregnancy at CHU Saint-Pierre, Brussels, Belgium.* (poster)|
+|            | Vincent C, **Spineli LM**, Barlow P, Gross MM. *Midwifery-led antenatal care and spontaneous visits in emergency healthcare services during pregnancy at CHU Saint-Pierre, Brussels, Belgium.* (poster)|
 |05/2021     | **16. Deutscher Hebammenkongress 2021 (als Online-Konfernez), 10.-12.05.2021** | 
-|            | Gehling H, Spineli LM, Gross MM. *Abfolge und zeitliche Zusammenhänge von subjektiv wahrgenommenen Geburtsbeginnsymptomen bei Erstgebärenden.* |
+|            | Gehling H, **Spineli LM**, Gross MM. *Abfolge und zeitliche Zusammenhänge von subjektiv wahrgenommenen Geburtsbeginnsymptomen bei Erstgebärenden.* |
 |12/2020     | **Aktiv in der Lehre: Fortbildung für Lehrende an der MHH (14. Durchgang), 07.12.2020 (Online)** | 
-|            | Spineli LM. *Course plan for Further Education: Integrating Systematic Reviews in Healthcare Decisions using ‘AidL Methods’ for Small Seminars.* (poster) |
+|            | **Spineli LM**. *Course plan for Further Education: Integrating Systematic Reviews in Healthcare Decisions using ‘AidL Methods’ for Small Seminars.* (poster) |
 |09/2019     | **64. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e.V. (GMDS). Dortmund, 08.-11.09.2019** | 
-|            | Spineli LM, Kalyvas C. *Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis.* [doi: 10.3205/19gmds077](https://www.egms.de/static/en/meetings/gmds2019/19gmds077.shtml) |
+|            | **Spineli LM**, Kalyvas C. *Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis.* [doi: 10.3205/19gmds077](https://www.egms.de/static/en/meetings/gmds2019/19gmds077.shtml) |
 |07/2019     | **40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium** | 
-|            | Spineli LM, Kalyvas C. *Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis.* |
+|            | **Spineli LM**, Kalyvas C. *Comparison of exclusion, imputation and modelling of missing binary outcome data in frequentist network meta-analysis.* |
 |07/2019     | **40th Annual Conference of the International Society for Clinical Biostatistics, Leuven, Belgium** | 
-|            | Kalyvas C, Pateras K, Spineli LM. *Caution required in the analysis of poorly connected networks of interventions.* (poster) |
+|            | Kalyvas C, Pateras K, **Spineli LM**. *Caution required in the analysis of poorly connected networks of interventions.* (poster) |
 |06/2019     | **Normal Labour and Birth Research Conference, Grange Over Sands, Cumbria, North West England** | 
-|            | Hill J, Spineli LM, Gross MM. *Community birth and transfer for primiparous women: a retrospective cohort study.* |
+|            | Hill J, **Spineli LM**, Gross MM. *Community birth and transfer for primiparous women: a retrospective cohort study.* |
 |05/2019     | **Migration Trajectories and Health around Birth, Montreal, Canada** | 
-|            | Vincent C, Spineli LM, Barlow P, Gross MM. *Antenatal care midwifery-led and spontaneous visits in emergency services during pregnancy.* (poster) |
+|            | Vincent C, **Spineli LM**, Barlow P, Gross MM. *Antenatal care midwifery-led and spontaneous visits in emergency services during pregnancy.* (poster) |
 |09/2018     | **63. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e.V. (GMDS). Osnabrück, 02.-06.09.2018** | 
-|            | Spineli LM. *Comparison of methods to handle missing binary outcome data in network meta-analysis: an empirical study.* [doi: 10.3205/18gmds042](https://www.egms.de/static/en/meetings/gmds2018/18gmds042.shtml) |
+|            | **Spineli LM**. *Comparison of methods to handle missing binary outcome data in network meta-analysis: an empirical study.* [doi: 10.3205/18gmds042](https://www.egms.de/static/en/meetings/gmds2018/18gmds042.shtml) |
 |06/2018     | **Research Synthesis 2018 Conference in the University of Trier, Trier, Germany** | 
-|            | Spineli LM, Yepes-Nuñez J, Schünemann H. *A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor.* [Presentation](https://doi.org/10.23668/psycharchives.848) |
+|            | **Spineli LM**, Yepes-Nuñez J, Schünemann H. *A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor.* [Presentation](https://doi.org/10.23668/psycharchives.848) |
 |03/2018     | **64. Biometrisches Kolloquium 2018 (IBS-DR), Biometrie: gelebte Vielfalt 25.-28. März 2018 an der Goethe-Universität Frankfurt** | 
-|            | Spineli LM, Yepes-Nuñez J, Schünemann H. *A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor.* |
+|            | **Spineli LM**, Yepes-Nuñez J, Schünemann H. *A systematic survey shows that reporting and handling of missing outcome data in networks of interventions is poor.* |
 |11/2017     | **28th Congress of the German Society of Perinatal Medicine, Berlin, Germany** | 
-|            | Weckend MJ, Spineli LM, Grylka-Baeschlin S, Gross MM. *Association between increased antenatal vaginal pH and preterm birth rate: a systematic review.* |
+|            | Weckend MJ, **Spineli LM**, Grylka-Baeschlin S, Gross MM. *Association between increased antenatal vaginal pH and preterm birth rate: a systematic review.* |
 |09/2017     | **The Global Evidence Summit--Cochrane South Africa in Cape Town** | 
-|            | Spineli LM, Brignardello-Petersen R, Heen A, Achille F, Brandt L, Guyatt G, Vandvik P, Agoritsas T. *Obtaining absolute effect estimates to facilitate Shared Decision Making in the context of multiple treatment comparisons.* [Source](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD201702/full) |
+|            | **Spineli LM**, Brignardello-Petersen R, Heen A, Achille F, Brandt L, Guyatt G, Vandvik P, Agoritsas T. *Obtaining absolute effect estimates to facilitate Shared Decision Making in the context of multiple treatment comparisons.* [Source](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD201702/full) |
 |06/2017     | **31st ICM Triennial Congress in Toronto Canada** | 
-|            | Weckend MJ, Spineli LM, Grylka-Baeschlin S, Gross MM. *Effectiveness of self-diagnosed vaginal pH scores for the prevention of preterm birth: a systematic review.* |
+|            | Weckend MJ, **Spineli LM**, Grylka-Baeschlin S, Gross MM. *Effectiveness of self-diagnosed vaginal pH scores for the prevention of preterm birth: a systematic review.* |
 |08/2016     | **Health – Exploring Complexity (HEC) 2016 in Ludwig-Maximilians-Universität München, Munich, Germany** | 
-|            | Spineli LM, Fleming P, Pandis N. *Graphical exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis.* [doi: 10.1007/s10654-016-0183-1](https://link.springer.com/article/10.1007/s10654-016-0183-1) |
+|            | **Spineli LM**, Fleming P, Pandis N. *Graphical exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis.* [doi: 10.1007/s10654-016-0183-1](https://link.springer.com/article/10.1007/s10654-016-0183-1) |
 |06/2016     | **22. Jahrestagung der Deutschen Gesellschaft für Radioonkologie in Mannheimer Rosengarten** | 
-|            | Wichmann J, Spineli LM, Durisin M, Tavassol F, Christiansen H. *Use of a Simultaneous Integrated Boost (SIB) in the intensity modulated Radiotherapy (IMRT) of locally advanced Head and Neck Tumors-a retrospective Analysis of Effectiveness and Toxicity.* |
+|            | Wichmann J, **Spineli LM**, Durisin M, Tavassol F, Christiansen H. *Use of a Simultaneous Integrated Boost (SIB) in the intensity modulated Radiotherapy (IMRT) of locally advanced Head and Neck Tumors-a retrospective Analysis of Effectiveness and Toxicity.* |
 |03/2016     | **Fourth Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik "Statistics under one Umbrella", Göttingen** | 
-|            | Spineli LM, Pandis N. *Graphical complete exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis.* [Source](https://www.uni-goettingen.de/de/document/download/01092a25d20e1e638d494bec8dd7c82e.pdf/FINALBooklet2016.pdf) |
+|            | **Spineli LM**, Pandis N. *Graphical complete exploration of the impact of direct allocations of missing binary outcome data on classical and network meta-analysis.* [Source](https://www.uni-goettingen.de/de/document/download/01092a25d20e1e638d494bec8dd7c82e.pdf/FINALBooklet2016.pdf) |
 |03/2016     | **Fourth Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik "Statistics under one Umbrella", Göttingen** | 
-|            | Budde E, Spineli LM, Großhennig A, Koch A. *Principle considerations regarding the use of adaptive designs for trials in rare diseases and small populations .* (poster) [Source](https://www.uni-goettingen.de/de/document/download/01092a25d20e1e638d494bec8dd7c82e.pdf/FINALBooklet2016.pdf) |
+|            | Budde E, **Spineli LM**, Großhennig A, Koch A. *Principle considerations regarding the use of adaptive designs for trials in rare diseases and small populations .* (poster) [Source](https://www.uni-goettingen.de/de/document/download/01092a25d20e1e638d494bec8dd7c82e.pdf/FINALBooklet2016.pdf) |
 |01/2016     | **International Workshop on Humanized Mice** | 
-|            | Volk V, Schneider A, Spineli LM, Grosshennig A, Stripecke R. *Gender differences in human T cell reconstitution and maturation in humanized mice after cord blood stem cell transplantation.* |
+|            | Volk V, Schneider A, **Spineli LM**, Grosshennig A, Stripecke R. *Gender differences in human T cell reconstitution and maturation in humanized mice after cord blood stem cell transplantation.* |
 |11/2015     | **Seminar „Der p-Wert in der Lehre“ und „Gute Lehrbücher für das Fach der Biometrie/Biostatistik“ der Arbeitsgruppe (IBS / DR) vom 13. - 14.11.2015, Institut für Medizinische Biometrie und Informatik, Universität Heidelberg, Heidelberg** | 
-|            | Spineli LM, Framke T. *Critical appraisal of p-values and experiences from consulting.* |
+|            | **Spineli LM**, Framke T. *Critical appraisal of p-values and experiences from consulting.* |
 |09/2015     | **60. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e.V. (GMDS). Krefeld, 06.-09.09.2015** |
-|            | Budde E, Spineli LM, Großhennig A, Koch A. *Principle considerations regarding the use of adaptive designs for trials in rare diseases and small populations.* [doi: 10.3205/15gmds119](https://www.egms.de/static/en/meetings/gmds2015/15gmds119.shtml) |
+|            | Budde E, **Spineli LM**, Großhennig A, Koch A. *Principle considerations regarding the use of adaptive designs for trials in rare diseases and small populations.* [doi: 10.3205/15gmds119](https://www.egms.de/static/en/meetings/gmds2015/15gmds119.shtml) |
 |08/2015     | **36th Annual Conference of the International Society for Clinical Biostatistics, University of Utrecht, Utrecht, The Netherlands** | 
-|            | Spineli LM, Jenz E, Großhennig A, Koch A. *Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases.* |
+|            | **Spineli LM**, Jenz E, Großhennig A, Koch A. *Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases.* |
 |01/2015     | **4th ASTERIX research meeting, Symposium on Small Populations, Wyndham Apollo Hotel, Jan 25th-26th, 2015, Amsterdam, The Netherlands** | 
-|            | Spineli LM, Jenz E, Großhennig A, Koch A. *Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases.* |
+|            | **Spineli LM**, Jenz E, Großhennig A, Koch A. *Critical appraisal of designs proposed as alternative to the parallel randomized controlled design in the field of rare diseases.* |
 |07/2014     | **3rd ASTERIX research meeting, Symposium on Small Populations, Medizinische Universität Wien, July 2nd, 2014, Vienna, Austria** | 
 |            | Hannover ASTERIX team. *Heterogeneity in meta-analyses of clinical trials and stages of an adaptive design.* |
 |08/2013     | **23th Annual Conference of the International Society for Clinical Biostatistics, Ludwig-Maximilians-Universität, Munich, Germany** | 
-|            | Spineli LM, Higgins JP, Cipriani A, Leucht S, Salanti G. *Evaluating the impact of imputations for missing participant outcome data in network meta-analysis.* |
+|            | **Spineli LM**, Higgins JP, Cipriani A, Leucht S, Salanti G. *Evaluating the impact of imputations for missing participant outcome data in network meta-analysis.* |
 |12/2012     | **3rd Hellenic Conference of the Forum of Public Health and Social Statistics, Athens** | 
-|            | Spineli LM, Leucht S, Cipriani A, Higgins JP, Salanti G. *The Impact of Trial Characteristics on Premature Discontinuation of Antipsychotics in Schizophrenia.* |
+|            | **Spineli LM**, Leucht S, Cipriani A, Higgins JP, Salanti G. *The Impact of Trial Characteristics on Premature Discontinuation of Antipsychotics in Schizophrenia.* |
 
 ### Invited speaker
 |            |                                                                                              |
