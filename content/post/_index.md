@@ -4,5 +4,5 @@ header:
   caption: ""
   image: ""
 title: Post
-view: 4
+view: 0 #4
 ---
