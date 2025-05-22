@@ -1,6 +1,6 @@
 ---
 title: 'Contributing presentations'
-date: '2025-04-09T00:00:00'
+date: '2025-05-22T00:00:00'
 output: html_document
 ---
 
@@ -10,6 +10,8 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|05/2025     | **Schweizerischen Hebammenkongresses, Forum Fribourg, 15.-16.05.2025** | 
+|            | Thomas A, **Spineli LM**, Gross MM, Zinsser LA. *Midwives’ attitudes towards promoting physiological birth and their care practices around vaginal examination: A cross-sectional survey in German-speaking Switzerland.* (poster) [Poster award. Recipient: Anita Thomas (the presenter)]|
 |03/2025     | **26. Jahrestagung des Netzwerks Evidenzbasierte Medizin. Freiburg, 26.-28.03.2025** | 
 |            | **Spineli LM**. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) [doi: 10.3205/25ebm074](https://www.egms.de/static/en/meetings/ebm2025/25ebm074.shtml) |
 |11/2024     | **ISPOR Europe 2024 (The International Society for Pharmacoeconomics and Outcomes Research), 17-20/11/2024, Barcelona International Convention Centre, Barcelona** | 
