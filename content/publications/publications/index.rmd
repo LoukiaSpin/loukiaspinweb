@@ -13,7 +13,7 @@ output:
 <font size="4">**Spineli LM**, Papadimitropoulou K, Kalyvas C. Exploring the Transitivity Assumption in Network Meta-Analysis: A Novel Approach and Its Implications. Stat Med. 2025;44(7):e70068. doi: 10.1002/sim.7006.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40207662/)</font>
 
-<font size="4">Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. Statistical Heterogeneity in Oral Health Meta-Analyses. J Dent Res. 2025. doi: 10.1177/00220345251316279. Epub ahead of print.
+<font size="4">Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. Statistical Heterogeneity in Oral Health Meta-Analyses. J Dent Res. 2025; 104(5):481-488.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39962342/)</font>
 
 <font size="4">**Spineli LM**. An empirical study on 209 networks of treatments revealed intransitivity to be common and multiple statistical tests suboptimal to assess transitivity. BMC Med Res Methodol. 2024; 24(1):301.

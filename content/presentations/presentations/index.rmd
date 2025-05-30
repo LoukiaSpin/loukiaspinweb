@@ -10,6 +10,14 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|06/2025     | **GMDS/IBS-DR Workshop on Computational Models in Biology and Medicine, 12-13/06/2025, Braunschweig [(source)](https://www.biometrische-gesellschaft.de/arbeitsgruppen/statistische-methoden-i-d-bioinformatik/workshop202)** | 
+|            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, **Spineli LM**, Zacharias HU. *Using grouping priors to enhance mixed graphical model (MGM) estimation in the presence of highly inter-correlated metabolite/lipoprotein data.* (poster)|
+|06/2025     | **100th Congress of the European Orthodontic Society, 2-6 June 2025, Krakow** | 
+|            | Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. *Statistical heterogeneity in oral health meta-analyses.* (poster)|
+|05/2025     | **23rd Nordic Midwifery Congress, 26-28/05/2025, Copenhagen** | 
+|            | Gehling H, **Spineli LM**, Edmonds JK, Zinsser LA, Gross MM. *Labour onset in primiparas – a prospective cohort study.* |
+|05/2025     | **23rd Nordic Midwifery Congress, 26-28/05/2025, Copenhagen** | 
+|            | Celetta E, **Spineli LM**, Avignon V, Gehling H, Groß MM. *An exploratory review on the empirical evaluation of the quality of reporting and analyzing labor duration.* (poster)|
 |05/2025     | **Schweizerischen Hebammenkongresses, Forum Fribourg, 15.-16.05.2025** | 
 |            | Thomas A, **Spineli LM**, Gross MM, Zinsser LA. *Midwives’ attitudes towards promoting physiological birth and their care practices around vaginal examination: A cross-sectional survey in German-speaking Switzerland.* (poster) [Poster award. Recipient: Anita Thomas (the presenter)]|
 |03/2025     | **26. Jahrestagung des Netzwerks Evidenzbasierte Medizin. Freiburg, 26.-28.03.2025** | 
