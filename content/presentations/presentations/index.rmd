@@ -10,7 +10,7 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
-|06/2025     | **GMDS/IBS-DR Workshop on Computational Models in Biology and Medicine, 12-13/06/2025, Braunschweig [(source)](https://www.biometrische-gesellschaft.de/arbeitsgruppen/statistische-methoden-i-d-bioinformatik/workshop202)** | 
+|06/2025     | **GMDS/IBS-DR Workshop on Computational Models in Biology and Medicine, 12-13/06/2025, Braunschweig [(source)](https://www.biometrische-gesellschaft.de/arbeitsgruppen/statistische-methoden-i-d-bioinformatik/workshop2025.html)** | 
 |            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, **Spineli LM**, Zacharias HU. *Using grouping priors to enhance mixed graphical model (MGM) estimation in the presence of highly inter-correlated metabolite/lipoprotein data.* (poster)|
 |06/2025     | **100th Congress of the European Orthodontic Society, 2-6 June 2025, Krakow** | 
 |            | Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. *Statistical heterogeneity in oral health meta-analyses.* (poster)|
