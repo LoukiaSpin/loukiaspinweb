@@ -119,7 +119,7 @@ output:
 
 |                     |                                                                                  |
 |:--------------------|:---------------------------------------------------------------------------------|
-|June 2024            | **Teaching award in the category "Best module"** of 5,882.35 € (together with Professor Helena Zacharias) for the module _Einführung in die Datenanalyse_   |
+|June 2024            | **Teaching award in the category "Best module"** of 5,882.35 € (together with Professor Helena Zacharias) for the module _Einführung in die Datenanalyse_ |
 |                     | [Master in Biomedical Data Science](https://www.mhh.de/master-biomeddat) at Hannover Medical School |
 |June 2021            | **Individual research funding** of 292,450 € for three years                     |
 |                     | German Research Foundation                                                       |
@@ -135,9 +135,15 @@ output:
 |                     | Department of Statistics and Insurance Science                                   |
 |                     | University of Piraeus, Piraeus, Greece                                           |
 
-### SCIENTIFIC COMMITTEES/ MEMBERSHIPS
+### SCIENTIFIC COMMITTEES
 
+- <font size="4"> Admission Committee, Bachelor Hebammenwissenschaft, Hannover Medical School (since 2025) </font> 
+- <font size="4"> HAdmission Committee, Master Biomedizinische Datenwissenschaft, Hannover Medical School (since 2025) </font> 
 - <font size="4"> Habilitationsausschuss, Hannover Medical School (since 2024) </font> 
+
+### SCIENTIFIC MEMBERSHIPS
+
+- <font size="4"> Member of the Science of Birth Cluster (since 2025) </font>
 - <font size="4"> Author of the Cochrane Incontinence Group (since 2019) </font>
 - <font size="4"> International Society for Clinical Biostatisticians (since 2013) </font> 
 

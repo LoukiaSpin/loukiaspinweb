@@ -10,22 +10,22 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
-<font size="4">**Spineli LM**, Papadimitropoulou K, Kalyvas C. Exploring the Transitivity Assumption in Network Meta-Analysis: A Novel Approach and Its Implications. Stat Med. 2025; 44(7):e70068. doi: 10.1002/sim.7006.
+<font size="4">**Spineli LM**, Papadimitropoulou K, Kalyvas C. Exploring the Transitivity Assumption in Network Meta-Analysis: A Novel Approach and Its Implications. *Stat Med* 2025; 44(7):e70068. doi: 10.1002/sim.7006.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40207662/)</font>
 
-<font size="4">Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. Statistical Heterogeneity in Oral Health Meta-Analyses. J Dent Res. 2025; 104(5):481-488.
+<font size="4">Tatas Z, Kyriakou E, Seehra J, Pandis N, **Spineli LM**. Statistical Heterogeneity in Oral Health Meta-Analyses. *J Dent Res* 2025; 104(5):481-488.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39962342/)</font>
 
-<font size="4">**Spineli LM**. An empirical study on 209 networks of treatments revealed intransitivity to be common and multiple statistical tests suboptimal to assess transitivity. BMC Med Res Methodol. 2024; 24(1):301.
+<font size="4">**Spineli LM**. An empirical study on 209 networks of treatments revealed intransitivity to be common and multiple statistical tests suboptimal to assess transitivity. *BMC Med Res Methodol* 2024; 24(1):301.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39681853/)</font>
 
-<font size="4">**Spineli LM**. Local inconsistency detection using the Kullback-Leibler divergence measure. Syst Rev. 2024; 13(1):261.
+<font size="4">**Spineli LM**. Local inconsistency detection using the Kullback-Leibler divergence measure. *Syst Rev* 2024; 13(1):261.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39420381/)</font>
 
-<font size="4">Gehling H, **Spineli LM**, Gross MM. Investigating the associations between early labour onset symptoms and self-diagnosed labour onset in a cohort study of primiparas. Sex Reprod Healthc. 2024; 42:101033.
+<font size="4">Gehling H, **Spineli LM**, Gross MM. Investigating the associations between early labour onset symptoms and self-diagnosed labour onset in a cohort study of primiparas. *Sex Reprod Healthc* 2024; 42:101033.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39277946/)</font>
 
-<font size="4">Celetta E, **Spineli LM**, Avignon V, Gehling H, Gross MM. An exploratory review on the empirical evaluation of the quality of reporting and analyzing labor duration. Birth. 2024; 51(4):773-782. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38804004/)</font>
+<font size="4">Celetta E, **Spineli LM**, Avignon V, Gehling H, Gross MM. An exploratory review on the empirical evaluation of the quality of reporting and analyzing labor duration. *Birth* 2024; 51(4):773-782. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38804004/)</font>
 
 <font size="4">Mheissen S, **Spineli LM**, Daraqel B, Alsafadi AS. Language bias in orthodontic systematic reviews: A meta-epidemiological study. *PLoS One* 2024; 19(4):e0300881. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38557691/)</font>
 
@@ -171,6 +171,9 @@ output:
 
 <font size="4">**Spineli LM**, Pandis N. Meta-analysis: Fixed-effect model. *Am J Orthod Dentofacial Orthop* 2020; 157(1):134-137. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31901272/)</font> 
 
+<font size="4">Volk V, Schneider A, **Spineli LM**, Grosshennig A, Stripecke R. The gender gap: discrepant human T-cell reconstitution after cord blood stem cell transplantation in humanized female and male mice. *Bone Marrow Transplant* 2016; 51(4):596-7. 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/26595075/)</font> 
+
 <font size="4">Pandis N, **Spineli LM**. Die Netzwerk-Metaanalyse in der Kieferorthopädie: Die nächste Ebene der Evidenzsynthese? *Inf Orthod Kieferorthop* 2015; 47(1):57-59. [Thieme](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0035-1548755)</font> 
 
 <font size="4">Pandis N, Fleming PS, **Spineli LM**, Salanti G. Initial orthodontic alignment effectiveness with self-ligating and conventional appliances: a network meta-analysis in practice. *Am J Orthod Dentofacial Orthop* 2014; 145(4 Suppl):S152-63. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24680024/)</font> 
@@ -185,7 +188,7 @@ output:
 ### Published statistical packages
 
 <div style="text-align: justify">
-<font size="4">**Spineli LM**. tracenma: Database for Developing Transitivity Methodology in Network Meta-Analysis. R package version 0.1.0. 2024. https://CRAN.R-project.org/package=tracenma [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/tracenma</font> 
+<font size="4">**Spineli LM**. tracenma: Database for Developing Transitivity Methodology in Network Meta-Analysis. R package version 0.1.1. 2025. https://CRAN.R-project.org/package=tracenma [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/tracenma</font> 
 
 <font size="4">**Spineli LM**. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.4.0. 2024. https://CRAN.R-project.org/package=rnmamod [creator and maintainer]. GitHub development version in https://github.com/LoukiaSpin/rnmamod</font> 
 </div>
