@@ -138,7 +138,7 @@ output:
 ### SCIENTIFIC COMMITTEES
 
 - <font size="4"> Admission Committee, Bachelor Hebammenwissenschaft, Hannover Medical School (since 2025) </font> 
-- <font size="4"> HAdmission Committee, Master Biomedizinische Datenwissenschaft, Hannover Medical School (since 2025) </font> 
+- <font size="4"> Admission Committee, Master Biomedizinische Datenwissenschaft, Hannover Medical School (since 2025) </font> 
 - <font size="4"> Habilitationsausschuss, Hannover Medical School (since 2024) </font> 
 
 ### SCIENTIFIC MEMBERSHIPS
