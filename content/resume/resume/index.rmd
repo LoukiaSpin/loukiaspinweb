@@ -25,7 +25,7 @@ output:
 
 |                   |                                                                                  |
 |:------------------|:---------------------------------------------------------------------------------|
-|February 2022      | **Privatdozentin, Venia legendi für Evidenzsynthese im Gesundheitswesen**        |   
+|October 2021       | **Privatdozentin, Venia legendi für Evidenzsynthese im Gesundheitswesen**        |   
 |                   | Department of Obstetrics, Gynecology and Reproductive Medicine                   |         
 |                   | Hannover Medical School, Hannover, Germany                                       | 
 |                   | Antrittsvorlesung (in English): *Network meta-analysis: more than just an evidence synthesis tool* |
@@ -33,11 +33,11 @@ output:
 |                   | Department of Hygiene and Epidemiology, School of Medicine                       |
 |                   | University of Ioannina, Ioannina, Greece                                         |
 |                   | Thesis (in English): *Studies with missing values in network meta-analysis*      |  
-|March 2011         | **MSc in Applied Statistics with Specialization in Biostatistics and Biometry**  | 
+|September 2010     | **MSc in Applied Statistics with Specialization in Biostatistics and Biometry**  | 
 |                   | Department of Statistics and Insurance Science                                   | 
 |                   | University of Piraeus, Piraeus, Greece                                           |
 |                   | Thesis (in Greek): *Gene expression analysis for the study of the survival time of women with breast cancer* |
-|May 2008           | **BSc in Statistics and Insurance Science**                                      |
+|February 2008      | **BSc in Statistics and Insurance Science**                                      |
 |                   | Department of Statistics and Insurance Science                                   | 
 |                   | University of Piraeus, Piraeus, Greecε                                           |
 
