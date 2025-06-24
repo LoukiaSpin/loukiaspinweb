@@ -1,6 +1,6 @@
 ---
 title: 'Curriculum vitae'
-date: '2025-03-27T00:00:00'
+date: '2025-06-24T00:00:00'
 output: 
    blogdown::html_page
 ---
@@ -119,6 +119,8 @@ output:
 
 |                     |                                                                                  |
 |:--------------------|:---------------------------------------------------------------------------------|
+|June 2025            | **Teaching award in the category "Best module"** of 4,615.39 € (together with Professor Helena Zacharias) for the module _Einführung in die Datenanalyse_ |
+|                     | [Master in Biomedical Data Science](https://www.mhh.de/master-biomeddat) at Hannover Medical School |
 |June 2024            | **Teaching award in the category "Best module"** of 5,882.35 € (together with Professor Helena Zacharias) for the module _Einführung in die Datenanalyse_ |
 |                     | [Master in Biomedical Data Science](https://www.mhh.de/master-biomeddat) at Hannover Medical School |
 |June 2021            | **Individual research funding** of 292,450 € for three years                     |
