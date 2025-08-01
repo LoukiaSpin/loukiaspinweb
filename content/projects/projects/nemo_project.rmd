@@ -7,7 +7,13 @@ output:
 
 ### <ins>NE</ins>twork and pairwise meta-analysis with <ins>M</ins>issing <ins>O</ins>utcome data
 
-Under construction
+#### The problem with missing participant outcome data in evidence synthesis
+
+Missing (participant) outcome data are ubiquitous in systematic reviews. In the absence of individual participant outcome data, it is challenging to address missing outcome data in their aggregate format. Therefore, (aggregate) missing outcome data have preoccupied many researchers, leading to a rather abundant published literature on that special topic mainly in the pairwise meta-analysis framework. While the methodology already developed in pairwise meta-analysis can be elaborated further to operate in a network of interventions, addressing missing outcome data in network meta-analysis holds an additional degree of complexity. 
+
+#### A call for research attention to this topic
+
+The NEMO project was initiated in 2017 as a response to the scarce publication agenda on the methodology of missing outcome data in the network meta-analysis. For instance, there was no evidence on the prevalence, reporting and handling of missing outcome data in systematic reviews with network meta-analysis. Evidence on the performance of different methods to handle missing outcome data when conducting network meta-analysis was missing as well. The **first phase of the NEMO project** provided empirical evidence on the reporting and handling of missing outcome data in networks of interventions, followed by a thorough empirical and simulation evaluation of the performance of different models to handle missing binary outcome data (for being the most prevalent outcome in evidence synthesis) in network meta-analysis. The **second phase of the NEMO project** aimed to enrich and further advance the methodology for missing outcome data in systematic reviews. The research agenda included an extensive refinement of current modelling strategies for continuous missing outcome data that will offer, in addition, the possibility to learn about the missingness mechanisms in the collected trials. Furthermore, a user-appealing graphical approach was developed to visualise the sensitivity analysis results from making different plausible scenarios about the missingness mechanism based on the pattern-mixture model. A highlight of this work package was the development of a novel index to infer if the primary analysis results wedre robust to different scenarios about the informative missingness parameter. Lastly, all functions developed during the project were bundled into the rnmamod R-package that is published in CRAN. 
 
 ::: {style="padding: 10px; margin-bottom: 10px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 25px;"}
 **Presentations**
