@@ -49,6 +49,6 @@ bio: "My research interests include developing and evaluating methods for pairwi
   and [tracenma](https://cran.r-project.org/web/packages/tracenma/index.html)."
 ---
 
-This website hosts the NEMO and TRACE-NMA projects on network meta-analysis that I led as principal investigator, and related publications and conference presentations. You can also read my [resumé](/resume/resume/), and a [list of publications](/publications/publications/) and [contributing presentations](/presentations/presentations/) accumulated since my PhD studies.
+This website hosts the [NEMO](/projects/projects/nemo_project/) and [TRACE-NMA](/projects/projects/tracenma_project/) projects on network meta-analysis that I led as principal investigator, and related publications and conference presentations. You can also read my [resumé](/resume/resume/), and a [list of publications](/publications/publications/) and [contributing presentations](/presentations/presentations/) accumulated since my PhD studies.
 
 <!--- I plan to create posts related to my projects, the [rnmamod](https://cran.r-project.org/web/packages/rnmamod/index.html) and [tracenma](https://cran.r-project.org/web/packages/tracenma/index.html) R packages, which I author. Stay tuned! :smile: --->
