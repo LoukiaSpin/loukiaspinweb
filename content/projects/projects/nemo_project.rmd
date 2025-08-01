@@ -7,7 +7,6 @@ output:
 
 ### <ins>NE</ins>twork and pairwise meta-analysis with <ins>M</ins>issing <ins>O</ins>utcome data
 
-
 ::: {style="padding: 9px; margin-bottom: 9px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 28px;"}
 **Project description**
 :::
@@ -85,5 +84,5 @@ output:
 #### R package
 
 ::: {style="text-align: justify"}
-<font size="4">**Spineli LM**. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.5.0. 2025. <https://CRAN.R-project.org/package=rnmamod> [creator and maintainer]. GitHub development version in <https://github.com/LoukiaSpin/rnmamod></font>
+<font size="4">**Spineli LM**. Rnmamod: Bayesian Network Meta-Analysis with Missing Participants. R package version 0.5.0. 2025. <https://CRAN.R-project.org/package=rnmamod> [creator and maintainer]. GitHub development version in <https://github.com/LoukiaSpin/rnmamod>.</font>
 :::

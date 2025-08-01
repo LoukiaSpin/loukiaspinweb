@@ -7,4 +7,62 @@ output:
 
 ### <ins>TRA</ins>nsitivity and <ins>C</ins>onsistency <ins>E</ins>valuation in <ins>N</ins>etwork <ins>M</ins>eta-<ins>A</ins>nalysis
 
-Under construction
+::: {style="padding: 9px; margin-bottom: 9px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 28px;"}
+**Project description**
+:::
+
+#### The problem with the exchangeability assumption in evidence synthesis
+
+<div style="text-align: justify">
+<font size="4">The explosive rate of such published reviews with multiple interventions attests to the popularity of network meta-analysis in the broad medical community. Nevertheless, the quality of the conclusions delivered to the end-users strongly depends on whether the exchangeability assumption, underlying network meta-analysis, is valid. The exchangeability assumption refers to the similarity of the synthesised evidence, based on epidemiological and statistical grounds, and is broadly known as transitivity and consistency. There is a vast literature on the concepts and methods that relate to the transitivity and consistency assumptions. However, the findings of several empirical studies on the reporting and evaluation quality of these assumptions have been underwhelming. Furthermore, most of these empirical studies have focused mainly on networks of three interventions. Therefore, their findings cannot be generalised to reviews that include complex networks of interventions. Another major limitation of these studies is their undue reliance on the p-value to infer the similarity of the synthesised evidence.</font>  
+
+#### A call for research attention to this topic
+
+<div style="text-align: justify">
+<font size="4">Thorough improvement in the reporting and evaluation of the transitivity and consistency assumptions requires developing objective and validated methods to engage the authors of systematic reviews in that direction. The TRACE-NMA project was initiated in 2021 to promote the systematic evaluation of the transitivity and consistency assumptions while using proper methods to provide high-quality conclusions to the end-users. Initially, a systematic literature research was conducted to update the evidence on the reporting quality and evaluation of the transitivity assumption in complex networks with systematic reviews published between January 2011 and April 2015. Then, novel approaches were developed to judge the epidemiological and statistical similarity of the collated evidence objectively without undue reliance on statistical tests. Specifically, the agglomerative hierarchical clustering was proposed for the transitivity evaluation based on aggregate study-level characteristics that may act as important effect modifiers. The hierarchical clustering was grounded on the dissimilarities among all trial pairs in a connected network using Gower's dissimilarity coefficient. In the context of consistency evaluation, the Kullback-Leibler divergence between the direct and indirect estimates of target comparisons was proposed to judge the local inconsistency as potentially low or material, particularly when statistical tests for local inconsistency are not conclusive.</font> 
+
+<div style="text-align: justify">
+<font size="4"> The NEMO project was funded by the [German Research Foundation](https://gepris.dfg.de/gepris/projekt/462260733) from 01/01/2022 to 31/12/2024.</font> 
+
+::: {style="padding: 9px; margin-bottom: 9px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 29px;"}
+**Presentations**
+:::
+
+|  |  |
+|:----------------|:------------------------------------------------------|
+|03/2025     | **26. Jahrestagung des Netzwerks Evidenzbasierte Medizin. Freiburg, 26.-28.03.2025** | 
+|            | **Spineli LM**. *Local inconsistency detection using the Kullback-Leibler divergence measure.* (poster) [doi: 10.3205/25ebm074](https://www.egms.de/static/en/meetings/ebm2025/25ebm074.shtml) [Download poster](https://github.com/LoukiaSpin/loukiaspinweb/blob/main/content/projects/projects/tracenmapresentations/Kullback-Leibler Inconsistency_Poster EbM.pdf) |
+|09/2023     | **68. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS). Heilbronn, 17.-21.09.2023** | 
+|            | **Spineli LM**. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* [doi: 10.3205/23gmds078](https://www.egms.de/static/de/meetings/gmds2023/23gmds078.shtml) |
+|08/2023     | **44th Annual Conference of the International Society for Clinical Biostatistics (hybrid), 27-31/08/2023, Milan, Italy** | 
+|            | **Spineli LM**. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* |
+|03/2023     | **Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf), online, 27-31/03/23**    | 
+|            | **Spineli LM**, Kalyvas C, Papadimitropoulou K. *Teaser Tutorial on Evidence Synthesis using the ‘rnmamod’ R Package.* [YouTube video](https://www.youtube.com/watch?v=ZfrU3OpEE5A) |
+|08/2022     | **67. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS), 13. Jahreskongress der Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V. (TMF). Kiel, 21.-25.08.2022**| 
+|            | **Spineli LM**, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* [doi: 10.3205/22gmds077](https://www.egms.de/static/en/meetings/gmds2022/22gmds077.shtml) |
+|08/2022     | **43th Annual Conference of the International Society for Clinical Biostatistics (hybrid), Newcastle, UK** |
+|            | **Spineli LM**, Kalyvas C, Seide S, Papadimitropoulou K. *Evaluating the quality of reporting the transitivity assumption in complex networks of interventions.* (poster) |
+
+::: {style="padding: 9px; margin-bottom: 9px; color: black; background-color: #EBEBEB; border-color: #EBEBEB; font-size: 29px;"}
+**Publications**
+:::
+
+#### Original research
+
+::: {style="text-align: justify"}
+<font size="4">**Spineli LM**, García-Sierra AM, Yepes-Nuñez JJ. A database to initiate methodological advances in the evaluation of transitivity assumption in network meta-analysis: qualitative features and limitations of the tracenma R package. *BMC Med Res Methodol* 2025; 25(1):183. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40745268/)</font>
+
+<font size="4">**Spineli LM**, Papadimitropoulou K, Kalyvas C. Exploring the Transitivity Assumption in Network Meta-Analysis: A Novel Approach and Its Implications. *Stat Med* 2025; 44(7):e70068. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40207662/)</font>
+
+<font size="4">**Spineli LM**. An empirical study on 209 networks of treatments revealed intransitivity to be common and multiple statistical tests suboptimal to assess transitivity. *BMC Med Res Methodol* 2024; 24(1):301. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39681853/)</font>
+
+<font size="4">**Spineli LM**. Local inconsistency detection using the Kullback-Leibler divergence measure. *Syst Rev* 2024; 13(1):261. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39420381/)</font>
+
+<font size="4">**Spineli LM**, Kalyvas C, Yepes-Nuñez JJ, García-Sierra AM, Rivera-Pinzón DC, Seide SE, Papadimitropoulou K. Low awareness of the transitivity assumption in complex networks of interventions: a systematic survey from 721 network meta-analyses. *BMC Med* 2024; 22(1):112. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38475826/)</font>
+:::
+
+#### R package
+
+::: {style="text-align: justify"}
+<font size="4">**Spineli LM**. Tracenma: Database for Developing Transitivity Methodology in Network Meta-Analysis. R package version 0.1.1. 2025. <https://CRAN.R-project.org/package=tracenma> [creator and maintainer]. GitHub development version in <https://github.com/LoukiaSpin/tracenma>.</font>
+:::
