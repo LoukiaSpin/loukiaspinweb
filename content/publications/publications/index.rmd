@@ -10,6 +10,9 @@ output:
 ### Original articles 
 
 <div style="text-align: justify">
+<font size="4">**Spineli LM**, García-Sierra AM, Yepes-Nuñez JJ. A database to initiate methodological advances in the evaluation of transitivity assumption in network meta-analysis: qualitative features and limitations of the tracenma R package. *BMC Med Res Methodol* 2025; 25(1):183. doi: 10.1186/s12874-025-02634-x.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40745268/)</font>
+
 <font size="4">Bertl K, Isik A, Truong T, **Spineli LM**, Heimel P, Manschiebel W, Stavropoulos A. Efficacy of Air Powder Water-Jet Devices in Cleaning Implant Surfaces in a Non-Surgical Peri-Implantitis Treatment Simulation-A Laboratory Study. *Clin Oral Implants Res* 2025. doi: 10.1111/clr.14452.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40531059/)</font>
 
