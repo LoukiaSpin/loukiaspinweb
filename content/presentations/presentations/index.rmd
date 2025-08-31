@@ -1,6 +1,6 @@
 ---
 title: 'Contributing presentations'
-date: '2025-07-07T00:00:00'
+date: '2025-08-31T00:00:00'
 output: html_document
 ---
 
@@ -10,6 +10,14 @@ output: html_document
 
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
+|11/2025     | **2. TRAIN Omics Tage Niedersachsen 2025. Institut für Humangenetik, Universitätsmedizin Göttingen [(source)](https://www.humangenetik-umg.de/2-train-omics-tage-niedersachsen-2025-jetzt-anmelden/)** | 
+|            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, **Spineli LM**, Zacharias HU. *Using grouping priors to enhance mixed graphical model (MGM) estimation in the presence of highly inter-correlated metabolite/lipoprotein data.* (poster) |
+|10/2025     | **DGMet Annual Meeting 2025 in Hanover. Fraunhofer Institute for Toxicology and Experimental Medicine, Hannover, Germany [(source)](https://dgmet.de/event/save-the-date-dgmet-annual-meeting-2025-in-hanover/)** | 
+|            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, **Spineli LM**, Zacharias HU. *Using grouping priors to enhance mixed graphical model (MGM) estimation in the presence of highly inter-correlated metabolite/lipoprotein data.* (poster) |
+|09/2025     | **UK International Labour and Birth Research Conference, 15-17th September 2025, Ribby Hall Conference Centre, Lancashire, UK [(source)](https://www.lancashire.ac.uk/events/listing/labour-birth-conference)** | 
+|            | Gehling H, **Spineli LM**, Edmonds JK, Zinsser LA, Gross MM. *Restrictions on labour companions during the COVID-19 pandemic – a comparative analysis of maternal mental health outcomes.* |
+|08/2025     | **New Zealand College of Midwives 2025 Conference, 28-29 August 2025, Claudelands Kirikiriroa Hamilton, New Zealand [(source)](https://www.midwife-conference.org.nz/)** | 
+|            | Cronin RS, Hallet AC, Bradford BF, **Spineli LM**, Loughnan S, Flenady V, Gross MM. *The association of relational care with maternal mental health during the COVID-19 pandemic in Aotearoa New Zealand – findings from the COCOON global survey.* (poster)|
 |06/2025     | **GMDS/IBS-DR Workshop on Computational Models in Biology and Medicine, 12-13/06/2025, Braunschweig [(source)](https://www.biometrische-gesellschaft.de/arbeitsgruppen/statistische-methoden-i-d-bioinformatik/workshop2025.html)** | 
 |            | Beitlich JM, Kosch R, Altenbuchinger M, Marschollek M, **Spineli LM**, Zacharias HU. *Using grouping priors to enhance mixed graphical model (MGM) estimation in the presence of highly inter-correlated metabolite/lipoprotein data.* (poster)|
 |06/2025     | **100th Congress of the European Orthodontic Society, 2-6 June 2025, Krakow** | 
