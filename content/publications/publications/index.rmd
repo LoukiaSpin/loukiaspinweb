@@ -7,16 +7,19 @@ output:
 
 <p><img src="book-g939085abe_1920.jpg" alt="Alt text (no caption!)" title="Photo by user_id:1795490 on pixabay"></p>
 
-### Original articles 
+### Peer-reviewed articles 
 
 <div style="text-align: justify">
-<font size="4">**Spineli LM**, García-Sierra AM, Yepes-Nuñez JJ. A database to initiate methodological advances in the evaluation of transitivity assumption in network meta-analysis: qualitative features and limitations of the tracenma R package. *BMC Med Res Methodol* 2025; 25(1):183. doi: 10.1186/s12874-025-02634-x.
+<font size="4">**Spineli LM**. The AMSTAR 2 publication lacks explicit instructions on how to assess the appropriateness of statistical methods (item 11) and publication bias (item 15), and does not reflect advances in meta-analysis. *J Clin Epidemiol* 2025. doi: 10.1016/j.jclinepi.2025.111988. Epub ahead of print.. 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41005461/)</font>
+
+<font size="4">**Spineli LM**, García-Sierra AM, Yepes-Nuñez JJ. A database to initiate methodological advances in the evaluation of transitivity assumption in network meta-analysis: qualitative features and limitations of the tracenma R package. *BMC Med Res Methodol* 2025; 25(1):183. 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40745268/)</font>
 
-<font size="4">Bertl K, Isik A, Truong T, **Spineli LM**, Heimel P, Manschiebel W, Stavropoulos A. Efficacy of Air Powder Water-Jet Devices in Cleaning Implant Surfaces in a Non-Surgical Peri-Implantitis Treatment Simulation-A Laboratory Study. *Clin Oral Implants Res* 2025. doi: 10.1111/clr.14452.
+<font size="4">Bertl K, Isik A, Truong T, **Spineli LM**, Heimel P, Manschiebel W, Stavropoulos A. Efficacy of Air Powder Water-Jet Devices in Cleaning Implant Surfaces in a Non-Surgical Peri-Implantitis Treatment Simulation-A Laboratory Study. *Clin Oral Implants Res* 2025; 36(9):1075-1085.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40531059/)</font>
 
-<font size="4">Stavropoulos A, Al Said A, Mustafa O, **Spineli LM**, Heimel P, Bertl K. Factors Affecting the Efficacy of Airflowing in Cleaning Implant Surfaces in a Surgical Peri-Implantitis Treatment Simulation-A Laboratory Study. *Clin Oral Implants Res* 2025. doi: 10.1111/clr.14464.
+<font size="4">Stavropoulos A, Al Said A, Mustafa O, **Spineli LM**, Heimel P, Bertl K. Factors Affecting the Efficacy of Airflowing in Cleaning Implant Surfaces in a Surgical Peri-Implantitis Treatment Simulation-A Laboratory Study. *Clin Oral Implants Res* 2025; 36(9):1146-1158.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40545767/)</font>
 
 <font size="4">**Spineli LM**, Papadimitropoulou K, Kalyvas C. Exploring the Transitivity Assumption in Network Meta-Analysis: A Novel Approach and Its Implications. *Stat Med* 2025; 44(7):e70068. doi: 10.1002/sim.7006.
