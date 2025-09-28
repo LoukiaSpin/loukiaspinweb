@@ -10,7 +10,7 @@ output:
 ### Peer-reviewed articles 
 
 <div style="text-align: justify">
-<font size="4">**Spineli LM**. The AMSTAR 2 publication lacks explicit instructions on how to assess the appropriateness of statistical methods (item 11) and publication bias (item 15), and does not reflect advances in meta-analysis. *J Clin Epidemiol* 2025. doi: 10.1016/j.jclinepi.2025.111988. Epub ahead of print.. 
+<font size="4">**Spineli LM**. The AMSTAR 2 publication lacks explicit instructions on how to assess the appropriateness of statistical methods (item 11) and publication bias (item 15), and does not reflect advances in meta-analysis. *J Clin Epidemiol* 2025. doi: 10.1016/j.jclinepi.2025.111988. Epub ahead of print. 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41005461/)</font>
 
 <font size="4">**Spineli LM**, García-Sierra AM, Yepes-Nuñez JJ. A database to initiate methodological advances in the evaluation of transitivity assumption in network meta-analysis: qualitative features and limitations of the tracenma R package. *BMC Med Res Methodol* 2025; 25(1):183. 
