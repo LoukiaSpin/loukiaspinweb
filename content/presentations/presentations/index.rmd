@@ -54,7 +54,7 @@ output: html_document
 |            | **Spineli LM**. *Hierarchical clustering for the evaluation of transitivity assumption in a network of interventions.* |
 |06/2023     | **33rd International Confederation of Midwives, Triennial Congress, 11-14/06/2023, Bali, Indonesia** | 
 |            | Michel S, Oblasser C, **Spineli LM**, Gross MM. *Rate, reasons and risk factors of intrapartum transfer from an alongside midwifery-led unit.* |
-|05/2023     | **104. Deutscheρ Röntgenkongress in Wiesbaden (17.-19.05.2023)**    | 
+|04/2023     | **104. Deutscheρ Röntgenkongress in Wiesbaden (17.-19.05.2023)**    | 
 |            | Winther HB, Bronzlik P, Sobootian DJ, **Spineli LM**, Becker L, Marcel E, Bültmann E. *Automatisierte Kleinhirn-Volumetrie bei Kindern und Neugeborenen zur Etablierung von Referenzwerten.* [doi: 10.1055/s-0043-1763055](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0043-1763055) |
 |04/2023     | **International Normal Labour and Birth Research Conference (24-26/04/2023), Grange-over-Sands, Cumbria, UK**    |
 |            | Hallet AV, Oblasser C, **Spineli LM**, Gross MM. *Transition of care from midwifery care to early prevention services in Germany––a cross-sectional survey.* (poster) |
@@ -126,7 +126,7 @@ output: html_document
 ### Invited speaker
 |            |                                                                                              |
 |:-----------|:---------------------------------------------------------------------------------------------|
-|03/2019     | **Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany**| 
+|05/2019     | **Heidelberger Kolloquium, Institute of Medical Biometry and Informatics, University of Heidelberg, Germany**| 
 |            | Missing Outcome Data in Network Meta-analysis of Healthcare Interventions: a combination of a systematic overview, empirical and simulation study – The NEMO (NEtwork meta-analysis with Missing Outcome data) project. |
 |09/2017     | **Seminar, Department of Statistics and Insurance Science, University of Piraeus, Piraeus, Greece** | 
 |            | Introduction to the systematic reviews and statistical heterogeneity. |

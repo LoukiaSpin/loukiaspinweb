@@ -139,9 +139,9 @@ output:
 
 ### SCIENTIFIC COMMITTEES
 
-- <font size="4"> Admission Committee, Bachelor Hebammenwissenschaft, Hannover Medical School (since 2025) </font> 
+- <font size="4"> Study Committee, Bachelor Hebammenwissenschaft, Hannover Medical School (since 2025) </font> 
 - <font size="4"> Admission Committee, Master Biomedizinische Datenwissenschaft, Hannover Medical School (since 2025) </font> 
-- <font size="4"> Habilitationsausschuss, Hannover Medical School (since 2024) </font> 
+- <font size="4"> Habilitation Committee, Hannover Medical School (since 2024) </font> 
 
 ### SCIENTIFIC MEMBERSHIPS
 
@@ -151,6 +151,7 @@ output:
 
 ### JOURNAL EDITORIAL BOARD
 
+- <font size="4"> Progress in Orthodontics (since 2025) </font> 
 - <font size="4"> Journal of Dentistry (since 2021) </font> 
 
 ### JOURNAL PEER REVIEWING

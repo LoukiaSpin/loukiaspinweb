@@ -113,6 +113,9 @@ output:
 
 <font size="4">Sundarasetty B, Volk V, Theobald SJ, Rittinghausen S, Schaudien D, Neuhaus V, Figueiredo C, Schneider A, Gerasch L, Mucci A, Moritz T, von Kaisenberg C, **Spineli LM**, Sewald K, Braun A, Weigt H, Ganser A, Stripecke R. Human Effector Memory T Helper Cells Engage with Mouse Macrophages and Cause Graft-versus-Host-Like Pathology in Skin of Humanized Mice Used in a Nonclinical Immunization Study. *Am J Pathol* 2017; 187(6):1380-1398. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28432872/)</font>
 
+<font size="4">Volk V, Schneider A, **Spineli LM**, Grosshennig A, Stripecke R. The gender gap: discrepant human T-cell reconstitution after cord blood stem cell transplantation in humanized female and male mice. *Bone Marrow Transplant* 2016; 51(4):596-7. 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/26595075/)</font> 
+
 <font size="4">Paparoupa M, **Spineli L**, Framke T, Ho H, Schuppert F, Gillissen A. Pulmonary Embolism in Pneumonia: Still a Diagnostic Challenge? Results of a Case-Control Study in 100 Patients. *Dis Markers* 2016; 2016:8682506. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27313336/)</font>
 
 <font size="4">Dressler N, Chandra A, Aguirre Davila L, **Spineli LM**, Schippert C, von Versen-Höynck F. BMI and season are associated with vitamin D deficiency in women with impaired fertility: a two-centre analysis. *Arch Gynecol Obstet* 2016; 293(4):907-14. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26573012/)</font>
@@ -182,9 +185,6 @@ output:
 <font size="4">**Spineli LM**, Pandis N. Meta-analysis: Random-effects model. *Am J Orthod Dentofacial Orthop* 2020; 157(2):280-282. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32005481/)</font> 
 
 <font size="4">**Spineli LM**, Pandis N. Meta-analysis: Fixed-effect model. *Am J Orthod Dentofacial Orthop* 2020; 157(1):134-137. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31901272/)</font> 
-
-<font size="4">Volk V, Schneider A, **Spineli LM**, Grosshennig A, Stripecke R. The gender gap: discrepant human T-cell reconstitution after cord blood stem cell transplantation in humanized female and male mice. *Bone Marrow Transplant* 2016; 51(4):596-7. 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26595075/)</font> 
 
 <font size="4">Pandis N, **Spineli LM**. Die Netzwerk-Metaanalyse in der Kieferorthopädie: Die nächste Ebene der Evidenzsynthese? *Inf Orthod Kieferorthop* 2015; 47(1):57-59. [Thieme](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0035-1548755)</font> 
 
